@@ -239,10 +239,8 @@ def benchmark_csv_vs_parquet(csv_path: Path, parquet_path: Path) -> Dict:
         for c in subset_cols
     ]
 
-    # Прогрев движка PyArrow, чтобы холодный старт не искажал замер
     _ = pd.read_parquet(parquet_path, columns=["iso_code"])
 
-    # 1. Полное чтение всех колонок (без tracemalloc, чтобы не тормозить движки)
     t0 = time.perf_counter()
     df_csv = pd.read_csv(csv_path, low_memory=False)
     csv_full_time = time.perf_counter() - t0
@@ -257,7 +255,6 @@ def benchmark_csv_vs_parquet(csv_path: Path, parquet_path: Path) -> Dict:
     pq_rows = len(df_pq)
     del df_pq
 
-    # 2. Чтение 10 рабочих колонок (главное преимущество колоночного Parquet)
     t0 = time.perf_counter()
     _ = pd.read_csv(csv_path, usecols=csv_subset_cols, low_memory=False)
     csv_sub_time = time.perf_counter() - t0
