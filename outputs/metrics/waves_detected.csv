@@ -1,0 +1,790 @@
+iso_code,location,continent,wave_number,peak_date,peak_cases_pm_smoothed,prominence
+ABW,Aruba,North America,1,2021-08-17,1186.15,1107.29
+ABW,Aruba,North America,2,2022-01-11,7847.12,7847.12
+ABW,Aruba,North America,3,2022-06-18,1375.67,1375.67
+AFG,Afghanistan,Asia,1,2021-06-23,51.64,51.49
+AGO,Angola,Africa,1,2022-01-08,48.06,48.06
+AIA,Anguilla,North America,1,2021-05-01,603.54,603.54
+AIA,Anguilla,North America,2,2021-09-09,885.19,754.42
+AIA,Anguilla,North America,3,2021-11-24,1981.61,1810.61
+AIA,Anguilla,North America,4,2022-01-17,3339.57,3339.57
+AIA,Anguilla,North America,5,2022-04-02,673.95,583.42
+AIA,Anguilla,North America,6,2022-05-24,2202.91,2202.91
+AIA,Anguilla,North America,7,2022-08-20,1267.43,1267.43
+ALB,Albania,Europe,1,2020-12-14,282.62,128.48
+ALB,Albania,Europe,2,2021-02-13,393.21,392.3
+ALB,Albania,Europe,3,2021-09-16,312.83,215.22
+ALB,Albania,Europe,4,2022-01-24,781.68,781.68
+ALB,Albania,Europe,5,2022-07-22,464.15,454.3
+AND,Andorra,Europe,1,2020-10-28,1410.26,1378.0
+AND,Andorra,Europe,2,2021-12-08,2920.86,1261.53
+AND,Andorra,Europe,3,2022-01-26,7382.8,7382.8
+AND,Andorra,Europe,4,2022-05-19,1532.11,1532.11
+AND,Andorra,Europe,5,2022-07-07,1607.37,1607.37
+ARE,United Arab Emirates,Asia,1,2020-05-25,85.46,64.17
+ARE,United Arab Emirates,Asia,2,2021-01-31,366.62,366.54
+ARE,United Arab Emirates,Asia,3,2021-06-30,209.22,79.89
+ARE,United Arab Emirates,Asia,4,2022-01-21,292.18,286.69
+ARE,United Arab Emirates,Asia,5,2022-07-05,173.75,153.67
+ARG,Argentina,South America,1,2021-05-23,738.26,720.07
+ARG,Argentina,South America,2,2022-01-14,2455.74,2455.74
+ARM,Armenia,Asia,1,2020-06-29,225.08,178.37
+ARM,Armenia,Asia,2,2020-11-02,725.87,702.22
+ARM,Armenia,Asia,3,2021-03-28,327.48,282.9
+ARM,Armenia,Asia,4,2021-10-27,686.3,662.4
+ARM,Armenia,Asia,5,2022-02-07,1179.85,1179.85
+ASM,American Samoa,Oceania,1,2022-03-25,6362.33,6362.33
+ASM,American Samoa,Oceania,2,2022-07-17,2844.44,2844.44
+ATG,Antigua and Barbuda,North America,1,2021-02-23,287.71,287.71
+ATG,Antigua and Barbuda,North America,2,2021-10-01,932.38,929.3
+ATG,Antigua and Barbuda,North America,3,2022-01-29,1090.85,1090.85
+ATG,Antigua and Barbuda,North America,4,2022-06-02,416.96,413.88
+ATG,Antigua and Barbuda,North America,5,2022-08-25,150.78,143.09
+AUS,Australia,Oceania,1,2022-01-12,3210.42,3210.4
+AUS,Australia,Oceania,2,2022-04-06,2159.04,1284.47
+AUS,Australia,Oceania,3,2022-07-28,1743.55,1717.97
+AUS,Australia,Oceania,4,2022-12-15,610.75,449.25
+AUT,Austria,Europe,1,2020-11-14,792.16,782.24
+AUT,Austria,Europe,2,2021-11-24,1544.39,1314.19
+AUT,Austria,Europe,3,2022-03-19,5052.17,5052.06
+AUT,Austria,Europe,4,2022-07-22,1346.21,895.14
+AUT,Austria,Europe,5,2022-10-11,1542.28,1303.51
+AZE,Azerbaijan,Asia,1,2020-12-16,405.47,401.25
+AZE,Azerbaijan,Asia,2,2021-04-14,218.3,206.09
+AZE,Azerbaijan,Asia,3,2021-09-03,374.0,332.15
+AZE,Azerbaijan,Asia,4,2021-11-09,222.31,154.06
+AZE,Azerbaijan,Asia,5,2022-02-11,684.79,684.76
+BDI,Burundi,Africa,1,2021-09-16,23.24,22.82
+BDI,Burundi,Africa,2,2021-12-30,59.41,59.41
+BEL,Belgium,Europe,1,2020-10-30,1385.15,1355.96
+BEL,Belgium,Europe,2,2021-11-30,1545.48,1009.81
+BEL,Belgium,Europe,3,2022-01-27,4506.76,4504.87
+BEL,Belgium,Europe,4,2022-07-13,682.36,569.55
+BEN,Benin,Africa,1,2021-09-06,68.67,68.67
+BES,Bonaire Sint Eustatius and Saba,North America,1,2021-03-24,1565.48,1565.48
+BES,Bonaire Sint Eustatius and Saba,North America,2,2022-01-19,5190.0,5190.0
+BES,Bonaire Sint Eustatius and Saba,North America,3,2022-04-13,3460.0,3405.16
+BES,Bonaire Sint Eustatius and Saba,North America,4,2022-07-27,912.36,777.75
+BGD,Bangladesh,Asia,1,2020-07-02,22.49,20.39
+BGD,Bangladesh,Asia,2,2021-04-09,41.33,36.41
+BGD,Bangladesh,Asia,3,2021-08-03,85.47,85.45
+BGD,Bangladesh,Asia,4,2022-01-30,84.5,83.39
+BGR,Bulgaria,Europe,1,2020-11-25,486.85,424.9
+BGR,Bulgaria,Europe,2,2021-03-31,529.29,520.67
+BGR,Bulgaria,Europe,3,2021-11-03,689.86,490.09
+BGR,Bulgaria,Europe,4,2022-02-02,1294.05,1294.05
+BGR,Bulgaria,Europe,5,2022-08-03,247.06,225.05
+BHR,Bahrain,Asia,1,2021-05-30,1940.43,1927.57
+BHR,Bahrain,Asia,2,2022-02-08,4988.53,4986.86
+BHR,Bahrain,Asia,3,2022-06-28,1206.7,974.83
+BHS,Bahamas,North America,1,2020-10-22,309.04,300.78
+BHS,Bahamas,North America,2,2021-04-30,211.66,157.4
+BHS,Bahamas,North America,3,2021-08-13,341.38,325.93
+BHS,Bahamas,North America,4,2022-01-11,1249.82,1249.82
+BHS,Bahamas,North America,5,2022-06-04,180.03,172.85
+BHS,Bahamas,North America,6,2023-04-19,183.99,183.99
+BIH,Bosnia and Herzegovina,Europe,1,2020-11-07,503.26,422.45
+BIH,Bosnia and Herzegovina,Europe,2,2021-04-03,510.22,506.65
+BIH,Bosnia and Herzegovina,Europe,3,2021-11-10,257.78,127.84
+BIH,Bosnia and Herzegovina,Europe,4,2022-01-23,768.94,768.94
+BIH,Bosnia and Herzegovina,Europe,5,2022-08-12,127.62,122.81
+BLM,Saint Barthelemy,North America,1,2021-01-24,1983.4,1983.4
+BLM,Saint Barthelemy,North America,2,2021-04-03,1748.53,1748.53
+BLM,Saint Barthelemy,North America,3,2021-08-03,3523.15,3523.15
+BLM,Saint Barthelemy,North America,4,2022-01-18,6550.45,6550.45
+BLM,Saint Barthelemy,North America,5,2022-04-05,2427.06,2427.06
+BLM,Saint Barthelemy,North America,6,2022-07-19,1422.31,1422.31
+BLR,Belarus,Europe,1,2020-05-21,117.28,107.28
+BLR,Belarus,Europe,2,2020-12-16,209.57,139.21
+BLR,Belarus,Europe,3,2021-10-27,223.79,123.0
+BLR,Belarus,Europe,4,2022-02-15,861.37,861.36
+BLR,Belarus,Europe,5,2022-07-05,173.95,173.95
+BLZ,Belize,North America,1,2020-12-10,765.82,762.99
+BLZ,Belize,North America,2,2021-10-17,639.55,579.25
+BLZ,Belize,North America,3,2022-01-26,1872.88,1872.88
+BLZ,Belize,North America,4,2022-06-24,538.1,527.46
+BMU,Bermuda,North America,1,2021-04-13,1082.92,1082.92
+BMU,Bermuda,North America,2,2021-09-21,2112.91,2099.67
+BMU,Bermuda,North America,3,2022-01-12,3220.09,3220.09
+BMU,Bermuda,North America,4,2022-04-27,855.75,650.63
+BMU,Bermuda,North America,5,2022-06-24,1166.73,1166.73
+BMU,Bermuda,North America,6,2022-08-29,527.12,527.12
+BOL,Bolivia,South America,1,2020-07-24,140.96,133.46
+BOL,Bolivia,South America,2,2021-02-02,186.87,129.15
+BOL,Bolivia,South America,3,2021-06-13,234.61,215.15
+BOL,Bolivia,South America,4,2022-01-22,991.1,991.1
+BOL,Bolivia,South America,5,2022-07-30,485.71,482.11
+BOL,Bolivia,South America,6,2022-12-25,226.6,224.9
+BRA,Brazil,South America,1,2020-07-31,220.6,142.8
+BRA,Brazil,South America,2,2021-06-25,367.69,355.2
+BRA,Brazil,South America,3,2021-09-24,197.75,126.18
+BRA,Brazil,South America,4,2022-02-05,901.19,901.19
+BRA,Brazil,South America,5,2022-07-19,289.79,230.67
+BRA,Brazil,South America,6,2022-12-22,243.18,225.31
+BRB,Barbados,North America,1,2021-02-19,380.01,377.99
+BRB,Barbados,North America,2,2021-10-25,1474.5,1294.86
+BRB,Barbados,North America,3,2022-01-27,2514.34,2514.34
+BRB,Barbados,North America,4,2022-05-07,1719.4,1380.38
+BRB,Barbados,North America,5,2022-08-12,1775.57,1455.77
+BRB,Barbados,North America,6,2022-11-30,440.73,440.73
+BRN,Brunei,Asia,1,2022-03-07,9252.05,9252.05
+BRN,Brunei,Asia,2,2022-08-01,5605.44,5605.44
+BRN,Brunei,Asia,3,2022-10-17,1826.76,1826.76
+BRN,Brunei,Asia,4,2023-05-11,2152.39,2152.39
+BTN,Bhutan,Asia,1,2022-04-14,2198.32,2198.32
+BWA,Botswana,Africa,1,2021-08-04,930.02,907.01
+BWA,Botswana,Africa,2,2021-11-03,371.27,309.56
+BWA,Botswana,Africa,3,2021-12-29,615.66,496.39
+BWA,Botswana,Africa,4,2022-02-24,2480.73,2480.73
+BWA,Botswana,Africa,5,2022-06-08,402.77,402.77
+CAF,Central African Republic,Africa,1,2020-06-30,27.32,27.32
+CAF,Central African Republic,Africa,2,2021-04-20,39.06,39.06
+CAF,Central African Republic,Africa,3,2022-01-13,24.07,24.04
+CAN,Canada,North America,1,2021-01-12,212.77,139.96
+CAN,Canada,North America,2,2021-04-19,224.89,215.08
+CAN,Canada,North America,3,2022-01-08,1086.81,1086.79
+CAN,Canada,North America,4,2022-04-13,287.01,149.61
+CHE,Switzerland,Europe,1,2020-11-03,913.33,901.6
+CHE,Switzerland,Europe,2,2022-01-28,4080.88,4078.98
+CHE,Switzerland,Europe,3,2022-03-16,3216.92,1596.84
+CHE,Switzerland,Europe,4,2022-07-11,901.61,794.31
+CHL,Chile,South America,1,2020-06-18,527.01,505.47
+CHL,Chile,South America,2,2021-04-15,374.4,305.97
+CHL,Chile,South America,3,2022-02-14,1823.57,1822.73
+CHL,Chile,South America,4,2022-06-18,539.47,435.96
+CHL,Chile,South America,5,2022-11-11,360.64,230.98
+CHN,China,Asia,1,2022-12-26,4127.29,4127.25
+CMR,Cameroon,Africa,1,2021-03-21,44.88,44.88
+CMR,Cameroon,Africa,2,2021-09-26,21.3,21.3
+COG,Congo,Africa,1,2020-09-05,21.02,21.02
+COG,Congo,Africa,2,2021-10-27,21.66,21.66
+COG,Congo,Africa,3,2022-01-05,32.17,32.17
+COK,Cook Islands,Oceania,1,2022-04-12,10249.06,10249.06
+COK,Cook Islands,Oceania,2,2022-08-02,2421.8,2421.8
+COK,Cook Islands,Oceania,3,2022-12-25,2286.18,2286.18
+COL,Colombia,South America,1,2020-08-18,223.24,107.29
+COL,Colombia,South America,2,2021-01-22,345.14,282.26
+COL,Colombia,South America,3,2021-06-30,604.11,604.11
+COL,Colombia,South America,4,2022-01-20,596.62,571.51
+COM,Comoros,Africa,1,2021-01-23,118.34,117.82
+COM,Comoros,Africa,2,2022-01-05,212.35,212.35
+COM,Comoros,Africa,3,2022-10-20,28.43,28.43
+CPV,Cape Verde,Africa,1,2021-05-01,576.65,569.5
+CPV,Cape Verde,Africa,2,2022-01-10,2044.66,2044.66
+CPV,Cape Verde,Africa,3,2022-06-25,441.97,439.77
+CRI,Costa Rica,North America,1,2020-09-26,242.91,178.28
+CRI,Costa Rica,North America,2,2021-05-17,506.6,492.01
+CRI,Costa Rica,North America,3,2021-09-13,496.65,279.15
+CRI,Costa Rica,North America,4,2022-02-05,1140.52,1140.52
+CRI,Costa Rica,North America,5,2022-06-08,810.57,788.45
+CRI,Costa Rica,North America,6,2022-08-06,824.24,824.24
+CRI,Costa Rica,North America,7,2022-12-29,290.82,290.82
+CRI,Costa Rica,North America,8,2023-03-03,299.95,299.95
+CUB,Cuba,North America,1,2021-08-25,851.43,851.43
+CUB,Cuba,North America,2,2022-01-25,338.76,332.85
+CUW,Curacao,North America,1,2020-12-09,612.74,595.01
+CUW,Curacao,North America,2,2021-04-13,1943.04,1942.27
+CUW,Curacao,North America,3,2022-01-14,4713.86,4713.86
+CYM,Cayman Islands,North America,1,2021-11-21,4199.33,4019.79
+CYM,Cayman Islands,North America,2,2022-02-18,5573.84,5573.84
+CYM,Cayman Islands,North America,3,2022-04-09,1027.39,1027.39
+CYM,Cayman Islands,North America,4,2022-06-04,2810.86,2810.86
+CYM,Cayman Islands,North America,5,2022-07-20,1631.86,1631.86
+CYP,Cyprus,Europe,1,2021-04-25,937.16,878.98
+CYP,Cyprus,Europe,2,2021-07-20,1085.89,977.72
+CYP,Cyprus,Europe,3,2022-01-11,3958.45,1952.41
+CYP,Cyprus,Europe,4,2022-03-31,5219.49,5219.49
+CYP,Cyprus,Europe,5,2022-07-18,2337.36,2121.49
+CZE,Czechia,Europe,1,2020-10-28,1211.06,866.17
+CZE,Czechia,Europe,2,2021-01-10,1232.97,1223.18
+CZE,Czechia,Europe,3,2021-03-05,1170.39,530.9
+CZE,Czechia,Europe,4,2021-11-26,1814.02,1356.06
+CZE,Czechia,Europe,5,2022-02-02,4243.61,4242.98
+DEU,Germany,Europe,1,2021-12-01,685.26,355.95
+DEU,Germany,Europe,2,2022-03-30,2699.42,2699.19
+DEU,Germany,Europe,3,2022-07-20,1147.0,829.03
+DEU,Germany,Europe,4,2022-10-19,1095.79,753.02
+DJI,Djibouti,Africa,1,2020-06-03,164.7,164.58
+DJI,Djibouti,Africa,2,2020-08-08,32.29,27.89
+DJI,Djibouti,Africa,3,2021-04-05,167.72,167.72
+DJI,Djibouti,Africa,4,2021-10-02,70.23,69.85
+DJI,Djibouti,Africa,5,2022-01-15,96.23,96.11
+DMA,Dominica,North America,1,2021-08-21,1596.4,1596.4
+DMA,Dominica,North America,2,2021-10-07,1053.58,713.78
+DMA,Dominica,North America,3,2021-11-22,1455.35,1455.35
+DMA,Dominica,North America,4,2022-02-12,2733.32,2733.32
+DMA,Dominica,North America,5,2022-05-26,2282.4,2267.44
+DMA,Dominica,North America,6,2022-10-02,1912.68,1912.68
+DNK,Denmark,Europe,1,2022-02-14,7849.82,7849.75
+DOM,Dominican Republic,North America,1,2020-08-01,134.48,103.03
+DOM,Dominican Republic,North America,2,2021-01-22,155.0,140.0
+DOM,Dominican Republic,North America,3,2021-06-03,119.71,92.39
+DOM,Dominican Republic,North America,4,2021-11-17,101.25,81.38
+DOM,Dominican Republic,North America,5,2022-01-15,567.91,567.91
+DOM,Dominican Republic,North America,6,2022-07-10,105.11,102.35
+DZA,Algeria,Africa,1,2020-11-27,23.43,21.29
+DZA,Algeria,Africa,2,2021-07-31,33.38,31.7
+DZA,Algeria,Africa,3,2022-01-29,47.88,47.88
+ECU,Ecuador,South America,1,2020-04-25,114.36,98.15
+ECU,Ecuador,South America,2,2021-05-05,127.54,121.92
+ECU,Ecuador,South America,3,2022-01-22,516.01,516.01
+ECU,Ecuador,South America,4,2022-07-28,155.14,146.69
+ECU,Ecuador,South America,5,2022-12-31,76.21,75.14
+EGY,Egypt,Africa,1,2022-02-08,20.31,20.31
+ERI,Eritrea,Africa,1,2021-06-11,24.47,24.47
+ERI,Eritrea,Africa,2,2022-01-18,24.43,24.18
+ESP,Spain,Europe,1,2021-01-27,730.79,699.98
+ESP,Spain,Europe,2,2021-07-28,554.7,484.21
+ESP,Spain,Europe,3,2022-01-19,2856.96,2856.57
+EST,Estonia,Europe,1,2021-03-24,1090.82,1073.37
+EST,Estonia,Europe,2,2021-11-03,1277.05,1258.75
+EST,Estonia,Europe,3,2022-02-09,5082.3,5082.19
+ETH,Ethiopia,Africa,1,2022-01-01,33.73,33.73
+FIN,Finland,Europe,1,2022-01-02,1576.19,1572.34
+FIN,Finland,Europe,2,2022-03-14,1400.54,264.41
+FIN,Finland,Europe,3,2022-07-14,470.36,207.52
+FIN,Finland,Europe,4,2022-10-03,359.42,208.72
+FJI,Fiji,Oceania,1,2021-07-21,1208.36,1208.36
+FJI,Fiji,Oceania,2,2022-01-11,467.68,463.02
+FLK,Falkland Islands,South America,1,2022-05-16,29831.34,29831.34
+FRA,France,Europe,1,2020-11-04,739.0,715.24
+FRA,France,Europe,2,2022-01-26,5371.9,5371.9
+FRA,France,Europe,3,2022-04-06,2132.18,1358.12
+FRA,France,Europe,4,2022-07-13,2009.08,1757.15
+FRA,France,Europe,5,2022-12-14,954.97,718.11
+FRO,Faroe Islands,Europe,1,2022-02-06,13146.59,13146.59
+FSM,Micronesia (country),Oceania,1,2022-07-31,6509.49,6509.49
+FSM,Micronesia (country),Oceania,2,2022-10-06,10209.54,10209.54
+FSM,Micronesia (country),Oceania,3,2023-01-11,1569.72,1569.72
+FSM,Micronesia (country),Oceania,4,2023-03-16,1358.21,1358.21
+GAB,Gabon,Africa,1,2020-06-21,56.71,55.89
+GAB,Gabon,Africa,2,2021-04-01,86.51,86.51
+GAB,Gabon,Africa,3,2021-10-06,121.6,119.01
+GAB,Gabon,Africa,4,2021-12-29,178.31,178.31
+GBR,United Kingdom,Europe,1,2021-01-06,917.0,888.14
+GBR,United Kingdom,Europe,2,2022-01-06,3148.91,3144.47
+GBR,United Kingdom,Europe,3,2022-03-26,1276.52,783.64
+GEO,Georgia,Asia,1,2020-12-10,1178.95,1112.77
+GEO,Georgia,Asia,2,2021-08-18,1324.3,915.58
+GEO,Georgia,Asia,3,2021-11-09,1284.7,786.68
+GEO,Georgia,Asia,4,2022-02-06,5715.74,5715.67
+GEO,Georgia,Asia,5,2022-09-07,942.05,942.05
+GGY,Guernsey,Europe,1,2022-01-04,4493.0,3827.45
+GGY,Guernsey,Europe,2,2022-03-26,6579.27,6579.27
+GGY,Guernsey,Europe,3,2022-07-08,2234.17,1956.3
+GHA,Ghana,Africa,1,2020-07-07,22.97,22.1
+GHA,Ghana,Africa,2,2021-02-01,25.03,24.59
+GHA,Ghana,Africa,3,2021-08-08,24.38,23.56
+GHA,Ghana,Africa,4,2021-12-30,37.13,37.13
+GIB,Gibraltar,Europe,1,2021-01-09,3371.08,3371.08
+GIB,Gibraltar,Europe,2,2021-07-23,827.59,702.31
+GIB,Gibraltar,Europe,3,2021-11-18,1765.26,1237.58
+GIB,Gibraltar,Europe,4,2022-01-10,4062.0,4062.0
+GIB,Gibraltar,Europe,5,2022-03-01,2106.93,554.25
+GIB,Gibraltar,Europe,6,2022-04-23,1696.93,1696.93
+GIB,Gibraltar,Europe,7,2022-07-04,1241.38,1241.38
+GIN,Guinea,Africa,1,2022-01-06,21.22,21.22
+GLP,Guadeloupe,North America,1,2021-08-18,3160.89,3160.89
+GLP,Guadeloupe,North America,2,2022-02-02,8139.51,8139.51
+GMB,Gambia,Africa,1,2020-08-19,46.54,46.33
+GMB,Gambia,Africa,2,2021-08-01,52.18,52.18
+GMB,Gambia,Africa,3,2022-01-07,43.84,43.78
+GNB,Guinea-Bissau,Africa,1,2020-05-13,36.91,36.91
+GNB,Guinea-Bissau,Africa,2,2021-08-18,27.41,27.34
+GNB,Guinea-Bissau,Africa,3,2022-01-23,29.17,29.17
+GNB,Guinea-Bissau,Africa,4,2022-09-01,20.69,20.69
+GNQ,Equatorial Guinea,Africa,1,2020-06-28,54.1,54.1
+GNQ,Equatorial Guinea,Africa,2,2021-03-03,28.36,28.36
+GNQ,Equatorial Guinea,Africa,3,2021-05-24,61.94,60.83
+GNQ,Equatorial Guinea,Africa,4,2021-09-14,67.57,67.57
+GNQ,Equatorial Guinea,Africa,5,2022-01-13,114.3,114.3
+GNQ,Equatorial Guinea,Africa,6,2022-07-10,27.96,27.96
+GRC,Greece,Europe,1,2022-01-12,3310.88,3285.49
+GRC,Greece,Europe,2,2022-03-23,2086.93,664.68
+GRC,Greece,Europe,3,2022-07-13,1698.59,1354.42
+GRD,Grenada,North America,1,2021-09-21,2065.98,2063.54
+GRD,Grenada,North America,2,2022-01-17,2482.6,2482.6
+GRD,Grenada,North America,3,2022-03-21,300.55,300.55
+GRD,Grenada,North America,4,2022-05-11,1313.38,1313.38
+GRD,Grenada,North America,5,2022-08-22,324.99,324.99
+GRL,Greenland,North America,1,2022-01-14,9382.86,9382.86
+GTM,Guatemala,North America,1,2020-07-26,85.51,68.75
+GTM,Guatemala,North America,2,2021-08-26,223.16,211.67
+GTM,Guatemala,North America,3,2022-02-13,195.01,176.84
+GTM,Guatemala,North America,4,2022-07-17,306.07,306.07
+GTM,Guatemala,North America,5,2022-12-18,109.31,93.18
+GUF,French Guiana,South America,1,2020-07-05,695.32,695.32
+GUF,French Guiana,South America,2,2021-10-05,920.87,817.92
+GUF,French Guiana,South America,3,2022-01-12,5702.91,5702.91
+GUF,French Guiana,South America,4,2022-07-29,792.06,792.06
+GUM,Guam,Oceania,1,2020-11-16,740.26,731.61
+GUM,Guam,Oceania,2,2021-09-12,907.16,894.19
+GUM,Guam,Oceania,3,2022-02-13,5104.85,5104.85
+GUM,Guam,Oceania,4,2022-08-12,908.89,908.89
+GUY,Guyana,South America,1,2021-09-24,287.58,248.46
+GUY,Guyana,South America,2,2022-01-20,1247.16,1247.16
+HND,Honduras,North America,1,2020-07-23,85.18,60.43
+HND,Honduras,North America,2,2020-10-23,76.73,45.99
+HND,Honduras,North America,3,2020-12-13,51.17,20.63
+HND,Honduras,North America,4,2021-02-06,98.75,61.2
+HND,Honduras,North America,5,2021-05-06,102.08,48.66
+HND,Honduras,North America,6,2021-08-20,156.09,156.09
+HND,Honduras,North America,7,2021-10-18,42.99,19.03
+HND,Honduras,North America,8,2022-02-09,127.23,124.66
+HND,Honduras,North America,9,2022-03-26,46.69,32.83
+HND,Honduras,North America,10,2022-08-05,83.31,83.31
+HND,Honduras,North America,11,2022-12-16,41.87,41.87
+HRV,Croatia,Europe,1,2020-12-14,933.59,916.15
+HRV,Croatia,Europe,2,2021-04-22,564.92,486.05
+HRV,Croatia,Europe,3,2021-11-12,1414.85,842.73
+HRV,Croatia,Europe,4,2022-01-27,2280.39,2280.36
+HRV,Croatia,Europe,5,2022-07-27,351.6,293.9
+HUN,Hungary,Europe,1,2020-12-03,587.06,474.94
+HUN,Hungary,Europe,2,2021-03-26,955.49,952.39
+HUN,Hungary,Europe,3,2021-11-29,1047.66,815.69
+HUN,Hungary,Europe,4,2022-01-31,1652.45,1652.45
+HUN,Hungary,Europe,5,2022-08-06,322.17,321.85
+IDN,Indonesia,Asia,1,2021-02-01,46.14,33.52
+IDN,Indonesia,Asia,2,2021-07-18,179.46,178.84
+IDN,Indonesia,Asia,3,2022-02-20,199.67,199.67
+IMN,Isle of Man,Europe,1,2021-03-14,943.92,943.92
+IMN,Isle of Man,Europe,2,2021-07-24,2981.14,2748.56
+IMN,Isle of Man,Europe,3,2022-01-06,5366.4,5366.4
+IMN,Isle of Man,Europe,4,2022-03-25,3262.96,2884.37
+IMN,Isle of Man,Europe,5,2022-07-01,4485.29,4485.29
+IND,India,Asia,1,2020-09-17,65.38,57.56
+IND,India,Asia,2,2021-05-09,274.5,274.49
+IND,India,Asia,3,2022-01-26,218.87,214.21
+IRL,Ireland,Europe,1,2021-01-12,1278.33,1218.28
+IRL,Ireland,Europe,2,2022-01-14,4399.12,4395.6
+IRL,Ireland,Europe,3,2022-03-30,1473.3,869.94
+IRN,Iran,Asia,1,2020-12-02,152.25,85.64
+IRN,Iran,Asia,2,2021-04-21,269.22,181.03
+IRN,Iran,Asia,3,2021-08-18,444.52,443.62
+IRN,Iran,Asia,4,2022-02-10,399.77,385.27
+IRN,Iran,Asia,5,2022-07-29,102.76,101.4
+IRQ,Iraq,Asia,1,2020-09-10,102.23,85.69
+IRQ,Iraq,Asia,2,2021-04-25,176.02,98.3
+IRQ,Iraq,Asia,3,2021-08-03,271.96,271.92
+IRQ,Iraq,Asia,4,2022-02-03,165.26,160.15
+IRQ,Iraq,Asia,5,2022-07-11,94.7,93.3
+ISL,Iceland,Europe,1,2022-03-16,7376.32,7375.94
+ISL,Iceland,Europe,2,2022-07-09,1200.34,1030.96
+ISR,Israel,Asia,1,2021-09-04,1070.7,1024.06
+ISR,Israel,Asia,2,2022-01-26,8307.44,8307.37
+ITA,Italy,Europe,1,2020-11-17,588.28,577.55
+ITA,Italy,Europe,2,2022-01-15,3049.72,3041.77
+ITA,Italy,Europe,3,2022-03-25,1215.49,603.17
+ITA,Italy,Europe,4,2022-07-15,1750.08,1480.46
+ITA,Italy,Europe,5,2022-10-14,712.35,453.86
+JAM,Jamaica,North America,1,2021-03-22,243.48,231.56
+JAM,Jamaica,North America,2,2021-09-09,252.29,239.56
+JAM,Jamaica,North America,3,2022-01-18,502.16,502.16
+JAM,Jamaica,North America,4,2022-05-25,121.87,116.48
+JEY,Jersey,Europe,1,2020-12-21,836.5,836.5
+JEY,Jersey,Europe,2,2021-07-21,2568.84,2421.14
+JEY,Jersey,Europe,3,2022-01-11,4985.84,4985.84
+JEY,Jersey,Europe,4,2022-03-16,3104.42,1200.91
+JEY,Jersey,Europe,5,2022-07-08,2295.53,2080.2
+JEY,Jersey,Europe,6,2022-12-23,1134.65,941.4
+JOR,Jordan,Asia,1,2020-11-23,504.49,432.08
+JOR,Jordan,Asia,2,2021-03-22,741.2,701.56
+JOR,Jordan,Asia,3,2021-12-11,444.23,288.72
+JOR,Jordan,Asia,4,2022-02-15,1760.8,1760.8
+JPN,Japan,Asia,1,2022-02-09,756.3,651.74
+JPN,Japan,Asia,2,2022-08-25,1822.73,1822.61
+JPN,Japan,Asia,3,2023-01-12,1456.94,1218.6
+KAZ,Kazakhstan,Asia,1,2020-08-08,139.56,128.63
+KAZ,Kazakhstan,Asia,2,2021-04-25,142.53,88.58
+KAZ,Kazakhstan,Asia,3,2021-08-13,400.33,378.16
+KAZ,Kazakhstan,Asia,4,2022-01-23,693.5,693.5
+KAZ,Kazakhstan,Asia,5,2022-08-02,137.9,137.41
+KEN,Kenya,Africa,1,2020-11-16,20.43,18.38
+KEN,Kenya,Africa,2,2021-03-31,24.96,24.33
+KEN,Kenya,Africa,3,2021-08-18,24.06,19.22
+KEN,Kenya,Africa,4,2021-12-28,51.14,51.14
+KGZ,Kyrgyzstan,Asia,1,2021-07-07,207.93,207.93
+KGZ,Kyrgyzstan,Asia,2,2022-01-26,109.92,105.26
+KHM,Cambodia,Asia,1,2021-05-03,43.48,22.26
+KHM,Cambodia,Asia,2,2021-07-06,57.03,57.03
+KHM,Cambodia,Asia,3,2021-09-30,50.09,25.61
+KHM,Cambodia,Asia,4,2022-02-25,32.2,31.92
+KIR,Kiribati,Oceania,1,2022-02-09,1539.34,1539.34
+KIR,Kiribati,Oceania,2,2022-07-24,212.4,212.4
+KIR,Kiribati,Oceania,3,2023-01-12,1632.4,1632.4
+KNA,Saint Kitts and Nevis,North America,1,2021-06-19,489.11,449.37
+KNA,Saint Kitts and Nevis,North America,2,2021-10-11,1250.29,1235.01
+KNA,Saint Kitts and Nevis,North America,3,2022-01-09,3096.69,3096.69
+KNA,Saint Kitts and Nevis,North America,4,2022-07-04,641.96,641.96
+KOR,South Korea,Asia,1,2022-03-17,7821.16,7821.04
+KOR,South Korea,Asia,2,2022-08-23,2613.37,2477.39
+KOR,South Korea,Asia,3,2023-08-03,1796.33,1738.2
+KWT,Kuwait,Asia,1,2021-07-07,398.14,394.19
+KWT,Kuwait,Asia,2,2022-02-03,1367.06,1366.78
+LAO,Laos,Asia,1,2021-12-17,191.03,163.78
+LAO,Laos,Asia,2,2022-04-02,338.08,338.08
+LBN,Lebanon,Asia,1,2021-01-17,835.71,814.62
+LBN,Lebanon,Asia,2,2021-03-15,568.49,177.16
+LBN,Lebanon,Asia,3,2021-08-14,285.84,196.61
+LBN,Lebanon,Asia,4,2022-02-06,1437.48,1437.33
+LBN,Lebanon,Asia,5,2022-07-21,445.67,434.13
+LBR,Liberia,Africa,1,2021-07-04,30.36,30.36
+LBY,Libya,Africa,1,2020-10-27,143.85,117.75
+LBY,Libya,Africa,2,2021-03-20,132.46,86.58
+LBY,Libya,Africa,3,2021-08-02,395.26,333.64
+LBY,Libya,Africa,4,2022-02-05,520.76,520.76
+LCA,Saint Lucia,North America,1,2021-02-13,686.34,663.97
+LCA,Saint Lucia,North America,2,2021-09-09,830.17,794.21
+LCA,Saint Lucia,North America,3,2022-01-17,2298.73,2298.73
+LCA,Saint Lucia,North America,4,2022-06-02,595.26,573.68
+LCA,Saint Lucia,North America,5,2022-09-29,358.75,358.75
+LIE,Liechtenstein,Europe,1,2020-12-24,1042.25,1034.99
+LIE,Liechtenstein,Europe,2,2022-03-09,4543.04,4543.04
+LIE,Liechtenstein,Europe,3,2022-07-13,831.62,577.41
+LIE,Liechtenstein,Europe,4,2022-10-08,1147.56,976.88
+LKA,Sri Lanka,Asia,1,2021-02-14,39.45,31.4
+LKA,Sri Lanka,Asia,2,2021-05-25,138.76,84.41
+LKA,Sri Lanka,Asia,3,2021-08-30,261.04,261.04
+LKA,Sri Lanka,Asia,4,2022-02-11,61.95,41.33
+LSO,Lesotho,Africa,1,2021-01-12,209.78,209.78
+LSO,Lesotho,Africa,2,2021-08-02,45.18,43.62
+LSO,Lesotho,Africa,3,2021-09-28,93.61,93.42
+LSO,Lesotho,Africa,4,2021-12-25,181.22,181.22
+LSO,Lesotho,Africa,5,2023-09-22,84.11,84.11
+LTU,Lithuania,Europe,1,2020-12-24,1117.02,1106.48
+LTU,Lithuania,Europe,2,2021-11-01,1086.9,605.02
+LTU,Lithuania,Europe,3,2022-02-05,4508.87,4508.87
+LUX,Luxembourg,Europe,1,2020-12-09,794.41,771.89
+LUX,Luxembourg,Europe,2,2022-01-26,4026.28,4020.16
+LUX,Luxembourg,Europe,3,2022-03-30,2529.95,1603.47
+LUX,Luxembourg,Europe,4,2022-07-06,1714.33,1400.99
+LUX,Luxembourg,Europe,5,2022-10-12,952.94,724.22
+LVA,Latvia,Europe,1,2021-10-27,1287.8,961.84
+LVA,Latvia,Europe,2,2022-02-16,5203.53,5203.53
+LVA,Latvia,Europe,3,2022-08-10,739.17,661.25
+MAF,Saint Martin (French part),North America,1,2022-01-18,11344.93,11344.93
+MAR,Morocco,Africa,1,2020-11-18,139.45,135.32
+MAR,Morocco,Africa,2,2021-08-11,261.84,261.84
+MAR,Morocco,Africa,3,2022-01-21,199.4,196.82
+MAR,Morocco,Africa,4,2022-07-03,80.84,80.07
+MCO,Monaco,Europe,1,2021-02-04,608.84,597.84
+MCO,Monaco,Europe,2,2021-07-27,473.13,443.79
+MCO,Monaco,Europe,3,2022-01-21,3609.02,3609.02
+MCO,Monaco,Europe,4,2022-03-22,1569.78,953.6
+MCO,Monaco,Europe,5,2022-07-05,1346.05,1118.65
+MCO,Monaco,Europe,6,2022-12-06,795.89,689.53
+MDA,Moldova,Europe,1,2020-12-12,490.37,347.56
+MDA,Moldova,Europe,2,2021-03-29,539.81,525.71
+MDA,Moldova,Europe,3,2021-10-24,548.87,455.59
+MDA,Moldova,Europe,4,2022-02-01,1542.07,1542.07
+MDA,Moldova,Europe,5,2022-08-11,476.83,476.83
+MDG,Madagascar,Africa,1,2021-04-20,20.83,20.83
+MDV,Maldives,Asia,1,2021-05-23,3107.55,2972.9
+MDV,Maldives,Asia,2,2022-01-31,5100.29,5100.29
+MEX,Mexico,North America,1,2021-01-15,124.48,108.48
+MEX,Mexico,North America,2,2021-08-15,150.11,132.19
+MEX,Mexico,North America,3,2022-01-20,484.4,484.39
+MEX,Mexico,North America,4,2022-07-15,239.67,236.26
+MHL,Marshall Islands,Oceania,1,2022-08-21,32373.92,32373.92
+MKD,North Macedonia,Europe,1,2020-11-25,580.9,447.07
+MKD,North Macedonia,Europe,2,2021-04-07,614.98,611.96
+MKD,North Macedonia,Europe,3,2021-08-25,529.9,380.77
+MKD,North Macedonia,Europe,4,2022-02-02,922.32,922.09
+MKD,North Macedonia,Europe,5,2022-08-03,368.43,344.06
+MLI,Mali,Africa,1,2022-01-13,26.72,26.72
+MLT,Malta,Europe,1,2021-03-17,566.35,563.38
+MLT,Malta,Europe,2,2021-07-21,374.05,347.55
+MLT,Malta,Europe,3,2022-01-05,2195.62,2191.29
+MLT,Malta,Europe,4,2022-04-13,1232.5,1086.45
+MLT,Malta,Europe,5,2022-07-06,1043.99,900.1
+MMR,Myanmar,Asia,1,2020-10-13,27.99,27.89
+MMR,Myanmar,Asia,2,2021-07-22,108.48,108.47
+MMR,Myanmar,Asia,3,2022-02-25,59.85,57.47
+MNE,Montenegro,Europe,1,2021-01-20,2927.8,2927.8
+MNE,Montenegro,Europe,2,2021-08-25,1022.88,997.32
+MNE,Montenegro,Europe,3,2021-11-10,999.87,724.69
+MNE,Montenegro,Europe,4,2022-01-12,3967.65,3967.65
+MNE,Montenegro,Europe,5,2022-08-03,1534.44,1534.44
+MNG,Mongolia,Asia,1,2021-06-20,737.15,427.51
+MNG,Mongolia,Asia,2,2021-10-30,2314.31,2204.78
+MNG,Mongolia,Asia,3,2022-01-26,2490.2,2490.2
+MNG,Mongolia,Asia,4,2022-08-08,592.77,592.77
+MNG,Mongolia,Asia,5,2022-12-13,554.8,542.65
+MNP,Northern Mariana Islands,Oceania,1,2021-12-15,2897.36,2017.31
+MNP,Northern Mariana Islands,Oceania,2,2022-02-11,4685.36,4685.36
+MNP,Northern Mariana Islands,Oceania,3,2022-07-19,1980.12,1980.12
+MNP,Northern Mariana Islands,Oceania,4,2023-03-01,787.09,787.09
+MOZ,Mozambique,Africa,1,2021-02-02,29.22,28.6
+MOZ,Mozambique,Africa,2,2021-08-01,58.04,57.9
+MOZ,Mozambique,Africa,3,2022-01-02,117.5,117.5
+MRT,Mauritania,Africa,1,2020-06-26,38.53,38.3
+MRT,Mauritania,Africa,2,2020-12-15,112.42,112.42
+MRT,Mauritania,Africa,3,2021-08-08,66.39,59.95
+MRT,Mauritania,Africa,4,2022-01-13,215.33,215.33
+MRT,Mauritania,Africa,5,2022-07-07,32.7,32.7
+MSR,Montserrat,North America,1,2022-01-10,1946.89,1946.89
+MSR,Montserrat,North America,2,2022-05-16,9415.29,9415.29
+MSR,Montserrat,North America,3,2022-09-16,3095.88,3063.96
+MTQ,Martinique,North America,1,2021-08-05,2944.53,2911.41
+MTQ,Martinique,North America,2,2022-01-16,5535.04,2205.84
+MTQ,Martinique,North America,3,2022-03-12,6097.13,6097.13
+MTQ,Martinique,North America,4,2022-06-11,5464.32,5464.32
+MTQ,Martinique,North America,5,2022-09-13,1613.5,1613.5
+MUS,Mauritius,Africa,1,2021-11-13,1334.61,1198.49
+MUS,Mauritius,Africa,2,2022-02-19,2262.19,2262.19
+MUS,Mauritius,Africa,3,2022-07-21,519.43,440.06
+MUS,Mauritius,Africa,4,2022-11-24,540.92,481.7
+MUS,Mauritius,Africa,5,2023-12-14,361.36,357.55
+MWI,Malawi,Africa,1,2021-01-26,48.35,48.35
+MWI,Malawi,Africa,2,2021-07-27,36.06,35.81
+MWI,Malawi,Africa,3,2021-12-28,43.95,43.86
+MYS,Malaysia,Asia,1,2021-08-31,628.54,538.71
+MYS,Malaysia,Asia,2,2022-03-09,885.7,885.69
+MYT,Mayotte,Africa,1,2021-02-12,1354.26,1354.26
+MYT,Mayotte,Africa,2,2022-01-15,4251.85,4251.85
+NAM,Namibia,Africa,1,2020-08-27,88.99,77.96
+NAM,Namibia,Africa,2,2020-12-31,165.76,135.51
+NAM,Namibia,Africa,3,2021-06-28,632.15,632.15
+NAM,Namibia,Africa,4,2021-12-24,381.06,379.38
+NAM,Namibia,Africa,5,2022-05-22,100.65,97.05
+NAM,Namibia,Africa,6,2022-10-18,152.96,152.96
+NCL,New Caledonia,Oceania,1,2021-09-22,1681.17,1650.32
+NCL,New Caledonia,Oceania,2,2022-02-18,4920.12,4920.12
+NCL,New Caledonia,Oceania,3,2022-08-02,1423.94,1413.99
+NCL,New Caledonia,Oceania,4,2022-12-09,1070.2,1070.2
+NIU,Niue,Oceania,1,2023-01-02,18593.12,18593.12
+NIU,Niue,Oceania,2,2023-05-17,4260.92,4260.92
+NIU,Niue,Oceania,3,2023-08-29,2866.44,2866.44
+NIU,Niue,Oceania,4,2023-12-22,3253.8,2943.91
+NLD,Netherlands,Europe,1,2022-02-09,4997.19,4997.03
+NOR,Norway,Europe,1,2022-02-12,3758.33,3757.8
+NPL,Nepal,Asia,1,2020-10-21,129.21,126.8
+NPL,Nepal,Asia,2,2021-05-12,301.62,301.62
+NPL,Nepal,Asia,3,2021-08-10,89.34,38.51
+NPL,Nepal,Asia,4,2022-01-25,286.84,280.08
+NRU,Nauru,Oceania,1,2022-07-01,32590.57,32590.57
+NZL,New Zealand,Oceania,1,2022-03-08,3998.73,3998.73
+NZL,New Zealand,Oceania,2,2022-07-12,2062.13,1277.79
+NZL,New Zealand,Oceania,3,2022-10-19,793.86,793.86
+NZL,New Zealand,Oceania,4,2022-12-09,1930.34,1930.34
+NZL,New Zealand,Oceania,5,2023-01-30,603.11,603.11
+NZL,New Zealand,Oceania,6,2023-06-15,541.34,541.34
+OMN,Oman,Asia,1,2020-07-16,333.42,318.83
+OMN,Oman,Asia,2,2020-10-10,167.43,146.81
+OMN,Oman,Asia,3,2021-04-15,270.24,144.87
+OMN,Oman,Asia,4,2021-06-22,426.8,425.47
+OMN,Oman,Asia,5,2022-02-07,474.97,474.88
+PAK,Pakistan,Asia,1,2020-06-18,24.07,22.86
+PAK,Pakistan,Asia,2,2021-04-25,23.36,21.97
+PAK,Pakistan,Asia,3,2022-01-31,29.54,29.54
+PAN,Panama,North America,1,2021-01-12,826.48,802.07
+PAN,Panama,North America,2,2022-01-22,2430.9,2430.9
+PAN,Panama,North America,3,2022-05-29,729.03,676.99
+PCN,Pitcairn,Oceania,1,2022-07-23,12698.41,12698.41
+PER,Peru,South America,1,2020-08-21,255.48,212.45
+PER,Peru,South America,2,2021-04-12,280.83,259.22
+PER,Peru,South America,3,2022-01-27,1504.44,1504.44
+PER,Peru,South America,4,2022-07-26,381.79,372.68
+PER,Peru,South America,5,2022-12-10,335.96,328.86
+PHL,Philippines,Asia,1,2021-04-15,95.16,52.17
+PHL,Philippines,Asia,2,2021-09-12,183.53,182.67
+PHL,Philippines,Asia,3,2022-01-18,306.21,306.21
+PLW,Palau,Oceania,1,2022-02-03,8779.96,8779.96
+PLW,Palau,Oceania,2,2022-04-24,2201.02,2008.23
+PLW,Palau,Oceania,3,2022-11-19,1711.01,1711.01
+PNG,Papua New Guinea,Oceania,1,2021-03-25,30.45,30.26
+PNG,Papua New Guinea,Oceania,2,2021-05-11,27.57,23.7
+PNG,Papua New Guinea,Oceania,3,2021-10-26,43.84,43.84
+PNG,Papua New Guinea,Oceania,4,2022-02-21,22.63,22.26
+POL,Poland,Europe,1,2020-11-12,719.3,583.45
+POL,Poland,Europe,2,2021-04-01,752.19,750.16
+POL,Poland,Europe,3,2021-12-07,610.22,329.58
+POL,Poland,Europe,4,2022-02-02,1278.42,1278.25
+PRI,Puerto Rico,North America,1,2022-01-04,3265.51,3265.51
+PRI,Puerto Rico,North America,2,2022-05-17,1590.0,1527.5
+PRI,Puerto Rico,North America,3,2022-12-19,577.65,398.87
+PRT,Portugal,Europe,1,2021-01-27,1120.08,1075.82
+PRT,Portugal,Europe,2,2022-02-02,5558.27,5549.05
+PRT,Portugal,Europe,3,2022-05-25,2613.29,1750.74
+PRY,Paraguay,South America,1,2021-05-29,449.97,446.78
+PRY,Paraguay,South America,2,2022-02-02,872.17,872.17
+PRY,Paraguay,South America,3,2022-07-19,316.78,316.78
+PRY,Paraguay,South America,4,2022-12-30,109.06,109.06
+PSE,Palestine,Asia,1,2020-12-07,410.56,311.55
+PSE,Palestine,Asia,2,2021-04-10,475.48,464.98
+PSE,Palestine,Asia,3,2021-09-08,459.57,424.81
+PSE,Palestine,Asia,4,2022-02-05,1634.01,1634.01
+PSE,Palestine,Asia,5,2022-07-27,270.81,270.81
+PYF,French Polynesia,Oceania,1,2020-11-08,1392.46,1385.33
+PYF,French Polynesia,Oceania,2,2021-08-19,4436.2,4436.2
+PYF,French Polynesia,Oceania,3,2022-02-18,4441.8,4441.8
+QAT,Qatar,Asia,1,2020-06-04,652.58,628.23
+QAT,Qatar,Asia,2,2021-04-17,337.33,287.05
+QAT,Qatar,Asia,3,2022-01-18,1418.02,1417.97
+QAT,Qatar,Asia,4,2022-07-21,377.33,357.73
+REU,Reunion,Africa,1,2022-01-25,12836.84,12836.84
+REU,Reunion,Africa,2,2022-04-27,4382.87,4382.87
+REU,Reunion,Africa,3,2022-09-08,1913.68,1913.68
+ROU,Romania,Europe,1,2020-11-19,444.59,442.46
+ROU,Romania,Europe,2,2021-10-21,783.78,749.94
+ROU,Romania,Europe,3,2022-02-05,1566.95,1564.41
+ROU,Romania,Europe,4,2022-08-02,425.87,423.02
+RUS,Russia,Europe,1,2021-11-06,277.84,167.57
+RUS,Russia,Europe,2,2022-02-15,1308.0,1308.0
+RUS,Russia,Europe,3,2022-09-21,372.13,351.93
+RWA,Rwanda,Africa,1,2021-01-31,25.86,23.45
+RWA,Rwanda,Africa,2,2021-07-25,105.28,105.28
+RWA,Rwanda,Africa,3,2022-01-05,94.92,94.1
+SAU,Saudi Arabia,Asia,1,2020-06-21,137.31,136.45
+SAU,Saudi Arabia,Asia,2,2021-07-03,43.34,40.22
+SAU,Saudi Arabia,Asia,3,2022-01-21,174.41,174.41
+SAU,Saudi Arabia,Asia,4,2022-06-24,31.81,28.8
+SEN,Senegal,Africa,1,2021-07-24,55.46,55.46
+SEN,Senegal,Africa,2,2022-01-14,33.13,33.05
+SGP,Singapore,Asia,1,2021-10-29,668.43,621.55
+SGP,Singapore,Asia,2,2022-02-25,3243.45,3243.12
+SGP,Singapore,Asia,3,2022-07-20,1903.68,1559.2
+SGP,Singapore,Asia,4,2022-10-19,1505.64,1221.97
+SGP,Singapore,Asia,5,2023-04-06,718.35,712.18
+SGP,Singapore,Asia,6,2023-12-21,1474.11,485.47
+SHN,Saint Helena,Africa,1,2022-09-26,37463.75,37463.75
+SLB,Solomon Islands,Oceania,1,2022-02-06,367.99,340.37
+SLB,Solomon Islands,Oceania,2,2022-06-02,560.22,560.22
+SLB,Solomon Islands,Oceania,3,2023-10-05,794.33,794.33
+SLV,El Salvador,North America,1,2020-08-11,68.9,60.19
+SLV,El Salvador,North America,2,2021-01-28,58.05,45.29
+SLV,El Salvador,North America,3,2021-04-12,46.81,37.21
+SLV,El Salvador,North America,4,2021-07-29,72.95,72.95
+SLV,El Salvador,North America,5,2021-09-27,98.11,98.11
+SLV,El Salvador,North America,6,2021-11-13,93.76,93.76
+SLV,El Salvador,North America,7,2022-02-18,288.36,288.36
+SLV,El Salvador,North America,8,2022-07-13,257.58,257.58
+SLV,El Salvador,North America,9,2022-09-03,249.46,249.46
+SMR,San Marino,Europe,1,2021-03-30,1252.14,1252.14
+SMR,San Marino,Europe,2,2022-01-14,5268.21,5268.21
+SMR,San Marino,Europe,3,2022-04-26,1361.02,757.99
+SMR,San Marino,Europe,4,2022-07-07,2219.51,1892.87
+SMR,San Marino,Europe,5,2022-10-12,1088.82,837.55
+SMR,San Marino,Europe,6,2022-12-03,1005.06,724.48
+SMR,San Marino,Europe,7,2023-11-17,1101.38,1101.38
+SPM,Saint Pierre and Miquelon,North America,1,2022-02-01,9672.62,9672.62
+SPM,Saint Pierre and Miquelon,North America,2,2022-03-22,14756.94,14756.94
+SPM,Saint Pierre and Miquelon,North America,3,2022-07-14,4737.1,4737.1
+SRB,Serbia,Europe,1,2020-12-05,1071.68,1060.24
+SRB,Serbia,Europe,2,2021-03-24,741.71,510.76
+SRB,Serbia,Europe,3,2021-10-03,1051.67,888.63
+SRB,Serbia,Europe,4,2022-02-01,2479.09,2479.09
+SRB,Serbia,Europe,5,2022-08-11,906.86,872.37
+STP,Sao Tome and Principe,Africa,1,2020-05-27,119.94,119.94
+STP,Sao Tome and Principe,Africa,2,2021-03-04,131.93,130.03
+STP,Sao Tome and Principe,Africa,3,2021-09-27,190.0,190.0
+STP,Sao Tome and Principe,Africa,4,2022-01-14,790.94,790.94
+SUR,Suriname,South America,1,2021-06-10,438.54,324.84
+SUR,Suriname,South America,2,2021-09-20,841.32,801.89
+SUR,Suriname,South America,3,2022-01-21,1592.09,1592.09
+SVK,Slovakia,Europe,1,2021-01-06,595.6,592.32
+SVK,Slovakia,Europe,2,2021-12-04,1611.02,1203.42
+SVK,Slovakia,Europe,3,2022-02-12,3273.59,3273.59
+SVN,Slovenia,Europe,1,2021-01-13,936.47,924.52
+SVN,Slovenia,Europe,2,2021-11-17,1532.69,1019.27
+SVN,Slovenia,Europe,3,2022-02-02,6674.45,6674.45
+SVN,Slovenia,Europe,4,2022-10-05,1072.83,955.65
+SWE,Sweden,Europe,1,2020-12-24,680.4,660.05
+SWE,Sweden,Europe,2,2022-01-28,3878.26,3877.38
+SWZ,Eswatini,Africa,1,2021-01-10,199.24,197.72
+SWZ,Eswatini,Africa,2,2021-04-16,122.47,119.78
+SWZ,Eswatini,Africa,3,2021-08-11,624.79,623.5
+SWZ,Eswatini,Africa,4,2021-12-18,902.91,902.91
+SXM,Sint Maarten (Dutch part),North America,1,2021-08-26,992.75,958.86
+SXM,Sint Maarten (Dutch part),North America,2,2022-01-16,7240.61,7240.61
+SYC,Seychelles,Africa,1,2021-05-12,2574.17,2446.71
+SYC,Seychelles,Africa,2,2022-01-15,4696.55,4696.55
+SYC,Seychelles,Africa,3,2022-04-09,790.91,619.07
+SYC,Seychelles,Africa,4,2022-10-13,1185.8,1185.8
+TCA,Turks and Caicos Islands,North America,1,2020-08-29,460.94,460.94
+TCA,Turks and Caicos Islands,North America,2,2021-01-30,753.7,753.7
+TCA,Turks and Caicos Islands,North America,3,2022-01-18,3422.79,3422.79
+TGO,Togo,Africa,1,2021-04-06,22.26,21.14
+TGO,Togo,Africa,2,2021-08-22,29.13,28.47
+TGO,Togo,Africa,3,2022-01-04,56.43,56.43
+THA,Thailand,Asia,1,2021-08-17,303.68,267.47
+THA,Thailand,Asia,2,2022-04-04,363.97,363.96
+TJK,Tajikistan,Asia,1,2020-05-25,22.55,22.55
+TKL,Tokelau,Oceania,1,2022-12-16,308.95,308.95
+TKL,Tokelau,Oceania,2,2023-07-18,2409.79,2409.79
+TLS,East Timor,Asia,1,2021-05-27,139.59,117.47
+TLS,East Timor,Asia,2,2021-08-27,235.78,235.78
+TLS,East Timor,Asia,3,2022-02-14,130.1,130.1
+TON,Tonga,Oceania,1,2022-03-24,3184.79,3184.79
+TON,Tonga,Oceania,2,2022-08-23,2488.54,2488.54
+TTO,Trinidad and Tobago,North America,1,2020-09-25,84.61,82.8
+TTO,Trinidad and Tobago,North America,2,2021-05-28,362.13,256.03
+TTO,Trinidad and Tobago,North America,3,2022-01-23,591.04,591.04
+TTO,Trinidad and Tobago,North America,4,2022-05-22,371.68,224.9
+TTO,Trinidad and Tobago,North America,5,2022-08-16,199.78,135.13
+TUN,Tunisia,Africa,1,2021-01-18,245.35,200.56
+TUN,Tunisia,Africa,2,2021-04-22,178.06,112.88
+TUN,Tunisia,Africa,3,2021-07-14,651.91,646.03
+TUN,Tunisia,Africa,4,2022-01-23,778.15,778.15
+TUN,Tunisia,Africa,5,2022-03-12,300.13,215.13
+TUN,Tunisia,Africa,6,2022-07-21,322.27,322.27
+TUR,Turkey,Asia,1,2020-12-09,368.67,299.29
+TUR,Turkey,Asia,2,2021-04-21,692.25,636.21
+TUR,Turkey,Asia,3,2022-02-09,1187.43,1187.43
+TUR,Turkey,Asia,4,2022-08-03,666.75,665.16
+TUV,Tuvalu,Oceania,1,2022-11-15,29878.43,29878.43
+TZA,Tanzania,Africa,1,2021-08-12,47.25,47.25
+UGA,Uganda,Africa,1,2021-06-12,33.13,29.49
+UGA,Uganda,Africa,2,2021-08-20,65.9,65.9
+UGA,Uganda,Africa,3,2022-01-01,34.35,33.68
+UKR,Ukraine,Europe,1,2020-12-02,332.55,243.78
+UKR,Ukraine,Europe,2,2021-04-14,366.17,354.69
+UKR,Ukraine,Europe,3,2021-11-10,529.9,432.52
+UKR,Ukraine,Europe,4,2022-02-09,845.48,845.48
+UKR,Ukraine,Europe,5,2022-09-28,153.6,150.19
+URY,Uruguay,South America,1,2021-04-12,1157.55,1132.44
+URY,Uruguay,South America,2,2021-05-28,1140.44,433.89
+URY,Uruguay,South America,3,2022-01-24,3361.88,3361.88
+USA,United States,North America,1,2021-01-13,730.72,697.0
+USA,United States,North America,2,2021-09-03,479.84,286.56
+USA,United States,North America,3,2022-01-17,2370.88,2370.86
+USA,United States,North America,4,2022-07-31,396.52,319.04
+UZB,Uzbekistan,Asia,1,2021-08-11,26.22,22.95
+UZB,Uzbekistan,Asia,2,2022-01-26,36.56,36.56
+VAT,Vatican,Europe,1,2020-03-31,1392.37,1392.37
+VAT,Vatican,Europe,2,2020-10-17,3898.64,3898.64
+VCT,Saint Vincent and the Grenadines,North America,1,2021-02-08,515.09,512.29
+VCT,Saint Vincent and the Grenadines,North America,2,2021-10-07,915.4,865.01
+VCT,Saint Vincent and the Grenadines,North America,3,2022-01-12,1102.96,1102.96
+VCT,Saint Vincent and the Grenadines,North America,4,2022-07-16,198.76,195.96
+VEN,Venezuela,South America,1,2020-09-15,41.93,33.01
+VEN,Venezuela,South America,2,2021-06-11,50.68,20.23
+VEN,Venezuela,South America,3,2021-10-10,53.11,46.09
+VEN,Venezuela,South America,4,2022-01-26,74.68,74.68
+VGB,British Virgin Islands,North America,1,2021-07-16,4239.59,4239.59
+VGB,British Virgin Islands,North America,2,2022-01-11,4738.81,4738.81
+VGB,British Virgin Islands,North America,3,2022-05-15,812.15,812.15
+VGB,British Virgin Islands,North America,4,2022-07-17,707.84,707.84
+VGB,British Virgin Islands,North America,5,2022-09-03,596.08,596.08
+VIR,United States Virgin Islands,North America,1,2021-08-21,638.99,599.36
+VIR,United States Virgin Islands,North America,2,2022-01-10,4020.49,4020.49
+VIR,United States Virgin Islands,North America,3,2022-05-12,1966.49,1938.42
+VIR,United States Virgin Islands,North America,4,2023-01-24,544.87,511.85
+VNM,Vietnam,Asia,1,2022-03-18,2749.03,2749.03
+VNM,Vietnam,Asia,2,2022-08-07,818.98,813.27
+VUT,Vanuatu,Oceania,1,2022-04-04,836.44,836.44
+VUT,Vanuatu,Oceania,2,2022-06-06,549.87,460.43
+WLF,Wallis and Futuna,Oceania,1,2022-10-17,32966.08,32966.08
+WSM,Samoa,Oceania,1,2022-04-24,2051.91,2051.91
+WSM,Samoa,Oceania,2,2022-06-09,541.51,306.59
+ZAF,South Africa,Africa,1,2020-07-20,201.73,181.04
+ZAF,South Africa,Africa,2,2021-01-12,305.27,292.78
+ZAF,South Africa,Africa,3,2021-07-09,319.91,315.78
+ZAF,South Africa,Africa,4,2021-12-18,375.73,375.73
+ZAF,South Africa,Africa,5,2022-05-13,121.29,102.31
+ZMB,Zambia,Africa,1,2021-01-18,70.01,67.77
+ZMB,Zambia,Africa,2,2021-06-28,138.48,137.96
+ZMB,Zambia,Africa,3,2022-01-05,192.07,192.07
+ZWE,Zimbabwe,Africa,1,2021-01-15,59.5,58.68
+ZWE,Zimbabwe,Africa,2,2021-07-14,153.42,151.81
+ZWE,Zimbabwe,Africa,3,2021-12-15,285.0,285.0

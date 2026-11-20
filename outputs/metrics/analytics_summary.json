@@ -1,0 +1,14 @@
+{
+  "active_period": [
+    "2020-03-01",
+    "2023-12-31"
+  ],
+  "weekly_points": 201,
+  "monthly_points": 46,
+  "total_waves_detected": 789,
+  "countries_with_waves": 217,
+  "avg_waves_per_country": 3.64,
+  "corr_vacc_vs_cfr": -0.354,
+  "corr_gdp_vs_vacc": 0.502,
+  "corr_median_age_vs_deaths_pm": 0.694
+}
