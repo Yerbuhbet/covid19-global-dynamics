@@ -1,0 +1,21 @@
+series_code,series_name,model,role,train_days,test_days,test_mean_actual,mae,rmse,nmae_pct,fit_ms,predict_ms,peak_memory_kb
+GLOBAL,Global (237 countries),Naive (baseline),baseline,838,123,683282.08,13484.55,19665.92,1.97,0.0,0.014,1.63
+GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),baseline,838,123,683282.08,63287.82,82195.63,9.26,0.0,0.04,1.57
+GLOBAL,Global (237 countries),Moving Average 7d,model,838,123,683282.08,37880.47,48226.24,5.54,0.0,0.023,1.7
+GLOBAL,Global (237 countries),Linear Regression (AR lags),model,838,123,683282.08,12714.11,18618.95,1.86,11.991,0.161,89.5
+KAZ,Kazakhstan,Naive (baseline),baseline,838,123,725.64,44.77,67.78,6.17,0.0,0.014,1.63
+KAZ,Kazakhstan,Seasonal Naive 7d (baseline),baseline,838,123,725.64,302.9,447.67,41.74,0.0,0.02,1.57
+KAZ,Kazakhstan,Moving Average 7d,model,838,123,725.64,173.98,258.11,23.98,0.0,0.018,1.7
+KAZ,Kazakhstan,Linear Regression (AR lags),model,838,123,725.64,17.36,23.62,2.39,0.424,0.06,89.44
+USA,United States,Naive (baseline),baseline,838,123,81812.88,2364.45,5236.9,2.89,0.0,0.013,1.63
+USA,United States,Seasonal Naive 7d (baseline),baseline,838,123,81812.88,8224.82,10477.9,10.05,0.0,0.018,1.57
+USA,United States,Moving Average 7d,model,838,123,81812.88,4922.43,6542.75,6.02,0.0,0.018,1.7
+USA,United States,Linear Regression (AR lags),model,838,123,81812.88,2576.19,5608.7,3.15,0.385,0.059,89.25
+JPN,Japan,Naive (baseline),baseline,838,123,105020.3,5335.14,7975.77,5.08,0.0,0.012,1.63
+JPN,Japan,Seasonal Naive 7d (baseline),baseline,838,123,105020.3,25212.73,32881.53,24.01,0.0,0.018,1.57
+JPN,Japan,Moving Average 7d,model,838,123,105020.3,14702.89,19325.54,14.0,0.0,0.017,1.7
+JPN,Japan,Linear Regression (AR lags),model,838,123,105020.3,4059.4,7210.14,3.87,0.403,0.055,89.27
+BRA,Brazil,Naive (baseline),baseline,838,123,22404.76,988.82,2014.24,4.41,0.0,0.012,1.63
+BRA,Brazil,Seasonal Naive 7d (baseline),baseline,838,123,22404.76,3884.77,6029.82,17.34,0.0,0.035,1.57
+BRA,Brazil,Moving Average 7d,model,838,123,22404.76,2236.93,3512.42,9.98,0.0,0.019,1.7
+BRA,Brazil,Linear Regression (AR lags),model,838,123,22404.76,1004.99,2000.32,4.49,0.406,0.059,89.16

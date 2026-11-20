@@ -1,0 +1,2461 @@
+date,series_code,series_name,model,actual,predicted
+2022-07-01,GLOBAL,Global (237 countries),Naive (baseline),709054.0,697796.25
+2022-07-02,GLOBAL,Global (237 countries),Naive (baseline),723805.31,709054.0
+2022-07-03,GLOBAL,Global (237 countries),Naive (baseline),754368.88,723805.31
+2022-07-04,GLOBAL,Global (237 countries),Naive (baseline),798575.69,754368.88
+2022-07-05,GLOBAL,Global (237 countries),Naive (baseline),802049.31,798575.69
+2022-07-06,GLOBAL,Global (237 countries),Naive (baseline),814069.31,802049.31
+2022-07-07,GLOBAL,Global (237 countries),Naive (baseline),822406.56,814069.31
+2022-07-08,GLOBAL,Global (237 countries),Naive (baseline),835758.31,822406.56
+2022-07-09,GLOBAL,Global (237 countries),Naive (baseline),847830.12,835758.31
+2022-07-10,GLOBAL,Global (237 countries),Naive (baseline),905667.31,847830.12
+2022-07-11,GLOBAL,Global (237 countries),Naive (baseline),920924.69,905667.31
+2022-07-12,GLOBAL,Global (237 countries),Naive (baseline),933228.44,920924.69
+2022-07-13,GLOBAL,Global (237 countries),Naive (baseline),955413.12,933228.44
+2022-07-14,GLOBAL,Global (237 countries),Naive (baseline),969397.75,955413.12
+2022-07-15,GLOBAL,Global (237 countries),Naive (baseline),982024.56,969397.75
+2022-07-16,GLOBAL,Global (237 countries),Naive (baseline),996328.88,982024.56
+2022-07-17,GLOBAL,Global (237 countries),Naive (baseline),996233.75,996328.88
+2022-07-18,GLOBAL,Global (237 countries),Naive (baseline),1009480.56,996233.75
+2022-07-19,GLOBAL,Global (237 countries),Naive (baseline),1015306.31,1009480.56
+2022-07-20,GLOBAL,Global (237 countries),Naive (baseline),1016264.69,1015306.31
+2022-07-21,GLOBAL,Global (237 countries),Naive (baseline),1020805.44,1016264.69
+2022-07-22,GLOBAL,Global (237 countries),Naive (baseline),1029142.31,1020805.44
+2022-07-23,GLOBAL,Global (237 countries),Naive (baseline),1039040.0,1029142.31
+2022-07-24,GLOBAL,Global (237 countries),Naive (baseline),1023562.56,1039040.0
+2022-07-25,GLOBAL,Global (237 countries),Naive (baseline),1034739.31,1023562.56
+2022-07-26,GLOBAL,Global (237 countries),Naive (baseline),1047992.44,1034739.31
+2022-07-27,GLOBAL,Global (237 countries),Naive (baseline),1057137.38,1047992.44
+2022-07-28,GLOBAL,Global (237 countries),Naive (baseline),1060031.38,1057137.38
+2022-07-29,GLOBAL,Global (237 countries),Naive (baseline),1062563.62,1060031.38
+2022-07-30,GLOBAL,Global (237 countries),Naive (baseline),1061408.25,1062563.62
+2022-07-31,GLOBAL,Global (237 countries),Naive (baseline),1027904.88,1061408.25
+2022-08-01,GLOBAL,Global (237 countries),Naive (baseline),1010887.0,1027904.88
+2022-08-02,GLOBAL,Global (237 countries),Naive (baseline),1008512.56,1010887.0
+2022-08-03,GLOBAL,Global (237 countries),Naive (baseline),1006530.69,1008512.56
+2022-08-04,GLOBAL,Global (237 countries),Naive (baseline),1005330.31,1006530.69
+2022-08-05,GLOBAL,Global (237 countries),Naive (baseline),1059067.88,1005330.31
+2022-08-06,GLOBAL,Global (237 countries),Naive (baseline),1054456.12,1059067.88
+2022-08-07,GLOBAL,Global (237 countries),Naive (baseline),991108.75,1054456.12
+2022-08-08,GLOBAL,Global (237 countries),Naive (baseline),978719.44,991108.75
+2022-08-09,GLOBAL,Global (237 countries),Naive (baseline),978266.69,978719.44
+2022-08-10,GLOBAL,Global (237 countries),Naive (baseline),972005.56,978266.69
+2022-08-11,GLOBAL,Global (237 countries),Naive (baseline),965646.56,972005.56
+2022-08-12,GLOBAL,Global (237 countries),Naive (baseline),904372.69,965646.56
+2022-08-13,GLOBAL,Global (237 countries),Naive (baseline),894078.0,904372.69
+2022-08-14,GLOBAL,Global (237 countries),Naive (baseline),820968.44,894078.0
+2022-08-15,GLOBAL,Global (237 countries),Naive (baseline),807428.56,820968.44
+2022-08-16,GLOBAL,Global (237 countries),Naive (baseline),791508.69,807428.56
+2022-08-17,GLOBAL,Global (237 countries),Naive (baseline),784220.31,791508.69
+2022-08-18,GLOBAL,Global (237 countries),Naive (baseline),783923.31,784220.31
+2022-08-19,GLOBAL,Global (237 countries),Naive (baseline),781103.31,783923.31
+2022-08-20,GLOBAL,Global (237 countries),Naive (baseline),785159.88,781103.31
+2022-08-21,GLOBAL,Global (237 countries),Naive (baseline),768974.75,785159.88
+2022-08-22,GLOBAL,Global (237 countries),Naive (baseline),766534.75,768974.75
+2022-08-23,GLOBAL,Global (237 countries),Naive (baseline),781298.56,766534.75
+2022-08-24,GLOBAL,Global (237 countries),Naive (baseline),776202.0,781298.56
+2022-08-25,GLOBAL,Global (237 countries),Naive (baseline),766783.69,776202.0
+2022-08-26,GLOBAL,Global (237 countries),Naive (baseline),755980.44,766783.69
+2022-08-27,GLOBAL,Global (237 countries),Naive (baseline),736273.0,755980.44
+2022-08-28,GLOBAL,Global (237 countries),Naive (baseline),680573.75,736273.0
+2022-08-29,GLOBAL,Global (237 countries),Naive (baseline),688527.0,680573.75
+2022-08-30,GLOBAL,Global (237 countries),Naive (baseline),672679.56,688527.0
+2022-08-31,GLOBAL,Global (237 countries),Naive (baseline),658517.88,672679.56
+2022-09-01,GLOBAL,Global (237 countries),Naive (baseline),642108.81,658517.88
+2022-09-02,GLOBAL,Global (237 countries),Naive (baseline),625941.88,642108.81
+2022-09-03,GLOBAL,Global (237 countries),Naive (baseline),611900.0,625941.88
+2022-09-04,GLOBAL,Global (237 countries),Naive (baseline),612723.88,611900.0
+2022-09-05,GLOBAL,Global (237 countries),Naive (baseline),576233.44,612723.88
+2022-09-06,GLOBAL,Global (237 countries),Naive (baseline),567655.56,576233.44
+2022-09-07,GLOBAL,Global (237 countries),Naive (baseline),546773.12,567655.56
+2022-09-08,GLOBAL,Global (237 countries),Naive (baseline),537878.0,546773.12
+2022-09-09,GLOBAL,Global (237 countries),Naive (baseline),521645.84,537878.0
+2022-09-10,GLOBAL,Global (237 countries),Naive (baseline),494266.0,521645.84
+2022-09-11,GLOBAL,Global (237 countries),Naive (baseline),467005.84,494266.0
+2022-09-12,GLOBAL,Global (237 countries),Naive (baseline),487074.56,467005.84
+2022-09-13,GLOBAL,Global (237 countries),Naive (baseline),477452.44,487074.56
+2022-09-14,GLOBAL,Global (237 countries),Naive (baseline),483839.28,477452.44
+2022-09-15,GLOBAL,Global (237 countries),Naive (baseline),471646.72,483839.28
+2022-09-16,GLOBAL,Global (237 countries),Naive (baseline),467628.72,471646.72
+2022-09-17,GLOBAL,Global (237 countries),Naive (baseline),470029.12,467628.72
+2022-09-18,GLOBAL,Global (237 countries),Naive (baseline),485090.72,470029.12
+2022-09-19,GLOBAL,Global (237 countries),Naive (baseline),472652.72,485090.72
+2022-09-20,GLOBAL,Global (237 countries),Naive (baseline),468823.84,472652.72
+2022-09-21,GLOBAL,Global (237 countries),Naive (baseline),455803.72,468823.84
+2022-09-22,GLOBAL,Global (237 countries),Naive (baseline),440059.44,455803.72
+2022-09-23,GLOBAL,Global (237 countries),Naive (baseline),433239.28,440059.44
+2022-09-24,GLOBAL,Global (237 countries),Naive (baseline),439137.12,433239.28
+2022-09-25,GLOBAL,Global (237 countries),Naive (baseline),459748.72,439137.12
+2022-09-26,GLOBAL,Global (237 countries),Naive (baseline),433919.12,459748.72
+2022-09-27,GLOBAL,Global (237 countries),Naive (baseline),433457.16,433919.12
+2022-09-28,GLOBAL,Global (237 countries),Naive (baseline),425146.44,433457.16
+2022-09-29,GLOBAL,Global (237 countries),Naive (baseline),428551.88,425146.44
+2022-09-30,GLOBAL,Global (237 countries),Naive (baseline),423578.0,428551.88
+2022-10-01,GLOBAL,Global (237 countries),Naive (baseline),425653.16,423578.0
+2022-10-02,GLOBAL,Global (237 countries),Naive (baseline),461529.16,425653.16
+2022-10-03,GLOBAL,Global (237 countries),Naive (baseline),454369.16,461529.16
+2022-10-04,GLOBAL,Global (237 countries),Naive (baseline),444051.88,454369.16
+2022-10-05,GLOBAL,Global (237 countries),Naive (baseline),449701.0,444051.88
+2022-10-06,GLOBAL,Global (237 countries),Naive (baseline),445470.0,449701.0
+2022-10-07,GLOBAL,Global (237 countries),Naive (baseline),440273.28,445470.0
+2022-10-08,GLOBAL,Global (237 countries),Naive (baseline),433577.16,440273.28
+2022-10-09,GLOBAL,Global (237 countries),Naive (baseline),459793.0,433577.16
+2022-10-10,GLOBAL,Global (237 countries),Naive (baseline),459513.56,459793.0
+2022-10-11,GLOBAL,Global (237 countries),Naive (baseline),459323.88,459513.56
+2022-10-12,GLOBAL,Global (237 countries),Naive (baseline),456776.84,459323.88
+2022-10-13,GLOBAL,Global (237 countries),Naive (baseline),455698.28,456776.84
+2022-10-14,GLOBAL,Global (237 countries),Naive (baseline),455037.44,455698.28
+2022-10-15,GLOBAL,Global (237 countries),Naive (baseline),448334.41,455037.44
+2022-10-16,GLOBAL,Global (237 countries),Naive (baseline),453645.56,448334.41
+2022-10-17,GLOBAL,Global (237 countries),Naive (baseline),453605.28,453645.56
+2022-10-18,GLOBAL,Global (237 countries),Naive (baseline),455491.84,453605.28
+2022-10-19,GLOBAL,Global (237 countries),Naive (baseline),453843.16,455491.84
+2022-10-20,GLOBAL,Global (237 countries),Naive (baseline),448214.88,453843.16
+2022-10-21,GLOBAL,Global (237 countries),Naive (baseline),434600.72,448214.88
+2022-10-22,GLOBAL,Global (237 countries),Naive (baseline),447990.28,434600.72
+2022-10-23,GLOBAL,Global (237 countries),Naive (baseline),413941.88,447990.28
+2022-10-24,GLOBAL,Global (237 countries),Naive (baseline),408128.72,413941.88
+2022-10-25,GLOBAL,Global (237 countries),Naive (baseline),406890.28,408128.72
+2022-10-26,GLOBAL,Global (237 countries),Naive (baseline),399092.28,406890.28
+2022-10-27,GLOBAL,Global (237 countries),Naive (baseline),391642.16,399092.28
+2022-10-28,GLOBAL,Global (237 countries),Naive (baseline),427147.28,391642.16
+2022-10-29,GLOBAL,Global (237 countries),Naive (baseline),407057.72,427147.28
+2022-10-30,GLOBAL,Global (237 countries),Naive (baseline),362054.44,407057.72
+2022-10-31,GLOBAL,Global (237 countries),Naive (baseline),362080.16,362054.44
+2022-07-01,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),709054.0,570138.31
+2022-07-02,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),723805.31,583858.12
+2022-07-03,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),754368.88,655960.44
+2022-07-04,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),798575.69,665914.12
+2022-07-05,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),802049.31,673635.69
+2022-07-06,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),814069.31,684372.88
+2022-07-07,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),822406.56,697796.25
+2022-07-08,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),835758.31,709054.0
+2022-07-09,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),847830.12,723805.31
+2022-07-10,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),905667.31,754368.88
+2022-07-11,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),920924.69,798575.69
+2022-07-12,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),933228.44,802049.31
+2022-07-13,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),955413.12,814069.31
+2022-07-14,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),969397.75,822406.56
+2022-07-15,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),982024.56,835758.31
+2022-07-16,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),996328.88,847830.12
+2022-07-17,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),996233.75,905667.31
+2022-07-18,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1009480.56,920924.69
+2022-07-19,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1015306.31,933228.44
+2022-07-20,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1016264.69,955413.12
+2022-07-21,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1020805.44,969397.75
+2022-07-22,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1029142.31,982024.56
+2022-07-23,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1039040.0,996328.88
+2022-07-24,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1023562.56,996233.75
+2022-07-25,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1034739.31,1009480.56
+2022-07-26,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1047992.44,1015306.31
+2022-07-27,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1057137.38,1016264.69
+2022-07-28,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1060031.38,1020805.44
+2022-07-29,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1062563.62,1029142.31
+2022-07-30,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1061408.25,1039040.0
+2022-07-31,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1027904.88,1023562.56
+2022-08-01,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1010887.0,1034739.31
+2022-08-02,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1008512.56,1047992.44
+2022-08-03,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1006530.69,1057137.38
+2022-08-04,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1005330.31,1060031.38
+2022-08-05,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1059067.88,1062563.62
+2022-08-06,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),1054456.12,1061408.25
+2022-08-07,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),991108.75,1027904.88
+2022-08-08,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),978719.44,1010887.0
+2022-08-09,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),978266.69,1008512.56
+2022-08-10,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),972005.56,1006530.69
+2022-08-11,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),965646.56,1005330.31
+2022-08-12,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),904372.69,1059067.88
+2022-08-13,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),894078.0,1054456.12
+2022-08-14,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),820968.44,991108.75
+2022-08-15,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),807428.56,978719.44
+2022-08-16,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),791508.69,978266.69
+2022-08-17,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),784220.31,972005.56
+2022-08-18,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),783923.31,965646.56
+2022-08-19,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),781103.31,904372.69
+2022-08-20,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),785159.88,894078.0
+2022-08-21,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),768974.75,820968.44
+2022-08-22,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),766534.75,807428.56
+2022-08-23,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),781298.56,791508.69
+2022-08-24,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),776202.0,784220.31
+2022-08-25,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),766783.69,783923.31
+2022-08-26,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),755980.44,781103.31
+2022-08-27,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),736273.0,785159.88
+2022-08-28,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),680573.75,768974.75
+2022-08-29,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),688527.0,766534.75
+2022-08-30,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),672679.56,781298.56
+2022-08-31,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),658517.88,776202.0
+2022-09-01,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),642108.81,766783.69
+2022-09-02,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),625941.88,755980.44
+2022-09-03,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),611900.0,736273.0
+2022-09-04,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),612723.88,680573.75
+2022-09-05,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),576233.44,688527.0
+2022-09-06,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),567655.56,672679.56
+2022-09-07,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),546773.12,658517.88
+2022-09-08,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),537878.0,642108.81
+2022-09-09,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),521645.84,625941.88
+2022-09-10,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),494266.0,611900.0
+2022-09-11,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),467005.84,612723.88
+2022-09-12,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),487074.56,576233.44
+2022-09-13,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),477452.44,567655.56
+2022-09-14,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),483839.28,546773.12
+2022-09-15,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),471646.72,537878.0
+2022-09-16,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),467628.72,521645.84
+2022-09-17,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),470029.12,494266.0
+2022-09-18,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),485090.72,467005.84
+2022-09-19,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),472652.72,487074.56
+2022-09-20,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),468823.84,477452.44
+2022-09-21,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),455803.72,483839.28
+2022-09-22,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),440059.44,471646.72
+2022-09-23,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),433239.28,467628.72
+2022-09-24,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),439137.12,470029.12
+2022-09-25,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),459748.72,485090.72
+2022-09-26,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),433919.12,472652.72
+2022-09-27,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),433457.16,468823.84
+2022-09-28,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),425146.44,455803.72
+2022-09-29,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),428551.88,440059.44
+2022-09-30,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),423578.0,433239.28
+2022-10-01,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),425653.16,439137.12
+2022-10-02,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),461529.16,459748.72
+2022-10-03,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),454369.16,433919.12
+2022-10-04,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),444051.88,433457.16
+2022-10-05,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),449701.0,425146.44
+2022-10-06,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),445470.0,428551.88
+2022-10-07,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),440273.28,423578.0
+2022-10-08,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),433577.16,425653.16
+2022-10-09,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),459793.0,461529.16
+2022-10-10,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),459513.56,454369.16
+2022-10-11,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),459323.88,444051.88
+2022-10-12,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),456776.84,449701.0
+2022-10-13,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),455698.28,445470.0
+2022-10-14,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),455037.44,440273.28
+2022-10-15,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),448334.41,433577.16
+2022-10-16,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),453645.56,459793.0
+2022-10-17,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),453605.28,459513.56
+2022-10-18,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),455491.84,459323.88
+2022-10-19,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),453843.16,456776.84
+2022-10-20,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),448214.88,455698.28
+2022-10-21,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),434600.72,455037.44
+2022-10-22,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),447990.28,448334.41
+2022-10-23,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),413941.88,453645.56
+2022-10-24,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),408128.72,453605.28
+2022-10-25,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),406890.28,455491.84
+2022-10-26,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),399092.28,453843.16
+2022-10-27,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),391642.16,448214.88
+2022-10-28,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),427147.28,434600.72
+2022-10-29,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),407057.72,447990.28
+2022-10-30,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),362054.44,413941.88
+2022-10-31,GLOBAL,Global (237 countries),Seasonal Naive 7d (baseline),362080.16,408128.72
+2022-07-01,GLOBAL,Global (237 countries),Moving Average 7d,709054.0,647382.26
+2022-07-02,GLOBAL,Global (237 countries),Moving Average 7d,723805.31,667227.36
+2022-07-03,GLOBAL,Global (237 countries),Moving Average 7d,754368.88,687219.81
+2022-07-04,GLOBAL,Global (237 countries),Moving Average 7d,798575.69,701278.16
+2022-07-05,GLOBAL,Global (237 countries),Moving Average 7d,802049.31,720229.81
+2022-07-06,GLOBAL,Global (237 countries),Moving Average 7d,814069.31,738574.62
+2022-07-07,GLOBAL,Global (237 countries),Moving Average 7d,822406.56,757102.68
+2022-07-08,GLOBAL,Global (237 countries),Moving Average 7d,835758.31,774904.15
+2022-07-09,GLOBAL,Global (237 countries),Moving Average 7d,847830.12,793004.77
+2022-07-10,GLOBAL,Global (237 countries),Moving Average 7d,905667.31,810722.6
+2022-07-11,GLOBAL,Global (237 countries),Moving Average 7d,920924.69,832336.66
+2022-07-12,GLOBAL,Global (237 countries),Moving Average 7d,933228.44,849815.09
+2022-07-13,GLOBAL,Global (237 countries),Moving Average 7d,955413.12,868554.96
+2022-07-14,GLOBAL,Global (237 countries),Moving Average 7d,969397.75,888746.94
+2022-07-15,GLOBAL,Global (237 countries),Moving Average 7d,982024.56,909745.68
+2022-07-16,GLOBAL,Global (237 countries),Moving Average 7d,996328.88,930640.86
+2022-07-17,GLOBAL,Global (237 countries),Moving Average 7d,996233.75,951854.96
+2022-07-18,GLOBAL,Global (237 countries),Moving Average 7d,1009480.56,964793.03
+2022-07-19,GLOBAL,Global (237 countries),Moving Average 7d,1015306.31,977443.87
+2022-07-20,GLOBAL,Global (237 countries),Moving Average 7d,1016264.69,989169.28
+2022-07-21,GLOBAL,Global (237 countries),Moving Average 7d,1020805.44,997862.36
+2022-07-22,GLOBAL,Global (237 countries),Moving Average 7d,1029142.31,1005206.31
+2022-07-23,GLOBAL,Global (237 countries),Moving Average 7d,1039040.0,1011937.42
+2022-07-24,GLOBAL,Global (237 countries),Moving Average 7d,1023562.56,1018039.01
+2022-07-25,GLOBAL,Global (237 countries),Moving Average 7d,1034739.31,1021943.12
+2022-07-26,GLOBAL,Global (237 countries),Moving Average 7d,1047992.44,1025551.52
+2022-07-27,GLOBAL,Global (237 countries),Moving Average 7d,1057137.38,1030220.96
+2022-07-28,GLOBAL,Global (237 countries),Moving Average 7d,1060031.38,1036059.92
+2022-07-29,GLOBAL,Global (237 countries),Moving Average 7d,1062563.62,1041663.62
+2022-07-30,GLOBAL,Global (237 countries),Moving Average 7d,1061408.25,1046438.1
+2022-07-31,GLOBAL,Global (237 countries),Moving Average 7d,1027904.88,1049633.56
+2022-08-01,GLOBAL,Global (237 countries),Moving Average 7d,1010887.0,1050253.89
+2022-08-02,GLOBAL,Global (237 countries),Moving Average 7d,1008512.56,1046846.42
+2022-08-03,GLOBAL,Global (237 countries),Moving Average 7d,1006530.69,1041206.44
+2022-08-04,GLOBAL,Global (237 countries),Moving Average 7d,1005330.31,1033976.91
+2022-08-05,GLOBAL,Global (237 countries),Moving Average 7d,1059067.88,1026162.47
+2022-08-06,GLOBAL,Global (237 countries),Moving Average 7d,1054456.12,1025663.08
+2022-08-07,GLOBAL,Global (237 countries),Moving Average 7d,991108.75,1024669.92
+2022-08-08,GLOBAL,Global (237 countries),Moving Average 7d,978719.44,1019413.33
+2022-08-09,GLOBAL,Global (237 countries),Moving Average 7d,978266.69,1014817.96
+2022-08-10,GLOBAL,Global (237 countries),Moving Average 7d,972005.56,1010497.12
+2022-08-11,GLOBAL,Global (237 countries),Moving Average 7d,965646.56,1005564.96
+2022-08-12,GLOBAL,Global (237 countries),Moving Average 7d,904372.69,999895.86
+2022-08-13,GLOBAL,Global (237 countries),Moving Average 7d,894078.0,977796.54
+2022-08-14,GLOBAL,Global (237 countries),Moving Average 7d,820968.44,954885.38
+2022-08-15,GLOBAL,Global (237 countries),Moving Average 7d,807428.56,930579.62
+2022-08-16,GLOBAL,Global (237 countries),Moving Average 7d,791508.69,906109.5
+2022-08-17,GLOBAL,Global (237 countries),Moving Average 7d,784220.31,879429.79
+2022-08-18,GLOBAL,Global (237 countries),Moving Average 7d,783923.31,852603.32
+2022-08-19,GLOBAL,Global (237 countries),Moving Average 7d,781103.31,826642.86
+2022-08-20,GLOBAL,Global (237 countries),Moving Average 7d,785159.88,809032.95
+2022-08-21,GLOBAL,Global (237 countries),Moving Average 7d,768974.75,793473.21
+2022-08-22,GLOBAL,Global (237 countries),Moving Average 7d,766534.75,786045.54
+2022-08-23,GLOBAL,Global (237 countries),Moving Average 7d,781298.56,780203.57
+2022-08-24,GLOBAL,Global (237 countries),Moving Average 7d,776202.0,778744.98
+2022-08-25,GLOBAL,Global (237 countries),Moving Average 7d,766783.69,777599.51
+2022-08-26,GLOBAL,Global (237 countries),Moving Average 7d,755980.44,775150.99
+2022-08-27,GLOBAL,Global (237 countries),Moving Average 7d,736273.0,771562.01
+2022-08-28,GLOBAL,Global (237 countries),Moving Average 7d,680573.75,764578.17
+2022-08-29,GLOBAL,Global (237 countries),Moving Average 7d,688527.0,751949.46
+2022-08-30,GLOBAL,Global (237 countries),Moving Average 7d,672679.56,740805.49
+2022-08-31,GLOBAL,Global (237 countries),Moving Average 7d,658517.88,725288.49
+2022-09-01,GLOBAL,Global (237 countries),Moving Average 7d,642108.81,708476.47
+2022-09-02,GLOBAL,Global (237 countries),Moving Average 7d,625941.88,690665.78
+2022-09-03,GLOBAL,Global (237 countries),Moving Average 7d,611900.0,672088.84
+2022-09-04,GLOBAL,Global (237 countries),Moving Average 7d,612723.88,654321.27
+2022-09-05,GLOBAL,Global (237 countries),Moving Average 7d,576233.44,644628.43
+2022-09-06,GLOBAL,Global (237 countries),Moving Average 7d,567655.56,628586.49
+2022-09-07,GLOBAL,Global (237 countries),Moving Average 7d,546773.12,613583.06
+2022-09-08,GLOBAL,Global (237 countries),Moving Average 7d,537878.0,597619.53
+2022-09-09,GLOBAL,Global (237 countries),Moving Average 7d,521645.84,582729.41
+2022-09-10,GLOBAL,Global (237 countries),Moving Average 7d,494266.0,567829.98
+2022-09-11,GLOBAL,Global (237 countries),Moving Average 7d,467005.84,551025.12
+2022-09-12,GLOBAL,Global (237 countries),Moving Average 7d,487074.56,530208.26
+2022-09-13,GLOBAL,Global (237 countries),Moving Average 7d,477452.44,517471.28
+2022-09-14,GLOBAL,Global (237 countries),Moving Average 7d,483839.28,504585.12
+2022-09-15,GLOBAL,Global (237 countries),Moving Average 7d,471646.72,495594.57
+2022-09-16,GLOBAL,Global (237 countries),Moving Average 7d,467628.72,486132.96
+2022-09-17,GLOBAL,Global (237 countries),Moving Average 7d,470029.12,478416.22
+2022-09-18,GLOBAL,Global (237 countries),Moving Average 7d,485090.72,474953.81
+2022-09-19,GLOBAL,Global (237 countries),Moving Average 7d,472652.72,477537.37
+2022-09-20,GLOBAL,Global (237 countries),Moving Average 7d,468823.84,475477.1
+2022-09-21,GLOBAL,Global (237 countries),Moving Average 7d,455803.72,474244.45
+2022-09-22,GLOBAL,Global (237 countries),Moving Average 7d,440059.44,470239.37
+2022-09-23,GLOBAL,Global (237 countries),Moving Average 7d,433239.28,465726.9
+2022-09-24,GLOBAL,Global (237 countries),Moving Average 7d,439137.12,460814.12
+2022-09-25,GLOBAL,Global (237 countries),Moving Average 7d,459748.72,456400.98
+2022-09-26,GLOBAL,Global (237 countries),Moving Average 7d,433919.12,452780.69
+2022-09-27,GLOBAL,Global (237 countries),Moving Average 7d,433457.16,447247.32
+2022-09-28,GLOBAL,Global (237 countries),Moving Average 7d,425146.44,442194.94
+2022-09-29,GLOBAL,Global (237 countries),Moving Average 7d,428551.88,437815.33
+2022-09-30,GLOBAL,Global (237 countries),Moving Average 7d,423578.0,436171.39
+2022-10-01,GLOBAL,Global (237 countries),Moving Average 7d,425653.16,434791.21
+2022-10-02,GLOBAL,Global (237 countries),Moving Average 7d,461529.16,432864.92
+2022-10-03,GLOBAL,Global (237 countries),Moving Average 7d,454369.16,433119.27
+2022-10-04,GLOBAL,Global (237 countries),Moving Average 7d,444051.88,436040.71
+2022-10-05,GLOBAL,Global (237 countries),Moving Average 7d,449701.0,437554.24
+2022-10-06,GLOBAL,Global (237 countries),Moving Average 7d,445470.0,441062.03
+2022-10-07,GLOBAL,Global (237 countries),Moving Average 7d,440273.28,443478.91
+2022-10-08,GLOBAL,Global (237 countries),Moving Average 7d,433577.16,445863.95
+2022-10-09,GLOBAL,Global (237 countries),Moving Average 7d,459793.0,446995.95
+2022-10-10,GLOBAL,Global (237 countries),Moving Average 7d,459513.56,446747.92
+2022-10-11,GLOBAL,Global (237 countries),Moving Average 7d,459323.88,447482.84
+2022-10-12,GLOBAL,Global (237 countries),Moving Average 7d,456776.84,449664.55
+2022-10-13,GLOBAL,Global (237 countries),Moving Average 7d,455698.28,450675.39
+2022-10-14,GLOBAL,Global (237 countries),Moving Average 7d,455037.44,452136.57
+2022-10-15,GLOBAL,Global (237 countries),Moving Average 7d,448334.41,454245.74
+2022-10-16,GLOBAL,Global (237 countries),Moving Average 7d,453645.56,456353.92
+2022-10-17,GLOBAL,Global (237 countries),Moving Average 7d,453605.28,455475.71
+2022-10-18,GLOBAL,Global (237 countries),Moving Average 7d,455491.84,454631.67
+2022-10-19,GLOBAL,Global (237 countries),Moving Average 7d,453843.16,454084.24
+2022-10-20,GLOBAL,Global (237 countries),Moving Average 7d,448214.88,453665.14
+2022-10-21,GLOBAL,Global (237 countries),Moving Average 7d,434600.72,452596.08
+2022-10-22,GLOBAL,Global (237 countries),Moving Average 7d,447990.28,449676.55
+2022-10-23,GLOBAL,Global (237 countries),Moving Average 7d,413941.88,449627.39
+2022-10-24,GLOBAL,Global (237 countries),Moving Average 7d,408128.72,443955.43
+2022-10-25,GLOBAL,Global (237 countries),Moving Average 7d,406890.28,437458.78
+2022-10-26,GLOBAL,Global (237 countries),Moving Average 7d,399092.28,430515.7
+2022-10-27,GLOBAL,Global (237 countries),Moving Average 7d,391642.16,422694.15
+2022-10-28,GLOBAL,Global (237 countries),Moving Average 7d,427147.28,414612.33
+2022-10-29,GLOBAL,Global (237 countries),Moving Average 7d,407057.72,413547.55
+2022-10-30,GLOBAL,Global (237 countries),Moving Average 7d,362054.44,407700.04
+2022-10-31,GLOBAL,Global (237 countries),Moving Average 7d,362080.16,400287.55
+2022-07-01,GLOBAL,Global (237 countries),Linear Regression (AR lags),709054.0,710690.99
+2022-07-02,GLOBAL,Global (237 countries),Linear Regression (AR lags),723805.31,716686.08
+2022-07-03,GLOBAL,Global (237 countries),Linear Regression (AR lags),754368.88,734802.0
+2022-07-04,GLOBAL,Global (237 countries),Linear Regression (AR lags),798575.69,769652.25
+2022-07-05,GLOBAL,Global (237 countries),Linear Regression (AR lags),802049.31,819885.39
+2022-07-06,GLOBAL,Global (237 countries),Linear Regression (AR lags),814069.31,820116.79
+2022-07-07,GLOBAL,Global (237 countries),Linear Regression (AR lags),822406.56,834207.97
+2022-07-08,GLOBAL,Global (237 countries),Linear Regression (AR lags),835758.31,835896.5
+2022-07-09,GLOBAL,Global (237 countries),Linear Regression (AR lags),847830.12,846042.49
+2022-07-10,GLOBAL,Global (237 countries),Linear Regression (AR lags),905667.31,855641.72
+2022-07-11,GLOBAL,Global (237 countries),Linear Regression (AR lags),920924.69,926334.07
+2022-07-12,GLOBAL,Global (237 countries),Linear Regression (AR lags),933228.44,938280.76
+2022-07-13,GLOBAL,Global (237 countries),Linear Regression (AR lags),955413.12,955138.06
+2022-07-14,GLOBAL,Global (237 countries),Linear Regression (AR lags),969397.75,975465.56
+2022-07-15,GLOBAL,Global (237 countries),Linear Regression (AR lags),982024.56,984553.29
+2022-07-16,GLOBAL,Global (237 countries),Linear Regression (AR lags),996328.88,993585.94
+2022-07-17,GLOBAL,Global (237 countries),Linear Regression (AR lags),996233.75,1008656.29
+2022-07-18,GLOBAL,Global (237 countries),Linear Regression (AR lags),1009480.56,1004335.87
+2022-07-19,GLOBAL,Global (237 countries),Linear Regression (AR lags),1015306.31,1017998.26
+2022-07-20,GLOBAL,Global (237 countries),Linear Regression (AR lags),1016264.69,1020917.04
+2022-07-21,GLOBAL,Global (237 countries),Linear Regression (AR lags),1020805.44,1020870.37
+2022-07-22,GLOBAL,Global (237 countries),Linear Regression (AR lags),1029142.31,1024775.05
+2022-07-23,GLOBAL,Global (237 countries),Linear Regression (AR lags),1039040.0,1033393.35
+2022-07-24,GLOBAL,Global (237 countries),Linear Regression (AR lags),1023562.56,1043082.98
+2022-07-25,GLOBAL,Global (237 countries),Linear Regression (AR lags),1034739.31,1023312.04
+2022-07-26,GLOBAL,Global (237 countries),Linear Regression (AR lags),1047992.44,1038247.74
+2022-07-27,GLOBAL,Global (237 countries),Linear Regression (AR lags),1057137.38,1049833.51
+2022-07-28,GLOBAL,Global (237 countries),Linear Regression (AR lags),1060031.38,1060864.87
+2022-07-29,GLOBAL,Global (237 countries),Linear Regression (AR lags),1062563.62,1064642.6
+2022-07-30,GLOBAL,Global (237 countries),Linear Regression (AR lags),1061408.25,1067838.46
+2022-07-31,GLOBAL,Global (237 countries),Linear Regression (AR lags),1027904.88,1062899.0
+2022-08-01,GLOBAL,Global (237 countries),Linear Regression (AR lags),1010887.0,1019984.64
+2022-08-02,GLOBAL,Global (237 countries),Linear Regression (AR lags),1008512.56,1000897.1
+2022-08-03,GLOBAL,Global (237 countries),Linear Regression (AR lags),1006530.69,995995.16
+2022-08-04,GLOBAL,Global (237 countries),Linear Regression (AR lags),1005330.31,995062.73
+2022-08-05,GLOBAL,Global (237 countries),Linear Regression (AR lags),1059067.88,998280.93
+2022-08-06,GLOBAL,Global (237 countries),Linear Regression (AR lags),1054456.12,1069064.46
+2022-08-07,GLOBAL,Global (237 countries),Linear Regression (AR lags),991108.75,1059555.12
+2022-08-08,GLOBAL,Global (237 countries),Linear Regression (AR lags),978719.44,987252.89
+2022-08-09,GLOBAL,Global (237 countries),Linear Regression (AR lags),978266.69,972240.66
+2022-08-10,GLOBAL,Global (237 countries),Linear Regression (AR lags),972005.56,961884.96
+2022-08-11,GLOBAL,Global (237 countries),Linear Regression (AR lags),965646.56,954218.67
+2022-08-12,GLOBAL,Global (237 countries),Linear Regression (AR lags),904372.69,956015.58
+2022-08-13,GLOBAL,Global (237 countries),Linear Regression (AR lags),894078.0,887359.94
+2022-08-14,GLOBAL,Global (237 countries),Linear Regression (AR lags),820968.44,879240.86
+2022-08-15,GLOBAL,Global (237 countries),Linear Regression (AR lags),807428.56,784906.06
+2022-08-16,GLOBAL,Global (237 countries),Linear Regression (AR lags),791508.69,780322.15
+2022-08-17,GLOBAL,Global (237 countries),Linear Regression (AR lags),784220.31,761510.91
+2022-08-18,GLOBAL,Global (237 countries),Linear Regression (AR lags),783923.31,765612.95
+2022-08-19,GLOBAL,Global (237 countries),Linear Regression (AR lags),781103.31,770771.06
+2022-08-20,GLOBAL,Global (237 countries),Linear Regression (AR lags),785159.88,775679.34
+2022-08-21,GLOBAL,Global (237 countries),Linear Regression (AR lags),768974.75,782250.95
+2022-08-22,GLOBAL,Global (237 countries),Linear Regression (AR lags),766534.75,763482.83
+2022-08-23,GLOBAL,Global (237 countries),Linear Regression (AR lags),781298.56,762719.38
+2022-08-24,GLOBAL,Global (237 countries),Linear Regression (AR lags),776202.0,779191.5
+2022-08-25,GLOBAL,Global (237 countries),Linear Regression (AR lags),766783.69,772794.87
+2022-08-26,GLOBAL,Global (237 countries),Linear Regression (AR lags),755980.44,764777.14
+2022-08-27,GLOBAL,Global (237 countries),Linear Regression (AR lags),736273.0,752343.86
+2022-08-28,GLOBAL,Global (237 countries),Linear Regression (AR lags),680573.75,727370.6
+2022-08-29,GLOBAL,Global (237 countries),Linear Regression (AR lags),688527.0,659431.43
+2022-08-30,GLOBAL,Global (237 countries),Linear Regression (AR lags),672679.56,674990.55
+2022-08-31,GLOBAL,Global (237 countries),Linear Regression (AR lags),658517.88,652743.99
+2022-09-01,GLOBAL,Global (237 countries),Linear Regression (AR lags),642108.81,645074.05
+2022-09-02,GLOBAL,Global (237 countries),Linear Regression (AR lags),625941.88,630356.36
+2022-09-03,GLOBAL,Global (237 countries),Linear Regression (AR lags),611900.0,615606.0
+2022-09-04,GLOBAL,Global (237 countries),Linear Regression (AR lags),612723.88,598361.06
+2022-09-05,GLOBAL,Global (237 countries),Linear Regression (AR lags),576233.44,603503.13
+2022-09-06,GLOBAL,Global (237 countries),Linear Regression (AR lags),567655.56,560768.89
+2022-09-07,GLOBAL,Global (237 countries),Linear Regression (AR lags),546773.12,557295.16
+2022-09-08,GLOBAL,Global (237 countries),Linear Regression (AR lags),537878.0,530886.94
+2022-09-09,GLOBAL,Global (237 countries),Linear Regression (AR lags),521645.84,524979.65
+2022-09-10,GLOBAL,Global (237 countries),Linear Regression (AR lags),494266.0,507396.87
+2022-09-11,GLOBAL,Global (237 countries),Linear Regression (AR lags),467005.84,480655.34
+2022-09-12,GLOBAL,Global (237 countries),Linear Regression (AR lags),487074.56,450101.71
+2022-09-13,GLOBAL,Global (237 countries),Linear Regression (AR lags),477452.44,478454.93
+2022-09-14,GLOBAL,Global (237 countries),Linear Regression (AR lags),483839.28,466347.13
+2022-09-15,GLOBAL,Global (237 countries),Linear Regression (AR lags),471646.72,483362.88
+2022-09-16,GLOBAL,Global (237 countries),Linear Regression (AR lags),467628.72,469573.38
+2022-09-17,GLOBAL,Global (237 countries),Linear Regression (AR lags),470029.12,467052.81
+2022-09-18,GLOBAL,Global (237 countries),Linear Regression (AR lags),485090.72,466680.62
+2022-09-19,GLOBAL,Global (237 countries),Linear Regression (AR lags),472652.72,486928.7
+2022-09-20,GLOBAL,Global (237 countries),Linear Regression (AR lags),468823.84,471192.56
+2022-09-21,GLOBAL,Global (237 countries),Linear Regression (AR lags),455803.72,470687.14
+2022-09-22,GLOBAL,Global (237 countries),Linear Regression (AR lags),440059.44,452170.26
+2022-09-23,GLOBAL,Global (237 countries),Linear Regression (AR lags),433239.28,433053.48
+2022-09-24,GLOBAL,Global (237 countries),Linear Regression (AR lags),439137.12,425092.05
+2022-09-25,GLOBAL,Global (237 countries),Linear Regression (AR lags),459748.72,434727.0
+2022-09-26,GLOBAL,Global (237 countries),Linear Regression (AR lags),433919.12,461337.49
+2022-09-27,GLOBAL,Global (237 countries),Linear Regression (AR lags),433457.16,431547.84
+2022-09-28,GLOBAL,Global (237 countries),Linear Regression (AR lags),425146.44,436341.01
+2022-09-29,GLOBAL,Global (237 countries),Linear Regression (AR lags),428551.88,421316.4
+2022-09-30,GLOBAL,Global (237 countries),Linear Regression (AR lags),423578.0,425920.76
+2022-10-01,GLOBAL,Global (237 countries),Linear Regression (AR lags),425653.16,419369.59
+2022-10-02,GLOBAL,Global (237 countries),Linear Regression (AR lags),461529.16,426449.55
+2022-10-03,GLOBAL,Global (237 countries),Linear Regression (AR lags),454369.16,469642.66
+2022-10-04,GLOBAL,Global (237 countries),Linear Regression (AR lags),444051.88,458840.87
+2022-10-05,GLOBAL,Global (237 countries),Linear Regression (AR lags),449701.0,450129.13
+2022-10-06,GLOBAL,Global (237 countries),Linear Regression (AR lags),445470.0,454455.94
+2022-10-07,GLOBAL,Global (237 countries),Linear Regression (AR lags),440273.28,444783.25
+2022-10-08,GLOBAL,Global (237 countries),Linear Regression (AR lags),433577.16,437665.54
+2022-10-09,GLOBAL,Global (237 countries),Linear Regression (AR lags),459793.0,431586.45
+2022-10-10,GLOBAL,Global (237 countries),Linear Regression (AR lags),459513.56,464661.28
+2022-10-11,GLOBAL,Global (237 countries),Linear Regression (AR lags),459323.88,461377.6
+2022-10-12,GLOBAL,Global (237 countries),Linear Regression (AR lags),456776.84,465518.91
+2022-10-13,GLOBAL,Global (237 countries),Linear Regression (AR lags),455698.28,460897.51
+2022-10-14,GLOBAL,Global (237 countries),Linear Regression (AR lags),455037.44,457870.49
+2022-10-15,GLOBAL,Global (237 countries),Linear Regression (AR lags),448334.41,454300.82
+2022-10-16,GLOBAL,Global (237 countries),Linear Regression (AR lags),453645.56,446906.45
+2022-10-17,GLOBAL,Global (237 countries),Linear Regression (AR lags),453605.28,454346.49
+2022-10-18,GLOBAL,Global (237 countries),Linear Regression (AR lags),455491.84,453618.66
+2022-10-19,GLOBAL,Global (237 countries),Linear Regression (AR lags),453843.16,457128.12
+2022-10-20,GLOBAL,Global (237 countries),Linear Regression (AR lags),448214.88,455111.76
+2022-10-21,GLOBAL,Global (237 countries),Linear Regression (AR lags),434600.72,448661.1
+2022-10-22,GLOBAL,Global (237 countries),Linear Regression (AR lags),447990.28,431395.18
+2022-10-23,GLOBAL,Global (237 countries),Linear Regression (AR lags),413941.88,448473.92
+2022-10-24,GLOBAL,Global (237 countries),Linear Regression (AR lags),408128.72,404535.17
+2022-10-25,GLOBAL,Global (237 countries),Linear Regression (AR lags),406890.28,403656.15
+2022-10-26,GLOBAL,Global (237 countries),Linear Regression (AR lags),399092.28,399718.11
+2022-10-27,GLOBAL,Global (237 countries),Linear Regression (AR lags),391642.16,392604.75
+2022-10-28,GLOBAL,Global (237 countries),Linear Regression (AR lags),427147.28,385965.54
+2022-10-29,GLOBAL,Global (237 countries),Linear Regression (AR lags),407057.72,433781.0
+2022-10-30,GLOBAL,Global (237 countries),Linear Regression (AR lags),362054.44,405422.72
+2022-10-31,GLOBAL,Global (237 countries),Linear Regression (AR lags),362080.16,356658.65
+2022-07-01,KAZ,Kazakhstan,Naive (baseline),101.0,81.14
+2022-07-02,KAZ,Kazakhstan,Naive (baseline),119.29,101.0
+2022-07-03,KAZ,Kazakhstan,Naive (baseline),137.0,119.29
+2022-07-04,KAZ,Kazakhstan,Naive (baseline),150.14,137.0
+2022-07-05,KAZ,Kazakhstan,Naive (baseline),168.14,150.14
+2022-07-06,KAZ,Kazakhstan,Naive (baseline),204.14,168.14
+2022-07-07,KAZ,Kazakhstan,Naive (baseline),232.71,204.14
+2022-07-08,KAZ,Kazakhstan,Naive (baseline),252.57,232.71
+2022-07-09,KAZ,Kazakhstan,Naive (baseline),285.86,252.57
+2022-07-10,KAZ,Kazakhstan,Naive (baseline),327.57,285.86
+2022-07-11,KAZ,Kazakhstan,Naive (baseline),369.86,327.57
+2022-07-12,KAZ,Kazakhstan,Naive (baseline),412.14,369.86
+2022-07-13,KAZ,Kazakhstan,Naive (baseline),478.57,412.14
+2022-07-14,KAZ,Kazakhstan,Naive (baseline),588.86,478.57
+2022-07-15,KAZ,Kazakhstan,Naive (baseline),722.71,588.86
+2022-07-16,KAZ,Kazakhstan,Naive (baseline),873.0,722.71
+2022-07-17,KAZ,Kazakhstan,Naive (baseline),1027.14,873.0
+2022-07-18,KAZ,Kazakhstan,Naive (baseline),1173.29,1027.14
+2022-07-19,KAZ,Kazakhstan,Naive (baseline),1311.43,1173.29
+2022-07-20,KAZ,Kazakhstan,Naive (baseline),1474.86,1311.43
+2022-07-21,KAZ,Kazakhstan,Naive (baseline),1639.86,1474.86
+2022-07-22,KAZ,Kazakhstan,Naive (baseline),1814.43,1639.86
+2022-07-23,KAZ,Kazakhstan,Naive (baseline),1985.0,1814.43
+2022-07-24,KAZ,Kazakhstan,Naive (baseline),2143.0,1985.0
+2022-07-25,KAZ,Kazakhstan,Naive (baseline),2225.71,2143.0
+2022-07-26,KAZ,Kazakhstan,Naive (baseline),2284.43,2225.71
+2022-07-27,KAZ,Kazakhstan,Naive (baseline),2389.14,2284.43
+2022-07-28,KAZ,Kazakhstan,Naive (baseline),2523.14,2389.14
+2022-07-29,KAZ,Kazakhstan,Naive (baseline),2612.43,2523.14
+2022-07-30,KAZ,Kazakhstan,Naive (baseline),2678.71,2612.43
+2022-07-31,KAZ,Kazakhstan,Naive (baseline),2687.86,2678.71
+2022-08-01,KAZ,Kazakhstan,Naive (baseline),2739.71,2687.86
+2022-08-02,KAZ,Kazakhstan,Naive (baseline),2762.86,2739.71
+2022-08-03,KAZ,Kazakhstan,Naive (baseline),2760.71,2762.86
+2022-08-04,KAZ,Kazakhstan,Naive (baseline),2675.57,2760.71
+2022-08-05,KAZ,Kazakhstan,Naive (baseline),2602.14,2675.57
+2022-08-06,KAZ,Kazakhstan,Naive (baseline),2474.14,2602.14
+2022-08-07,KAZ,Kazakhstan,Naive (baseline),2400.43,2474.14
+2022-08-08,KAZ,Kazakhstan,Naive (baseline),2251.43,2400.43
+2022-08-09,KAZ,Kazakhstan,Naive (baseline),2123.71,2251.43
+2022-08-10,KAZ,Kazakhstan,Naive (baseline),1978.86,2123.71
+2022-08-11,KAZ,Kazakhstan,Naive (baseline),1844.29,1978.86
+2022-08-12,KAZ,Kazakhstan,Naive (baseline),1709.57,1844.29
+2022-08-13,KAZ,Kazakhstan,Naive (baseline),1597.43,1709.57
+2022-08-14,KAZ,Kazakhstan,Naive (baseline),1462.0,1597.43
+2022-08-15,KAZ,Kazakhstan,Naive (baseline),1398.14,1462.0
+2022-08-16,KAZ,Kazakhstan,Naive (baseline),1349.57,1398.14
+2022-08-17,KAZ,Kazakhstan,Naive (baseline),1269.71,1349.57
+2022-08-18,KAZ,Kazakhstan,Naive (baseline),1199.57,1269.71
+2022-08-19,KAZ,Kazakhstan,Naive (baseline),1098.86,1199.57
+2022-08-20,KAZ,Kazakhstan,Naive (baseline),1021.29,1098.86
+2022-08-21,KAZ,Kazakhstan,Naive (baseline),947.14,1021.29
+2022-08-22,KAZ,Kazakhstan,Naive (baseline),882.71,947.14
+2022-08-23,KAZ,Kazakhstan,Naive (baseline),816.86,882.71
+2022-08-24,KAZ,Kazakhstan,Naive (baseline),753.57,816.86
+2022-08-25,KAZ,Kazakhstan,Naive (baseline),691.14,753.57
+2022-08-26,KAZ,Kazakhstan,Naive (baseline),650.71,691.14
+2022-08-27,KAZ,Kazakhstan,Naive (baseline),612.0,650.71
+2022-08-28,KAZ,Kazakhstan,Naive (baseline),584.86,612.0
+2022-08-29,KAZ,Kazakhstan,Naive (baseline),580.71,584.86
+2022-08-30,KAZ,Kazakhstan,Naive (baseline),566.43,580.71
+2022-08-31,KAZ,Kazakhstan,Naive (baseline),502.57,566.43
+2022-09-01,KAZ,Kazakhstan,Naive (baseline),427.14,502.57
+2022-09-02,KAZ,Kazakhstan,Naive (baseline),394.0,427.14
+2022-09-03,KAZ,Kazakhstan,Naive (baseline),364.14,394.0
+2022-09-04,KAZ,Kazakhstan,Naive (baseline),337.57,364.14
+2022-09-05,KAZ,Kazakhstan,Naive (baseline),301.57,337.57
+2022-09-06,KAZ,Kazakhstan,Naive (baseline),291.14,301.57
+2022-09-07,KAZ,Kazakhstan,Naive (baseline),306.0,291.14
+2022-09-08,KAZ,Kazakhstan,Naive (baseline),322.43,306.0
+2022-09-09,KAZ,Kazakhstan,Naive (baseline),296.57,322.43
+2022-09-10,KAZ,Kazakhstan,Naive (baseline),266.29,296.57
+2022-09-11,KAZ,Kazakhstan,Naive (baseline),239.57,266.29
+2022-09-12,KAZ,Kazakhstan,Naive (baseline),225.0,239.57
+2022-09-13,KAZ,Kazakhstan,Naive (baseline),215.71,225.0
+2022-09-14,KAZ,Kazakhstan,Naive (baseline),196.71,215.71
+2022-09-15,KAZ,Kazakhstan,Naive (baseline),176.0,196.71
+2022-09-16,KAZ,Kazakhstan,Naive (baseline),161.14,176.0
+2022-09-17,KAZ,Kazakhstan,Naive (baseline),152.57,161.14
+2022-09-18,KAZ,Kazakhstan,Naive (baseline),141.43,152.57
+2022-09-19,KAZ,Kazakhstan,Naive (baseline),134.71,141.43
+2022-09-20,KAZ,Kazakhstan,Naive (baseline),131.0,134.71
+2022-09-21,KAZ,Kazakhstan,Naive (baseline),119.43,131.0
+2022-09-22,KAZ,Kazakhstan,Naive (baseline),115.57,119.43
+2022-09-23,KAZ,Kazakhstan,Naive (baseline),111.57,115.57
+2022-09-24,KAZ,Kazakhstan,Naive (baseline),104.43,111.57
+2022-09-25,KAZ,Kazakhstan,Naive (baseline),98.29,104.43
+2022-09-26,KAZ,Kazakhstan,Naive (baseline),97.29,98.29
+2022-09-27,KAZ,Kazakhstan,Naive (baseline),97.86,97.29
+2022-09-28,KAZ,Kazakhstan,Naive (baseline),94.57,97.86
+2022-09-29,KAZ,Kazakhstan,Naive (baseline),87.0,94.57
+2022-09-30,KAZ,Kazakhstan,Naive (baseline),82.57,87.0
+2022-10-01,KAZ,Kazakhstan,Naive (baseline),77.57,82.57
+2022-10-02,KAZ,Kazakhstan,Naive (baseline),76.14,77.57
+2022-10-03,KAZ,Kazakhstan,Naive (baseline),74.14,76.14
+2022-10-04,KAZ,Kazakhstan,Naive (baseline),68.57,74.14
+2022-10-05,KAZ,Kazakhstan,Naive (baseline),64.0,68.57
+2022-10-06,KAZ,Kazakhstan,Naive (baseline),58.71,64.0
+2022-10-07,KAZ,Kazakhstan,Naive (baseline),52.0,58.71
+2022-10-08,KAZ,Kazakhstan,Naive (baseline),49.57,52.0
+2022-10-09,KAZ,Kazakhstan,Naive (baseline),47.71,49.57
+2022-10-10,KAZ,Kazakhstan,Naive (baseline),48.0,47.71
+2022-10-11,KAZ,Kazakhstan,Naive (baseline),47.57,48.0
+2022-10-12,KAZ,Kazakhstan,Naive (baseline),46.14,47.57
+2022-10-13,KAZ,Kazakhstan,Naive (baseline),46.0,46.14
+2022-10-14,KAZ,Kazakhstan,Naive (baseline),46.71,46.0
+2022-10-15,KAZ,Kazakhstan,Naive (baseline),46.71,46.71
+2022-10-16,KAZ,Kazakhstan,Naive (baseline),46.29,46.71
+2022-10-17,KAZ,Kazakhstan,Naive (baseline),43.71,46.29
+2022-10-18,KAZ,Kazakhstan,Naive (baseline),42.71,43.71
+2022-10-19,KAZ,Kazakhstan,Naive (baseline),43.57,42.71
+2022-10-20,KAZ,Kazakhstan,Naive (baseline),43.0,43.57
+2022-10-21,KAZ,Kazakhstan,Naive (baseline),41.57,43.0
+2022-10-22,KAZ,Kazakhstan,Naive (baseline),40.29,41.57
+2022-10-23,KAZ,Kazakhstan,Naive (baseline),34.71,40.29
+2022-10-24,KAZ,Kazakhstan,Naive (baseline),33.0,34.71
+2022-10-25,KAZ,Kazakhstan,Naive (baseline),30.29,33.0
+2022-10-26,KAZ,Kazakhstan,Naive (baseline),36.86,30.29
+2022-10-27,KAZ,Kazakhstan,Naive (baseline),31.57,36.86
+2022-10-28,KAZ,Kazakhstan,Naive (baseline),30.57,31.57
+2022-10-29,KAZ,Kazakhstan,Naive (baseline),31.57,30.57
+2022-10-30,KAZ,Kazakhstan,Naive (baseline),39.86,31.57
+2022-10-31,KAZ,Kazakhstan,Naive (baseline),42.14,39.86
+2022-07-01,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),101.0,30.57
+2022-07-02,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),119.29,35.86
+2022-07-03,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),137.0,42.71
+2022-07-04,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),150.14,50.43
+2022-07-05,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),168.14,56.29
+2022-07-06,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),204.14,67.57
+2022-07-07,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),232.71,81.14
+2022-07-08,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),252.57,101.0
+2022-07-09,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),285.86,119.29
+2022-07-10,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),327.57,137.0
+2022-07-11,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),369.86,150.14
+2022-07-12,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),412.14,168.14
+2022-07-13,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),478.57,204.14
+2022-07-14,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),588.86,232.71
+2022-07-15,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),722.71,252.57
+2022-07-16,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),873.0,285.86
+2022-07-17,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1027.14,327.57
+2022-07-18,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1173.29,369.86
+2022-07-19,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1311.43,412.14
+2022-07-20,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1474.86,478.57
+2022-07-21,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1639.86,588.86
+2022-07-22,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1814.43,722.71
+2022-07-23,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1985.0,873.0
+2022-07-24,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2143.0,1027.14
+2022-07-25,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2225.71,1173.29
+2022-07-26,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2284.43,1311.43
+2022-07-27,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2389.14,1474.86
+2022-07-28,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2523.14,1639.86
+2022-07-29,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2612.43,1814.43
+2022-07-30,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2678.71,1985.0
+2022-07-31,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2687.86,2143.0
+2022-08-01,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2739.71,2225.71
+2022-08-02,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2762.86,2284.43
+2022-08-03,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2760.71,2389.14
+2022-08-04,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2675.57,2523.14
+2022-08-05,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2602.14,2612.43
+2022-08-06,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2474.14,2678.71
+2022-08-07,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2400.43,2687.86
+2022-08-08,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2251.43,2739.71
+2022-08-09,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),2123.71,2762.86
+2022-08-10,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1978.86,2760.71
+2022-08-11,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1844.29,2675.57
+2022-08-12,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1709.57,2602.14
+2022-08-13,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1597.43,2474.14
+2022-08-14,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1462.0,2400.43
+2022-08-15,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1398.14,2251.43
+2022-08-16,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1349.57,2123.71
+2022-08-17,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1269.71,1978.86
+2022-08-18,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1199.57,1844.29
+2022-08-19,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1098.86,1709.57
+2022-08-20,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),1021.29,1597.43
+2022-08-21,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),947.14,1462.0
+2022-08-22,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),882.71,1398.14
+2022-08-23,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),816.86,1349.57
+2022-08-24,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),753.57,1269.71
+2022-08-25,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),691.14,1199.57
+2022-08-26,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),650.71,1098.86
+2022-08-27,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),612.0,1021.29
+2022-08-28,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),584.86,947.14
+2022-08-29,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),580.71,882.71
+2022-08-30,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),566.43,816.86
+2022-08-31,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),502.57,753.57
+2022-09-01,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),427.14,691.14
+2022-09-02,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),394.0,650.71
+2022-09-03,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),364.14,612.0
+2022-09-04,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),337.57,584.86
+2022-09-05,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),301.57,580.71
+2022-09-06,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),291.14,566.43
+2022-09-07,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),306.0,502.57
+2022-09-08,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),322.43,427.14
+2022-09-09,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),296.57,394.0
+2022-09-10,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),266.29,364.14
+2022-09-11,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),239.57,337.57
+2022-09-12,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),225.0,301.57
+2022-09-13,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),215.71,291.14
+2022-09-14,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),196.71,306.0
+2022-09-15,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),176.0,322.43
+2022-09-16,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),161.14,296.57
+2022-09-17,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),152.57,266.29
+2022-09-18,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),141.43,239.57
+2022-09-19,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),134.71,225.0
+2022-09-20,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),131.0,215.71
+2022-09-21,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),119.43,196.71
+2022-09-22,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),115.57,176.0
+2022-09-23,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),111.57,161.14
+2022-09-24,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),104.43,152.57
+2022-09-25,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),98.29,141.43
+2022-09-26,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),97.29,134.71
+2022-09-27,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),97.86,131.0
+2022-09-28,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),94.57,119.43
+2022-09-29,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),87.0,115.57
+2022-09-30,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),82.57,111.57
+2022-10-01,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),77.57,104.43
+2022-10-02,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),76.14,98.29
+2022-10-03,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),74.14,97.29
+2022-10-04,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),68.57,97.86
+2022-10-05,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),64.0,94.57
+2022-10-06,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),58.71,87.0
+2022-10-07,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),52.0,82.57
+2022-10-08,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),49.57,77.57
+2022-10-09,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),47.71,76.14
+2022-10-10,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),48.0,74.14
+2022-10-11,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),47.57,68.57
+2022-10-12,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),46.14,64.0
+2022-10-13,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),46.0,58.71
+2022-10-14,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),46.71,52.0
+2022-10-15,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),46.71,49.57
+2022-10-16,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),46.29,47.71
+2022-10-17,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),43.71,48.0
+2022-10-18,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),42.71,47.57
+2022-10-19,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),43.57,46.14
+2022-10-20,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),43.0,46.0
+2022-10-21,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),41.57,46.71
+2022-10-22,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),40.29,46.71
+2022-10-23,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),34.71,46.29
+2022-10-24,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),33.0,43.71
+2022-10-25,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),30.29,42.71
+2022-10-26,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),36.86,43.57
+2022-10-27,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),31.57,43.0
+2022-10-28,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),30.57,41.57
+2022-10-29,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),31.57,40.29
+2022-10-30,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),39.86,34.71
+2022-10-31,KAZ,Kazakhstan,Seasonal Naive 7d (baseline),42.14,33.0
+2022-07-01,KAZ,Kazakhstan,Moving Average 7d,101.0,52.08
+2022-07-02,KAZ,Kazakhstan,Moving Average 7d,119.29,62.14
+2022-07-03,KAZ,Kazakhstan,Moving Average 7d,137.0,74.06
+2022-07-04,KAZ,Kazakhstan,Moving Average 7d,150.14,87.53
+2022-07-05,KAZ,Kazakhstan,Moving Average 7d,168.14,101.78
+2022-07-06,KAZ,Kazakhstan,Moving Average 7d,204.14,117.76
+2022-07-07,KAZ,Kazakhstan,Moving Average 7d,232.71,137.27
+2022-07-08,KAZ,Kazakhstan,Moving Average 7d,252.57,158.92
+2022-07-09,KAZ,Kazakhstan,Moving Average 7d,285.86,180.57
+2022-07-10,KAZ,Kazakhstan,Moving Average 7d,327.57,204.37
+2022-07-11,KAZ,Kazakhstan,Moving Average 7d,369.86,231.59
+2022-07-12,KAZ,Kazakhstan,Moving Average 7d,412.14,262.98
+2022-07-13,KAZ,Kazakhstan,Moving Average 7d,478.57,297.84
+2022-07-14,KAZ,Kazakhstan,Moving Average 7d,588.86,337.04
+2022-07-15,KAZ,Kazakhstan,Moving Average 7d,722.71,387.92
+2022-07-16,KAZ,Kazakhstan,Moving Average 7d,873.0,455.08
+2022-07-17,KAZ,Kazakhstan,Moving Average 7d,1027.14,538.96
+2022-07-18,KAZ,Kazakhstan,Moving Average 7d,1173.29,638.9
+2022-07-19,KAZ,Kazakhstan,Moving Average 7d,1311.43,753.67
+2022-07-20,KAZ,Kazakhstan,Moving Average 7d,1474.86,882.14
+2022-07-21,KAZ,Kazakhstan,Moving Average 7d,1639.86,1024.47
+2022-07-22,KAZ,Kazakhstan,Moving Average 7d,1814.43,1174.61
+2022-07-23,KAZ,Kazakhstan,Moving Average 7d,1985.0,1330.57
+2022-07-24,KAZ,Kazakhstan,Moving Average 7d,2143.0,1489.43
+2022-07-25,KAZ,Kazakhstan,Moving Average 7d,2225.71,1648.84
+2022-07-26,KAZ,Kazakhstan,Moving Average 7d,2284.43,1799.18
+2022-07-27,KAZ,Kazakhstan,Moving Average 7d,2389.14,1938.18
+2022-07-28,KAZ,Kazakhstan,Moving Average 7d,2523.14,2068.8
+2022-07-29,KAZ,Kazakhstan,Moving Average 7d,2612.43,2194.98
+2022-07-30,KAZ,Kazakhstan,Moving Average 7d,2678.71,2308.98
+2022-07-31,KAZ,Kazakhstan,Moving Average 7d,2687.86,2408.08
+2022-08-01,KAZ,Kazakhstan,Moving Average 7d,2739.71,2485.92
+2022-08-02,KAZ,Kazakhstan,Moving Average 7d,2762.86,2559.35
+2022-08-03,KAZ,Kazakhstan,Moving Average 7d,2760.71,2627.69
+2022-08-04,KAZ,Kazakhstan,Moving Average 7d,2675.57,2680.78
+2022-08-05,KAZ,Kazakhstan,Moving Average 7d,2602.14,2702.55
+2022-08-06,KAZ,Kazakhstan,Moving Average 7d,2474.14,2701.08
+2022-08-07,KAZ,Kazakhstan,Moving Average 7d,2400.43,2671.86
+2022-08-08,KAZ,Kazakhstan,Moving Average 7d,2251.43,2630.8
+2022-08-09,KAZ,Kazakhstan,Moving Average 7d,2123.71,2561.04
+2022-08-10,KAZ,Kazakhstan,Moving Average 7d,1978.86,2469.73
+2022-08-11,KAZ,Kazakhstan,Moving Average 7d,1844.29,2358.04
+2022-08-12,KAZ,Kazakhstan,Moving Average 7d,1709.57,2239.29
+2022-08-13,KAZ,Kazakhstan,Moving Average 7d,1597.43,2111.78
+2022-08-14,KAZ,Kazakhstan,Moving Average 7d,1462.0,1986.53
+2022-08-15,KAZ,Kazakhstan,Moving Average 7d,1398.14,1852.47
+2022-08-16,KAZ,Kazakhstan,Moving Average 7d,1349.57,1730.57
+2022-08-17,KAZ,Kazakhstan,Moving Average 7d,1269.71,1619.98
+2022-08-18,KAZ,Kazakhstan,Moving Average 7d,1199.57,1518.67
+2022-08-19,KAZ,Kazakhstan,Moving Average 7d,1098.86,1426.57
+2022-08-20,KAZ,Kazakhstan,Moving Average 7d,1021.29,1339.33
+2022-08-21,KAZ,Kazakhstan,Moving Average 7d,947.14,1257.02
+2022-08-22,KAZ,Kazakhstan,Moving Average 7d,882.71,1183.47
+2022-08-23,KAZ,Kazakhstan,Moving Average 7d,816.86,1109.84
+2022-08-24,KAZ,Kazakhstan,Moving Average 7d,753.57,1033.73
+2022-08-25,KAZ,Kazakhstan,Moving Average 7d,691.14,960.0
+2022-08-26,KAZ,Kazakhstan,Moving Average 7d,650.71,887.37
+2022-08-27,KAZ,Kazakhstan,Moving Average 7d,612.0,823.35
+2022-08-28,KAZ,Kazakhstan,Moving Average 7d,584.86,764.88
+2022-08-29,KAZ,Kazakhstan,Moving Average 7d,580.71,713.12
+2022-08-30,KAZ,Kazakhstan,Moving Average 7d,566.43,669.98
+2022-08-31,KAZ,Kazakhstan,Moving Average 7d,502.57,634.2
+2022-09-01,KAZ,Kazakhstan,Moving Average 7d,427.14,598.35
+2022-09-02,KAZ,Kazakhstan,Moving Average 7d,394.0,560.63
+2022-09-03,KAZ,Kazakhstan,Moving Average 7d,364.14,523.96
+2022-09-04,KAZ,Kazakhstan,Moving Average 7d,337.57,488.55
+2022-09-05,KAZ,Kazakhstan,Moving Average 7d,301.57,453.22
+2022-09-06,KAZ,Kazakhstan,Moving Average 7d,291.14,413.35
+2022-09-07,KAZ,Kazakhstan,Moving Average 7d,306.0,374.02
+2022-09-08,KAZ,Kazakhstan,Moving Average 7d,322.43,345.94
+2022-09-09,KAZ,Kazakhstan,Moving Average 7d,296.57,330.98
+2022-09-10,KAZ,Kazakhstan,Moving Average 7d,266.29,317.06
+2022-09-11,KAZ,Kazakhstan,Moving Average 7d,239.57,303.08
+2022-09-12,KAZ,Kazakhstan,Moving Average 7d,225.0,289.08
+2022-09-13,KAZ,Kazakhstan,Moving Average 7d,215.71,278.14
+2022-09-14,KAZ,Kazakhstan,Moving Average 7d,196.71,267.37
+2022-09-15,KAZ,Kazakhstan,Moving Average 7d,176.0,251.76
+2022-09-16,KAZ,Kazakhstan,Moving Average 7d,161.14,230.84
+2022-09-17,KAZ,Kazakhstan,Moving Average 7d,152.57,211.49
+2022-09-18,KAZ,Kazakhstan,Moving Average 7d,141.43,195.24
+2022-09-19,KAZ,Kazakhstan,Moving Average 7d,134.71,181.22
+2022-09-20,KAZ,Kazakhstan,Moving Average 7d,131.0,168.33
+2022-09-21,KAZ,Kazakhstan,Moving Average 7d,119.43,156.22
+2022-09-22,KAZ,Kazakhstan,Moving Average 7d,115.57,145.18
+2022-09-23,KAZ,Kazakhstan,Moving Average 7d,111.57,136.55
+2022-09-24,KAZ,Kazakhstan,Moving Average 7d,104.43,129.47
+2022-09-25,KAZ,Kazakhstan,Moving Average 7d,98.29,122.59
+2022-09-26,KAZ,Kazakhstan,Moving Average 7d,97.29,116.43
+2022-09-27,KAZ,Kazakhstan,Moving Average 7d,97.86,111.08
+2022-09-28,KAZ,Kazakhstan,Moving Average 7d,94.57,106.35
+2022-09-29,KAZ,Kazakhstan,Moving Average 7d,87.0,102.8
+2022-09-30,KAZ,Kazakhstan,Moving Average 7d,82.57,98.71
+2022-10-01,KAZ,Kazakhstan,Moving Average 7d,77.57,94.57
+2022-10-02,KAZ,Kazakhstan,Moving Average 7d,76.14,90.73
+2022-10-03,KAZ,Kazakhstan,Moving Average 7d,74.14,87.57
+2022-10-04,KAZ,Kazakhstan,Moving Average 7d,68.57,84.27
+2022-10-05,KAZ,Kazakhstan,Moving Average 7d,64.0,80.08
+2022-10-06,KAZ,Kazakhstan,Moving Average 7d,58.71,75.71
+2022-10-07,KAZ,Kazakhstan,Moving Average 7d,52.0,71.67
+2022-10-08,KAZ,Kazakhstan,Moving Average 7d,49.57,67.31
+2022-10-09,KAZ,Kazakhstan,Moving Average 7d,47.71,63.31
+2022-10-10,KAZ,Kazakhstan,Moving Average 7d,48.0,59.24
+2022-10-11,KAZ,Kazakhstan,Moving Average 7d,47.57,55.51
+2022-10-12,KAZ,Kazakhstan,Moving Average 7d,46.14,52.51
+2022-10-13,KAZ,Kazakhstan,Moving Average 7d,46.0,49.96
+2022-10-14,KAZ,Kazakhstan,Moving Average 7d,46.71,48.14
+2022-10-15,KAZ,Kazakhstan,Moving Average 7d,46.71,47.39
+2022-10-16,KAZ,Kazakhstan,Moving Average 7d,46.29,46.98
+2022-10-17,KAZ,Kazakhstan,Moving Average 7d,43.71,46.78
+2022-10-18,KAZ,Kazakhstan,Moving Average 7d,42.71,46.16
+2022-10-19,KAZ,Kazakhstan,Moving Average 7d,43.57,45.47
+2022-10-20,KAZ,Kazakhstan,Moving Average 7d,43.0,45.1
+2022-10-21,KAZ,Kazakhstan,Moving Average 7d,41.57,44.67
+2022-10-22,KAZ,Kazakhstan,Moving Average 7d,40.29,43.94
+2022-10-23,KAZ,Kazakhstan,Moving Average 7d,34.71,43.02
+2022-10-24,KAZ,Kazakhstan,Moving Average 7d,33.0,41.37
+2022-10-25,KAZ,Kazakhstan,Moving Average 7d,30.29,39.84
+2022-10-26,KAZ,Kazakhstan,Moving Average 7d,36.86,38.06
+2022-10-27,KAZ,Kazakhstan,Moving Average 7d,31.57,37.1
+2022-10-28,KAZ,Kazakhstan,Moving Average 7d,30.57,35.47
+2022-10-29,KAZ,Kazakhstan,Moving Average 7d,31.57,33.9
+2022-10-30,KAZ,Kazakhstan,Moving Average 7d,39.86,32.65
+2022-10-31,KAZ,Kazakhstan,Moving Average 7d,42.14,33.39
+2022-07-01,KAZ,Kazakhstan,Linear Regression (AR lags),101.0,101.93
+2022-07-02,KAZ,Kazakhstan,Linear Regression (AR lags),119.29,125.74
+2022-07-03,KAZ,Kazakhstan,Linear Regression (AR lags),137.0,145.44
+2022-07-04,KAZ,Kazakhstan,Linear Regression (AR lags),150.14,163.18
+2022-07-05,KAZ,Kazakhstan,Linear Regression (AR lags),168.14,173.82
+2022-07-06,KAZ,Kazakhstan,Linear Regression (AR lags),204.14,192.39
+2022-07-07,KAZ,Kazakhstan,Linear Regression (AR lags),232.71,237.32
+2022-07-08,KAZ,Kazakhstan,Linear Regression (AR lags),252.57,267.58
+2022-07-09,KAZ,Kazakhstan,Linear Regression (AR lags),285.86,283.03
+2022-07-10,KAZ,Kazakhstan,Linear Regression (AR lags),327.57,320.34
+2022-07-11,KAZ,Kazakhstan,Linear Regression (AR lags),369.86,368.29
+2022-07-12,KAZ,Kazakhstan,Linear Regression (AR lags),412.14,413.06
+2022-07-13,KAZ,Kazakhstan,Linear Regression (AR lags),478.57,456.9
+2022-07-14,KAZ,Kazakhstan,Linear Regression (AR lags),588.86,535.36
+2022-07-15,KAZ,Kazakhstan,Linear Regression (AR lags),722.71,672.67
+2022-07-16,KAZ,Kazakhstan,Linear Regression (AR lags),873.0,832.03
+2022-07-17,KAZ,Kazakhstan,Linear Regression (AR lags),1027.14,1002.11
+2022-07-18,KAZ,Kazakhstan,Linear Regression (AR lags),1173.29,1167.0
+2022-07-19,KAZ,Kazakhstan,Linear Regression (AR lags),1311.43,1311.78
+2022-07-20,KAZ,Kazakhstan,Linear Regression (AR lags),1474.86,1442.25
+2022-07-21,KAZ,Kazakhstan,Linear Regression (AR lags),1639.86,1611.97
+2022-07-22,KAZ,Kazakhstan,Linear Regression (AR lags),1814.43,1780.77
+2022-07-23,KAZ,Kazakhstan,Linear Regression (AR lags),1985.0,1959.96
+2022-07-24,KAZ,Kazakhstan,Linear Regression (AR lags),2143.0,2130.94
+2022-07-25,KAZ,Kazakhstan,Linear Regression (AR lags),2225.71,2281.18
+2022-07-26,KAZ,Kazakhstan,Linear Regression (AR lags),2284.43,2321.44
+2022-07-27,KAZ,Kazakhstan,Linear Regression (AR lags),2389.14,2343.34
+2022-07-28,KAZ,Kazakhstan,Linear Regression (AR lags),2523.14,2452.34
+2022-07-29,KAZ,Kazakhstan,Linear Regression (AR lags),2612.43,2605.58
+2022-07-30,KAZ,Kazakhstan,Linear Regression (AR lags),2678.71,2684.68
+2022-07-31,KAZ,Kazakhstan,Linear Regression (AR lags),2687.86,2735.14
+2022-08-01,KAZ,Kazakhstan,Linear Regression (AR lags),2739.71,2708.98
+2022-08-02,KAZ,Kazakhstan,Linear Regression (AR lags),2762.86,2758.31
+2022-08-03,KAZ,Kazakhstan,Linear Regression (AR lags),2760.71,2771.54
+2022-08-04,KAZ,Kazakhstan,Linear Regression (AR lags),2675.57,2752.14
+2022-08-05,KAZ,Kazakhstan,Linear Regression (AR lags),2602.14,2621.07
+2022-08-06,KAZ,Kazakhstan,Linear Regression (AR lags),2474.14,2528.82
+2022-08-07,KAZ,Kazakhstan,Linear Regression (AR lags),2400.43,2368.0
+2022-08-08,KAZ,Kazakhstan,Linear Regression (AR lags),2251.43,2302.49
+2022-08-09,KAZ,Kazakhstan,Linear Regression (AR lags),2123.71,2129.72
+2022-08-10,KAZ,Kazakhstan,Linear Regression (AR lags),1978.86,1998.43
+2022-08-11,KAZ,Kazakhstan,Linear Regression (AR lags),1844.29,1849.12
+2022-08-12,KAZ,Kazakhstan,Linear Regression (AR lags),1709.57,1717.85
+2022-08-13,KAZ,Kazakhstan,Linear Regression (AR lags),1597.43,1585.72
+2022-08-14,KAZ,Kazakhstan,Linear Regression (AR lags),1462.0,1489.52
+2022-08-15,KAZ,Kazakhstan,Linear Regression (AR lags),1398.14,1352.34
+2022-08-16,KAZ,Kazakhstan,Linear Regression (AR lags),1349.57,1321.48
+2022-08-17,KAZ,Kazakhstan,Linear Regression (AR lags),1269.71,1301.68
+2022-08-18,KAZ,Kazakhstan,Linear Regression (AR lags),1199.57,1219.06
+2022-08-19,KAZ,Kazakhstan,Linear Regression (AR lags),1098.86,1150.31
+2022-08-20,KAZ,Kazakhstan,Linear Regression (AR lags),1021.29,1037.3
+2022-08-21,KAZ,Kazakhstan,Linear Regression (AR lags),947.14,959.44
+2022-08-22,KAZ,Kazakhstan,Linear Regression (AR lags),882.71,889.54
+2022-08-23,KAZ,Kazakhstan,Linear Regression (AR lags),816.86,832.38
+2022-08-24,KAZ,Kazakhstan,Linear Regression (AR lags),753.57,769.43
+2022-08-25,KAZ,Kazakhstan,Linear Regression (AR lags),691.14,709.35
+2022-08-26,KAZ,Kazakhstan,Linear Regression (AR lags),650.71,647.57
+2022-08-27,KAZ,Kazakhstan,Linear Regression (AR lags),612.0,617.95
+2022-08-28,KAZ,Kazakhstan,Linear Regression (AR lags),584.86,585.9
+2022-08-29,KAZ,Kazakhstan,Linear Regression (AR lags),580.71,567.54
+2022-08-30,KAZ,Kazakhstan,Linear Regression (AR lags),566.43,579.48
+2022-08-31,KAZ,Kazakhstan,Linear Regression (AR lags),502.57,568.51
+2022-09-01,KAZ,Kazakhstan,Linear Regression (AR lags),427.14,480.48
+2022-09-02,KAZ,Kazakhstan,Linear Regression (AR lags),394.0,384.94
+2022-09-03,KAZ,Kazakhstan,Linear Regression (AR lags),364.14,362.15
+2022-09-04,KAZ,Kazakhstan,Linear Regression (AR lags),337.57,340.71
+2022-09-05,KAZ,Kazakhstan,Linear Regression (AR lags),301.57,320.08
+2022-09-06,KAZ,Kazakhstan,Linear Regression (AR lags),291.14,284.96
+2022-09-07,KAZ,Kazakhstan,Linear Regression (AR lags),306.0,285.53
+2022-09-08,KAZ,Kazakhstan,Linear Regression (AR lags),322.43,317.55
+2022-09-09,KAZ,Kazakhstan,Linear Regression (AR lags),296.57,344.12
+2022-09-10,KAZ,Kazakhstan,Linear Regression (AR lags),266.29,302.54
+2022-09-11,KAZ,Kazakhstan,Linear Regression (AR lags),239.57,260.15
+2022-09-12,KAZ,Kazakhstan,Linear Regression (AR lags),225.0,229.01
+2022-09-13,KAZ,Kazakhstan,Linear Regression (AR lags),215.71,217.34
+2022-09-14,KAZ,Kazakhstan,Linear Regression (AR lags),196.71,212.99
+2022-09-15,KAZ,Kazakhstan,Linear Regression (AR lags),176.0,193.18
+2022-09-16,KAZ,Kazakhstan,Linear Regression (AR lags),161.14,170.35
+2022-09-17,KAZ,Kazakhstan,Linear Regression (AR lags),152.57,157.1
+2022-09-18,KAZ,Kazakhstan,Linear Regression (AR lags),141.43,152.11
+2022-09-19,KAZ,Kazakhstan,Linear Regression (AR lags),134.71,141.64
+2022-09-20,KAZ,Kazakhstan,Linear Regression (AR lags),131.0,137.75
+2022-09-21,KAZ,Kazakhstan,Linear Regression (AR lags),119.43,137.42
+2022-09-22,KAZ,Kazakhstan,Linear Regression (AR lags),115.57,123.61
+2022-09-23,KAZ,Kazakhstan,Linear Regression (AR lags),111.57,121.35
+2022-09-24,KAZ,Kazakhstan,Linear Regression (AR lags),104.43,118.78
+2022-09-25,KAZ,Kazakhstan,Linear Regression (AR lags),98.29,110.17
+2022-09-26,KAZ,Kazakhstan,Linear Regression (AR lags),97.29,103.78
+2022-09-27,KAZ,Kazakhstan,Linear Regression (AR lags),97.86,105.53
+2022-09-28,KAZ,Kazakhstan,Linear Regression (AR lags),94.57,107.88
+2022-09-29,KAZ,Kazakhstan,Linear Regression (AR lags),87.0,103.62
+2022-09-30,KAZ,Kazakhstan,Linear Regression (AR lags),82.57,93.39
+2022-10-01,KAZ,Kazakhstan,Linear Regression (AR lags),77.57,88.9
+2022-10-02,KAZ,Kazakhstan,Linear Regression (AR lags),76.14,83.62
+2022-10-03,KAZ,Kazakhstan,Linear Regression (AR lags),74.14,83.67
+2022-10-04,KAZ,Kazakhstan,Linear Regression (AR lags),68.57,82.66
+2022-10-05,KAZ,Kazakhstan,Linear Regression (AR lags),64.0,75.71
+2022-10-06,KAZ,Kazakhstan,Linear Regression (AR lags),58.71,70.65
+2022-10-07,KAZ,Kazakhstan,Linear Regression (AR lags),52.0,64.98
+2022-10-08,KAZ,Kazakhstan,Linear Regression (AR lags),49.57,57.14
+2022-10-09,KAZ,Kazakhstan,Linear Regression (AR lags),47.71,56.28
+2022-10-10,KAZ,Kazakhstan,Linear Regression (AR lags),48.0,55.94
+2022-10-11,KAZ,Kazakhstan,Linear Regression (AR lags),47.57,57.83
+2022-10-12,KAZ,Kazakhstan,Linear Regression (AR lags),46.14,58.04
+2022-10-13,KAZ,Kazakhstan,Linear Regression (AR lags),46.0,56.27
+2022-10-14,KAZ,Kazakhstan,Linear Regression (AR lags),46.71,56.35
+2022-10-15,KAZ,Kazakhstan,Linear Regression (AR lags),46.71,57.67
+2022-10-16,KAZ,Kazakhstan,Linear Regression (AR lags),46.29,57.57
+2022-10-17,KAZ,Kazakhstan,Linear Regression (AR lags),43.71,56.89
+2022-10-18,KAZ,Kazakhstan,Linear Regression (AR lags),42.71,53.14
+2022-10-19,KAZ,Kazakhstan,Linear Regression (AR lags),43.57,52.1
+2022-10-20,KAZ,Kazakhstan,Linear Regression (AR lags),43.0,53.95
+2022-10-21,KAZ,Kazakhstan,Linear Regression (AR lags),41.57,53.22
+2022-10-22,KAZ,Kazakhstan,Linear Regression (AR lags),40.29,51.24
+2022-10-23,KAZ,Kazakhstan,Linear Regression (AR lags),34.71,49.82
+2022-10-24,KAZ,Kazakhstan,Linear Regression (AR lags),33.0,42.07
+2022-10-25,KAZ,Kazakhstan,Linear Regression (AR lags),30.29,40.84
+2022-10-26,KAZ,Kazakhstan,Linear Regression (AR lags),36.86,38.36
+2022-10-27,KAZ,Kazakhstan,Linear Regression (AR lags),31.57,49.27
+2022-10-28,KAZ,Kazakhstan,Linear Regression (AR lags),30.57,41.15
+2022-10-29,KAZ,Kazakhstan,Linear Regression (AR lags),31.57,39.91
+2022-10-30,KAZ,Kazakhstan,Linear Regression (AR lags),39.86,42.27
+2022-10-31,KAZ,Kazakhstan,Linear Regression (AR lags),42.14,54.47
+2022-07-01,USA,United States,Naive (baseline),107686.43,105577.71
+2022-07-02,USA,United States,Naive (baseline),109256.0,107686.43
+2022-07-03,USA,United States,Naive (baseline),110538.86,109256.0
+2022-07-04,USA,United States,Naive (baseline),111134.0,110538.86
+2022-07-05,USA,United States,Naive (baseline),111422.29,111134.0
+2022-07-06,USA,United States,Naive (baseline),104167.57,111422.29
+2022-07-07,USA,United States,Naive (baseline),106295.57,104167.57
+2022-07-08,USA,United States,Naive (baseline),105837.29,106295.57
+2022-07-09,USA,United States,Naive (baseline),106942.86,105837.29
+2022-07-10,USA,United States,Naive (baseline),106252.71,106942.86
+2022-07-11,USA,United States,Naive (baseline),107309.71,106252.71
+2022-07-12,USA,United States,Naive (baseline),108872.57,107309.71
+2022-07-13,USA,United States,Naive (baseline),118573.86,108872.57
+2022-07-14,USA,United States,Naive (baseline),120637.57,118573.86
+2022-07-15,USA,United States,Naive (baseline),122101.86,120637.57
+2022-07-16,USA,United States,Naive (baseline),124728.71,122101.86
+2022-07-17,USA,United States,Naive (baseline),126889.86,124728.71
+2022-07-18,USA,United States,Naive (baseline),127175.57,126889.86
+2022-07-19,USA,United States,Naive (baseline),127023.29,127175.57
+2022-07-20,USA,United States,Naive (baseline),125313.43,127023.29
+2022-07-21,USA,United States,Naive (baseline),124633.43,125313.43
+2022-07-22,USA,United States,Naive (baseline),125045.29,124633.43
+2022-07-23,USA,United States,Naive (baseline),126397.0,125045.29
+2022-07-24,USA,United States,Naive (baseline),129813.57,126397.0
+2022-07-25,USA,United States,Naive (baseline),129196.71,129813.57
+2022-07-26,USA,United States,Naive (baseline),128986.57,129196.71
+2022-07-27,USA,United States,Naive (baseline),129660.29,128986.57
+2022-07-28,USA,United States,Naive (baseline),128132.43,129660.29
+2022-07-29,USA,United States,Naive (baseline),128410.57,128132.43
+2022-07-30,USA,United States,Naive (baseline),127894.71,128410.57
+2022-07-31,USA,United States,Naive (baseline),135426.14,127894.71
+2022-08-01,USA,United States,Naive (baseline),133233.86,135426.14
+2022-08-02,USA,United States,Naive (baseline),130854.57,133233.86
+2022-08-03,USA,United States,Naive (baseline),132659.58,130854.57
+2022-08-04,USA,United States,Naive (baseline),131612.28,132659.58
+2022-08-05,USA,United States,Naive (baseline),130041.43,131612.28
+2022-08-06,USA,United States,Naive (baseline),128122.71,130041.43
+2022-08-07,USA,United States,Naive (baseline),112578.71,128122.71
+2022-08-08,USA,United States,Naive (baseline),111911.29,112578.71
+2022-08-09,USA,United States,Naive (baseline),111177.43,111911.29
+2022-08-10,USA,United States,Naive (baseline),108261.57,111177.43
+2022-08-11,USA,United States,Naive (baseline),104821.43,108261.57
+2022-08-12,USA,United States,Naive (baseline),103181.86,104821.43
+2022-08-13,USA,United States,Naive (baseline),102284.57,103181.86
+2022-08-14,USA,United States,Naive (baseline),100231.14,102284.57
+2022-08-15,USA,United States,Naive (baseline),99852.29,100231.14
+2022-08-16,USA,United States,Naive (baseline),98179.57,99852.29
+2022-08-17,USA,United States,Naive (baseline),98281.57,98179.57
+2022-08-18,USA,United States,Naive (baseline),96761.29,98281.57
+2022-08-19,USA,United States,Naive (baseline),94141.0,96761.29
+2022-08-20,USA,United States,Naive (baseline),92595.71,94141.0
+2022-08-21,USA,United States,Naive (baseline),92132.14,92595.71
+2022-08-22,USA,United States,Naive (baseline),91851.43,92132.14
+2022-08-23,USA,United States,Naive (baseline),92822.71,91851.43
+2022-08-24,USA,United States,Naive (baseline),90302.57,92822.71
+2022-08-25,USA,United States,Naive (baseline),88782.57,90302.57
+2022-08-26,USA,United States,Naive (baseline),90292.86,88782.57
+2022-08-27,USA,United States,Naive (baseline),89691.14,90292.86
+2022-08-28,USA,United States,Naive (baseline),87189.86,89691.14
+2022-08-29,USA,United States,Naive (baseline),87268.71,87189.86
+2022-08-30,USA,United States,Naive (baseline),87151.0,87268.71
+2022-08-31,USA,United States,Naive (baseline),86657.86,87151.0
+2022-09-01,USA,United States,Naive (baseline),86690.14,86657.86
+2022-09-02,USA,United States,Naive (baseline),85310.71,86690.14
+2022-09-03,USA,United States,Naive (baseline),84382.0,85310.71
+2022-09-04,USA,United States,Naive (baseline),82909.0,84382.0
+2022-09-05,USA,United States,Naive (baseline),82299.86,82909.0
+2022-09-06,USA,United States,Naive (baseline),81897.29,82299.86
+2022-09-07,USA,United States,Naive (baseline),73925.57,81897.29
+2022-09-08,USA,United States,Naive (baseline),74323.0,73925.57
+2022-09-09,USA,United States,Naive (baseline),70145.57,74323.0
+2022-09-10,USA,United States,Naive (baseline),67528.29,70145.57
+2022-09-11,USA,United States,Naive (baseline),64215.57,67528.29
+2022-09-12,USA,United States,Naive (baseline),63818.29,64215.57
+2022-09-13,USA,United States,Naive (baseline),63241.29,63818.29
+2022-09-14,USA,United States,Naive (baseline),68308.29,63241.29
+2022-09-15,USA,United States,Naive (baseline),59592.43,68308.29
+2022-09-16,USA,United States,Naive (baseline),59282.29,59592.43
+2022-09-17,USA,United States,Naive (baseline),61038.29,59282.29
+2022-09-18,USA,United States,Naive (baseline),58128.71,61038.29
+2022-09-19,USA,United States,Naive (baseline),57477.43,58128.71
+2022-09-20,USA,United States,Naive (baseline),57473.43,57477.43
+2022-09-21,USA,United States,Naive (baseline),55599.0,57473.43
+2022-09-22,USA,United States,Naive (baseline),54400.57,55599.0
+2022-09-23,USA,United States,Naive (baseline),53609.14,54400.57
+2022-09-24,USA,United States,Naive (baseline),53842.71,53609.14
+2022-09-25,USA,United States,Naive (baseline),52675.0,53842.71
+2022-09-26,USA,United States,Naive (baseline),52432.0,52675.0
+2022-09-27,USA,United States,Naive (baseline),51733.0,52432.0
+2022-09-28,USA,United States,Naive (baseline),50711.29,51733.0
+2022-09-29,USA,United States,Naive (baseline),49396.0,50711.29
+2022-09-30,USA,United States,Naive (baseline),48566.86,49396.0
+2022-10-01,USA,United States,Naive (baseline),46846.0,48566.86
+2022-10-02,USA,United States,Naive (baseline),45890.57,46846.0
+2022-10-03,USA,United States,Naive (baseline),45366.43,45890.57
+2022-10-04,USA,United States,Naive (baseline),45160.86,45366.43
+2022-10-05,USA,United States,Naive (baseline),44407.43,45160.86
+2022-10-06,USA,United States,Naive (baseline),44017.14,44407.43
+2022-10-07,USA,United States,Naive (baseline),42019.71,44017.14
+2022-10-08,USA,United States,Naive (baseline),40797.86,42019.71
+2022-10-09,USA,United States,Naive (baseline),40083.43,40797.86
+2022-10-10,USA,United States,Naive (baseline),39959.29,40083.43
+2022-10-11,USA,United States,Naive (baseline),39868.43,39959.29
+2022-10-12,USA,United States,Naive (baseline),38732.86,39868.43
+2022-10-13,USA,United States,Naive (baseline),38804.43,38732.86
+2022-10-14,USA,United States,Naive (baseline),37843.14,38804.43
+2022-10-15,USA,United States,Naive (baseline),37041.71,37843.14
+2022-10-16,USA,United States,Naive (baseline),35897.14,37041.71
+2022-10-17,USA,United States,Naive (baseline),35142.43,35897.14
+2022-10-18,USA,United States,Naive (baseline),34846.86,35142.43
+2022-10-19,USA,United States,Naive (baseline),36195.57,34846.86
+2022-10-20,USA,United States,Naive (baseline),36316.0,36195.57
+2022-10-21,USA,United States,Naive (baseline),28106.86,36316.0
+2022-10-22,USA,United States,Naive (baseline),45347.57,28106.86
+2022-10-23,USA,United States,Naive (baseline),40533.43,45347.57
+2022-10-24,USA,United States,Naive (baseline),39669.14,40533.43
+2022-10-25,USA,United States,Naive (baseline),38076.14,39669.14
+2022-10-26,USA,United States,Naive (baseline),33239.0,38076.14
+2022-10-27,USA,United States,Naive (baseline),27667.71,33239.0
+2022-10-28,USA,United States,Naive (baseline),64118.57,27667.71
+2022-10-29,USA,United States,Naive (baseline),36450.86,64118.57
+2022-10-30,USA,United States,Naive (baseline),36450.86,36450.86
+2022-10-31,USA,United States,Naive (baseline),36450.86,36450.86
+2022-07-01,USA,United States,Seasonal Naive 7d (baseline),107686.43,95369.86
+2022-07-02,USA,United States,Seasonal Naive 7d (baseline),109256.0,95983.43
+2022-07-03,USA,United States,Seasonal Naive 7d (baseline),110538.86,101376.71
+2022-07-04,USA,United States,Seasonal Naive 7d (baseline),111134.0,102542.29
+2022-07-05,USA,United States,Seasonal Naive 7d (baseline),111422.29,103779.57
+2022-07-06,USA,United States,Seasonal Naive 7d (baseline),104167.57,110106.14
+2022-07-07,USA,United States,Seasonal Naive 7d (baseline),106295.57,105577.71
+2022-07-08,USA,United States,Seasonal Naive 7d (baseline),105837.29,107686.43
+2022-07-09,USA,United States,Seasonal Naive 7d (baseline),106942.86,109256.0
+2022-07-10,USA,United States,Seasonal Naive 7d (baseline),106252.71,110538.86
+2022-07-11,USA,United States,Seasonal Naive 7d (baseline),107309.71,111134.0
+2022-07-12,USA,United States,Seasonal Naive 7d (baseline),108872.57,111422.29
+2022-07-13,USA,United States,Seasonal Naive 7d (baseline),118573.86,104167.57
+2022-07-14,USA,United States,Seasonal Naive 7d (baseline),120637.57,106295.57
+2022-07-15,USA,United States,Seasonal Naive 7d (baseline),122101.86,105837.29
+2022-07-16,USA,United States,Seasonal Naive 7d (baseline),124728.71,106942.86
+2022-07-17,USA,United States,Seasonal Naive 7d (baseline),126889.86,106252.71
+2022-07-18,USA,United States,Seasonal Naive 7d (baseline),127175.57,107309.71
+2022-07-19,USA,United States,Seasonal Naive 7d (baseline),127023.29,108872.57
+2022-07-20,USA,United States,Seasonal Naive 7d (baseline),125313.43,118573.86
+2022-07-21,USA,United States,Seasonal Naive 7d (baseline),124633.43,120637.57
+2022-07-22,USA,United States,Seasonal Naive 7d (baseline),125045.29,122101.86
+2022-07-23,USA,United States,Seasonal Naive 7d (baseline),126397.0,124728.71
+2022-07-24,USA,United States,Seasonal Naive 7d (baseline),129813.57,126889.86
+2022-07-25,USA,United States,Seasonal Naive 7d (baseline),129196.71,127175.57
+2022-07-26,USA,United States,Seasonal Naive 7d (baseline),128986.57,127023.29
+2022-07-27,USA,United States,Seasonal Naive 7d (baseline),129660.29,125313.43
+2022-07-28,USA,United States,Seasonal Naive 7d (baseline),128132.43,124633.43
+2022-07-29,USA,United States,Seasonal Naive 7d (baseline),128410.57,125045.29
+2022-07-30,USA,United States,Seasonal Naive 7d (baseline),127894.71,126397.0
+2022-07-31,USA,United States,Seasonal Naive 7d (baseline),135426.14,129813.57
+2022-08-01,USA,United States,Seasonal Naive 7d (baseline),133233.86,129196.71
+2022-08-02,USA,United States,Seasonal Naive 7d (baseline),130854.57,128986.57
+2022-08-03,USA,United States,Seasonal Naive 7d (baseline),132659.58,129660.29
+2022-08-04,USA,United States,Seasonal Naive 7d (baseline),131612.28,128132.43
+2022-08-05,USA,United States,Seasonal Naive 7d (baseline),130041.43,128410.57
+2022-08-06,USA,United States,Seasonal Naive 7d (baseline),128122.71,127894.71
+2022-08-07,USA,United States,Seasonal Naive 7d (baseline),112578.71,135426.14
+2022-08-08,USA,United States,Seasonal Naive 7d (baseline),111911.29,133233.86
+2022-08-09,USA,United States,Seasonal Naive 7d (baseline),111177.43,130854.57
+2022-08-10,USA,United States,Seasonal Naive 7d (baseline),108261.57,132659.58
+2022-08-11,USA,United States,Seasonal Naive 7d (baseline),104821.43,131612.28
+2022-08-12,USA,United States,Seasonal Naive 7d (baseline),103181.86,130041.43
+2022-08-13,USA,United States,Seasonal Naive 7d (baseline),102284.57,128122.71
+2022-08-14,USA,United States,Seasonal Naive 7d (baseline),100231.14,112578.71
+2022-08-15,USA,United States,Seasonal Naive 7d (baseline),99852.29,111911.29
+2022-08-16,USA,United States,Seasonal Naive 7d (baseline),98179.57,111177.43
+2022-08-17,USA,United States,Seasonal Naive 7d (baseline),98281.57,108261.57
+2022-08-18,USA,United States,Seasonal Naive 7d (baseline),96761.29,104821.43
+2022-08-19,USA,United States,Seasonal Naive 7d (baseline),94141.0,103181.86
+2022-08-20,USA,United States,Seasonal Naive 7d (baseline),92595.71,102284.57
+2022-08-21,USA,United States,Seasonal Naive 7d (baseline),92132.14,100231.14
+2022-08-22,USA,United States,Seasonal Naive 7d (baseline),91851.43,99852.29
+2022-08-23,USA,United States,Seasonal Naive 7d (baseline),92822.71,98179.57
+2022-08-24,USA,United States,Seasonal Naive 7d (baseline),90302.57,98281.57
+2022-08-25,USA,United States,Seasonal Naive 7d (baseline),88782.57,96761.29
+2022-08-26,USA,United States,Seasonal Naive 7d (baseline),90292.86,94141.0
+2022-08-27,USA,United States,Seasonal Naive 7d (baseline),89691.14,92595.71
+2022-08-28,USA,United States,Seasonal Naive 7d (baseline),87189.86,92132.14
+2022-08-29,USA,United States,Seasonal Naive 7d (baseline),87268.71,91851.43
+2022-08-30,USA,United States,Seasonal Naive 7d (baseline),87151.0,92822.71
+2022-08-31,USA,United States,Seasonal Naive 7d (baseline),86657.86,90302.57
+2022-09-01,USA,United States,Seasonal Naive 7d (baseline),86690.14,88782.57
+2022-09-02,USA,United States,Seasonal Naive 7d (baseline),85310.71,90292.86
+2022-09-03,USA,United States,Seasonal Naive 7d (baseline),84382.0,89691.14
+2022-09-04,USA,United States,Seasonal Naive 7d (baseline),82909.0,87189.86
+2022-09-05,USA,United States,Seasonal Naive 7d (baseline),82299.86,87268.71
+2022-09-06,USA,United States,Seasonal Naive 7d (baseline),81897.29,87151.0
+2022-09-07,USA,United States,Seasonal Naive 7d (baseline),73925.57,86657.86
+2022-09-08,USA,United States,Seasonal Naive 7d (baseline),74323.0,86690.14
+2022-09-09,USA,United States,Seasonal Naive 7d (baseline),70145.57,85310.71
+2022-09-10,USA,United States,Seasonal Naive 7d (baseline),67528.29,84382.0
+2022-09-11,USA,United States,Seasonal Naive 7d (baseline),64215.57,82909.0
+2022-09-12,USA,United States,Seasonal Naive 7d (baseline),63818.29,82299.86
+2022-09-13,USA,United States,Seasonal Naive 7d (baseline),63241.29,81897.29
+2022-09-14,USA,United States,Seasonal Naive 7d (baseline),68308.29,73925.57
+2022-09-15,USA,United States,Seasonal Naive 7d (baseline),59592.43,74323.0
+2022-09-16,USA,United States,Seasonal Naive 7d (baseline),59282.29,70145.57
+2022-09-17,USA,United States,Seasonal Naive 7d (baseline),61038.29,67528.29
+2022-09-18,USA,United States,Seasonal Naive 7d (baseline),58128.71,64215.57
+2022-09-19,USA,United States,Seasonal Naive 7d (baseline),57477.43,63818.29
+2022-09-20,USA,United States,Seasonal Naive 7d (baseline),57473.43,63241.29
+2022-09-21,USA,United States,Seasonal Naive 7d (baseline),55599.0,68308.29
+2022-09-22,USA,United States,Seasonal Naive 7d (baseline),54400.57,59592.43
+2022-09-23,USA,United States,Seasonal Naive 7d (baseline),53609.14,59282.29
+2022-09-24,USA,United States,Seasonal Naive 7d (baseline),53842.71,61038.29
+2022-09-25,USA,United States,Seasonal Naive 7d (baseline),52675.0,58128.71
+2022-09-26,USA,United States,Seasonal Naive 7d (baseline),52432.0,57477.43
+2022-09-27,USA,United States,Seasonal Naive 7d (baseline),51733.0,57473.43
+2022-09-28,USA,United States,Seasonal Naive 7d (baseline),50711.29,55599.0
+2022-09-29,USA,United States,Seasonal Naive 7d (baseline),49396.0,54400.57
+2022-09-30,USA,United States,Seasonal Naive 7d (baseline),48566.86,53609.14
+2022-10-01,USA,United States,Seasonal Naive 7d (baseline),46846.0,53842.71
+2022-10-02,USA,United States,Seasonal Naive 7d (baseline),45890.57,52675.0
+2022-10-03,USA,United States,Seasonal Naive 7d (baseline),45366.43,52432.0
+2022-10-04,USA,United States,Seasonal Naive 7d (baseline),45160.86,51733.0
+2022-10-05,USA,United States,Seasonal Naive 7d (baseline),44407.43,50711.29
+2022-10-06,USA,United States,Seasonal Naive 7d (baseline),44017.14,49396.0
+2022-10-07,USA,United States,Seasonal Naive 7d (baseline),42019.71,48566.86
+2022-10-08,USA,United States,Seasonal Naive 7d (baseline),40797.86,46846.0
+2022-10-09,USA,United States,Seasonal Naive 7d (baseline),40083.43,45890.57
+2022-10-10,USA,United States,Seasonal Naive 7d (baseline),39959.29,45366.43
+2022-10-11,USA,United States,Seasonal Naive 7d (baseline),39868.43,45160.86
+2022-10-12,USA,United States,Seasonal Naive 7d (baseline),38732.86,44407.43
+2022-10-13,USA,United States,Seasonal Naive 7d (baseline),38804.43,44017.14
+2022-10-14,USA,United States,Seasonal Naive 7d (baseline),37843.14,42019.71
+2022-10-15,USA,United States,Seasonal Naive 7d (baseline),37041.71,40797.86
+2022-10-16,USA,United States,Seasonal Naive 7d (baseline),35897.14,40083.43
+2022-10-17,USA,United States,Seasonal Naive 7d (baseline),35142.43,39959.29
+2022-10-18,USA,United States,Seasonal Naive 7d (baseline),34846.86,39868.43
+2022-10-19,USA,United States,Seasonal Naive 7d (baseline),36195.57,38732.86
+2022-10-20,USA,United States,Seasonal Naive 7d (baseline),36316.0,38804.43
+2022-10-21,USA,United States,Seasonal Naive 7d (baseline),28106.86,37843.14
+2022-10-22,USA,United States,Seasonal Naive 7d (baseline),45347.57,37041.71
+2022-10-23,USA,United States,Seasonal Naive 7d (baseline),40533.43,35897.14
+2022-10-24,USA,United States,Seasonal Naive 7d (baseline),39669.14,35142.43
+2022-10-25,USA,United States,Seasonal Naive 7d (baseline),38076.14,34846.86
+2022-10-26,USA,United States,Seasonal Naive 7d (baseline),33239.0,36195.57
+2022-10-27,USA,United States,Seasonal Naive 7d (baseline),27667.71,36316.0
+2022-10-28,USA,United States,Seasonal Naive 7d (baseline),64118.57,28106.86
+2022-10-29,USA,United States,Seasonal Naive 7d (baseline),36450.86,45347.57
+2022-10-30,USA,United States,Seasonal Naive 7d (baseline),36450.86,40533.43
+2022-10-31,USA,United States,Seasonal Naive 7d (baseline),36450.86,39669.14
+2022-07-01,USA,United States,Moving Average 7d,107686.43,102105.1
+2022-07-02,USA,United States,Moving Average 7d,109256.0,103864.61
+2022-07-03,USA,United States,Moving Average 7d,110538.86,105760.69
+2022-07-04,USA,United States,Moving Average 7d,111134.0,107069.57
+2022-07-05,USA,United States,Moving Average 7d,111422.29,108296.96
+2022-07-06,USA,United States,Moving Average 7d,104167.57,109388.78
+2022-07-07,USA,United States,Moving Average 7d,106295.57,108540.41
+2022-07-08,USA,United States,Moving Average 7d,105837.29,108642.96
+2022-07-09,USA,United States,Moving Average 7d,106942.86,108378.8
+2022-07-10,USA,United States,Moving Average 7d,106252.71,108048.35
+2022-07-11,USA,United States,Moving Average 7d,107309.71,107436.04
+2022-07-12,USA,United States,Moving Average 7d,108872.57,106889.71
+2022-07-13,USA,United States,Moving Average 7d,118573.86,106525.47
+2022-07-14,USA,United States,Moving Average 7d,120637.57,108583.51
+2022-07-15,USA,United States,Moving Average 7d,122101.86,110632.37
+2022-07-16,USA,United States,Moving Average 7d,124728.71,112955.88
+2022-07-17,USA,United States,Moving Average 7d,126889.86,115496.71
+2022-07-18,USA,United States,Moving Average 7d,127175.57,118444.88
+2022-07-19,USA,United States,Moving Average 7d,127023.29,121282.86
+2022-07-20,USA,United States,Moving Average 7d,125313.43,123875.82
+2022-07-21,USA,United States,Moving Average 7d,124633.43,124838.61
+2022-07-22,USA,United States,Moving Average 7d,125045.29,125409.45
+2022-07-23,USA,United States,Moving Average 7d,126397.0,125829.94
+2022-07-24,USA,United States,Moving Average 7d,129813.57,126068.27
+2022-07-25,USA,United States,Moving Average 7d,129196.71,126485.94
+2022-07-26,USA,United States,Moving Average 7d,128986.57,126774.67
+2022-07-27,USA,United States,Moving Average 7d,129660.29,127055.14
+2022-07-28,USA,United States,Moving Average 7d,128132.43,127676.12
+2022-07-29,USA,United States,Moving Average 7d,128410.57,128175.98
+2022-07-30,USA,United States,Moving Average 7d,127894.71,128656.73
+2022-07-31,USA,United States,Moving Average 7d,135426.14,128870.69
+2022-08-01,USA,United States,Moving Average 7d,133233.86,129672.49
+2022-08-02,USA,United States,Moving Average 7d,130854.57,130249.22
+2022-08-03,USA,United States,Moving Average 7d,132659.58,130516.08
+2022-08-04,USA,United States,Moving Average 7d,131612.28,130944.55
+2022-08-05,USA,United States,Moving Average 7d,130041.43,131441.67
+2022-08-06,USA,United States,Moving Average 7d,128122.71,131674.65
+2022-08-07,USA,United States,Moving Average 7d,112578.71,131707.22
+2022-08-08,USA,United States,Moving Average 7d,111911.29,128443.31
+2022-08-09,USA,United States,Moving Average 7d,111177.43,125397.22
+2022-08-10,USA,United States,Moving Average 7d,108261.57,122586.2
+2022-08-11,USA,United States,Moving Average 7d,104821.43,119100.77
+2022-08-12,USA,United States,Moving Average 7d,103181.86,115273.51
+2022-08-13,USA,United States,Moving Average 7d,102284.57,111436.43
+2022-08-14,USA,United States,Moving Average 7d,100231.14,107745.27
+2022-08-15,USA,United States,Moving Average 7d,99852.29,105981.33
+2022-08-16,USA,United States,Moving Average 7d,98179.57,104258.61
+2022-08-17,USA,United States,Moving Average 7d,98281.57,102401.78
+2022-08-18,USA,United States,Moving Average 7d,96761.29,100976.06
+2022-08-19,USA,United States,Moving Average 7d,94141.0,99824.61
+2022-08-20,USA,United States,Moving Average 7d,92595.71,98533.06
+2022-08-21,USA,United States,Moving Average 7d,92132.14,97148.94
+2022-08-22,USA,United States,Moving Average 7d,91851.43,95991.94
+2022-08-23,USA,United States,Moving Average 7d,92822.71,94848.96
+2022-08-24,USA,United States,Moving Average 7d,90302.57,94083.69
+2022-08-25,USA,United States,Moving Average 7d,88782.57,92943.84
+2022-08-26,USA,United States,Moving Average 7d,90292.86,91804.02
+2022-08-27,USA,United States,Moving Average 7d,89691.14,91254.28
+2022-08-28,USA,United States,Moving Average 7d,87189.86,90839.35
+2022-08-29,USA,United States,Moving Average 7d,87268.71,90133.31
+2022-08-30,USA,United States,Moving Average 7d,87151.0,89478.63
+2022-08-31,USA,United States,Moving Average 7d,86657.86,88668.39
+2022-09-01,USA,United States,Moving Average 7d,86690.14,88147.71
+2022-09-02,USA,United States,Moving Average 7d,85310.71,87848.8
+2022-09-03,USA,United States,Moving Average 7d,84382.0,87137.06
+2022-09-04,USA,United States,Moving Average 7d,82909.0,86378.61
+2022-09-05,USA,United States,Moving Average 7d,82299.86,85767.06
+2022-09-06,USA,United States,Moving Average 7d,81897.29,85057.22
+2022-09-07,USA,United States,Moving Average 7d,73925.57,84306.69
+2022-09-08,USA,United States,Moving Average 7d,74323.0,82487.8
+2022-09-09,USA,United States,Moving Average 7d,70145.57,80721.06
+2022-09-10,USA,United States,Moving Average 7d,67528.29,78554.61
+2022-09-11,USA,United States,Moving Average 7d,64215.57,76146.94
+2022-09-12,USA,United States,Moving Average 7d,63818.29,73476.45
+2022-09-13,USA,United States,Moving Average 7d,63241.29,70836.22
+2022-09-14,USA,United States,Moving Average 7d,68308.29,68171.08
+2022-09-15,USA,United States,Moving Average 7d,59592.43,67368.61
+2022-09-16,USA,United States,Moving Average 7d,59282.29,65264.25
+2022-09-17,USA,United States,Moving Average 7d,61038.29,63712.35
+2022-09-18,USA,United States,Moving Average 7d,58128.71,62785.2
+2022-09-19,USA,United States,Moving Average 7d,57477.43,61915.65
+2022-09-20,USA,United States,Moving Average 7d,57473.43,61009.82
+2022-09-21,USA,United States,Moving Average 7d,55599.0,60185.84
+2022-09-22,USA,United States,Moving Average 7d,54400.57,58370.22
+2022-09-23,USA,United States,Moving Average 7d,53609.14,57628.53
+2022-09-24,USA,United States,Moving Average 7d,53842.71,56818.08
+2022-09-25,USA,United States,Moving Average 7d,52675.0,55790.14
+2022-09-26,USA,United States,Moving Average 7d,52432.0,55011.04
+2022-09-27,USA,United States,Moving Average 7d,51733.0,54290.27
+2022-09-28,USA,United States,Moving Average 7d,50711.29,53470.2
+2022-09-29,USA,United States,Moving Average 7d,49396.0,52771.96
+2022-09-30,USA,United States,Moving Average 7d,48566.86,52057.02
+2022-10-01,USA,United States,Moving Average 7d,46846.0,51336.69
+2022-10-02,USA,United States,Moving Average 7d,45890.57,50337.16
+2022-10-03,USA,United States,Moving Average 7d,45366.43,49367.96
+2022-10-04,USA,United States,Moving Average 7d,45160.86,48358.59
+2022-10-05,USA,United States,Moving Average 7d,44407.43,47419.71
+2022-10-06,USA,United States,Moving Average 7d,44017.14,46519.16
+2022-10-07,USA,United States,Moving Average 7d,42019.71,45750.76
+2022-10-08,USA,United States,Moving Average 7d,40797.86,44815.45
+2022-10-09,USA,United States,Moving Average 7d,40083.43,43951.43
+2022-10-10,USA,United States,Moving Average 7d,39959.29,43121.84
+2022-10-11,USA,United States,Moving Average 7d,39868.43,42349.39
+2022-10-12,USA,United States,Moving Average 7d,38732.86,41593.33
+2022-10-13,USA,United States,Moving Average 7d,38804.43,40782.67
+2022-10-14,USA,United States,Moving Average 7d,37843.14,40038.0
+2022-10-15,USA,United States,Moving Average 7d,37041.71,39441.35
+2022-10-16,USA,United States,Moving Average 7d,35897.14,38904.76
+2022-10-17,USA,United States,Moving Average 7d,35142.43,38306.71
+2022-10-18,USA,United States,Moving Average 7d,34846.86,37618.59
+2022-10-19,USA,United States,Moving Average 7d,36195.57,36901.22
+2022-10-20,USA,United States,Moving Average 7d,36316.0,36538.76
+2022-10-21,USA,United States,Moving Average 7d,28106.86,36183.27
+2022-10-22,USA,United States,Moving Average 7d,45347.57,34792.37
+2022-10-23,USA,United States,Moving Average 7d,40533.43,35978.92
+2022-10-24,USA,United States,Moving Average 7d,39669.14,36641.24
+2022-10-25,USA,United States,Moving Average 7d,38076.14,37287.92
+2022-10-26,USA,United States,Moving Average 7d,33239.0,37749.25
+2022-10-27,USA,United States,Moving Average 7d,27667.71,37326.88
+2022-10-28,USA,United States,Moving Average 7d,64118.57,36091.41
+2022-10-29,USA,United States,Moving Average 7d,36450.86,41235.94
+2022-10-30,USA,United States,Moving Average 7d,36450.86,39964.98
+2022-10-31,USA,United States,Moving Average 7d,36450.86,39381.76
+2022-07-01,USA,United States,Linear Regression (AR lags),107686.43,107158.93
+2022-07-02,USA,United States,Linear Regression (AR lags),109256.0,110449.85
+2022-07-03,USA,United States,Linear Regression (AR lags),110538.86,110060.3
+2022-07-04,USA,United States,Linear Regression (AR lags),111134.0,111457.2
+2022-07-05,USA,United States,Linear Regression (AR lags),111422.29,111884.63
+2022-07-06,USA,United States,Linear Regression (AR lags),104167.57,111433.27
+2022-07-07,USA,United States,Linear Regression (AR lags),106295.57,103225.64
+2022-07-08,USA,United States,Linear Regression (AR lags),105837.29,105899.83
+2022-07-09,USA,United States,Linear Regression (AR lags),106942.86,103687.08
+2022-07-10,USA,United States,Linear Regression (AR lags),106252.71,105867.8
+2022-07-11,USA,United States,Linear Regression (AR lags),107309.71,105160.56
+2022-07-12,USA,United States,Linear Regression (AR lags),108872.57,107058.08
+2022-07-13,USA,United States,Linear Regression (AR lags),118573.86,109723.52
+2022-07-14,USA,United States,Linear Regression (AR lags),120637.57,121066.33
+2022-07-15,USA,United States,Linear Regression (AR lags),122101.86,123047.21
+2022-07-16,USA,United States,Linear Regression (AR lags),124728.71,125985.76
+2022-07-17,USA,United States,Linear Regression (AR lags),126889.86,128679.99
+2022-07-18,USA,United States,Linear Regression (AR lags),127175.57,130302.88
+2022-07-19,USA,United States,Linear Regression (AR lags),127023.29,129811.45
+2022-07-20,USA,United States,Linear Regression (AR lags),125313.43,128030.29
+2022-07-21,USA,United States,Linear Regression (AR lags),124633.43,125415.13
+2022-07-22,USA,United States,Linear Regression (AR lags),125045.29,124164.95
+2022-07-23,USA,United States,Linear Regression (AR lags),126397.0,123998.62
+2022-07-24,USA,United States,Linear Regression (AR lags),129813.57,125296.67
+2022-07-25,USA,United States,Linear Regression (AR lags),129196.71,129558.58
+2022-07-26,USA,United States,Linear Regression (AR lags),128986.57,128955.38
+2022-07-27,USA,United States,Linear Regression (AR lags),129660.29,129802.69
+2022-07-28,USA,United States,Linear Regression (AR lags),128132.43,130351.66
+2022-07-29,USA,United States,Linear Regression (AR lags),128410.57,128136.14
+2022-07-30,USA,United States,Linear Regression (AR lags),127894.71,128458.04
+2022-07-31,USA,United States,Linear Regression (AR lags),135426.14,127221.9
+2022-08-01,USA,United States,Linear Regression (AR lags),133233.86,136583.53
+2022-08-02,USA,United States,Linear Regression (AR lags),130854.57,133284.18
+2022-08-03,USA,United States,Linear Regression (AR lags),132659.58,131759.4
+2022-08-04,USA,United States,Linear Regression (AR lags),131612.28,133469.5
+2022-08-05,USA,United States,Linear Regression (AR lags),130041.43,131328.07
+2022-08-06,USA,United States,Linear Regression (AR lags),128122.71,129719.16
+2022-08-07,USA,United States,Linear Regression (AR lags),112578.71,126713.49
+2022-08-08,USA,United States,Linear Regression (AR lags),111911.29,108177.16
+2022-08-09,USA,United States,Linear Regression (AR lags),111177.43,108700.59
+2022-08-10,USA,United States,Linear Regression (AR lags),108261.57,105484.5
+2022-08-11,USA,United States,Linear Regression (AR lags),104821.43,103266.63
+2022-08-12,USA,United States,Linear Regression (AR lags),103181.86,100657.38
+2022-08-13,USA,United States,Linear Regression (AR lags),102284.57,99857.03
+2022-08-14,USA,United States,Linear Regression (AR lags),100231.14,100906.85
+2022-08-15,USA,United States,Linear Regression (AR lags),99852.29,98714.79
+2022-08-16,USA,United States,Linear Regression (AR lags),98179.57,98825.92
+2022-08-17,USA,United States,Linear Regression (AR lags),98281.57,97345.27
+2022-08-18,USA,United States,Linear Regression (AR lags),96761.29,98254.72
+2022-08-19,USA,United States,Linear Regression (AR lags),94141.0,96513.8
+2022-08-20,USA,United States,Linear Regression (AR lags),92595.71,93804.38
+2022-08-21,USA,United States,Linear Regression (AR lags),92132.14,91724.93
+2022-08-22,USA,United States,Linear Regression (AR lags),91851.43,91104.67
+2022-08-23,USA,United States,Linear Regression (AR lags),92822.71,91013.87
+2022-08-24,USA,United States,Linear Regression (AR lags),90302.57,92399.58
+2022-08-25,USA,United States,Linear Regression (AR lags),88782.57,89601.99
+2022-08-26,USA,United States,Linear Regression (AR lags),90292.86,88553.51
+2022-08-27,USA,United States,Linear Regression (AR lags),89691.14,90252.68
+2022-08-28,USA,United States,Linear Regression (AR lags),87189.86,89262.5
+2022-08-29,USA,United States,Linear Regression (AR lags),87268.71,86754.9
+2022-08-30,USA,United States,Linear Regression (AR lags),87151.0,86945.74
+2022-08-31,USA,United States,Linear Regression (AR lags),86657.86,86763.04
+2022-09-01,USA,United States,Linear Regression (AR lags),86690.14,86432.97
+2022-09-02,USA,United States,Linear Regression (AR lags),85310.71,86407.88
+2022-09-03,USA,United States,Linear Regression (AR lags),84382.0,84847.3
+2022-09-04,USA,United States,Linear Regression (AR lags),82909.0,84180.09
+2022-09-05,USA,United States,Linear Regression (AR lags),82299.86,82272.62
+2022-09-06,USA,United States,Linear Regression (AR lags),81897.29,81683.88
+2022-09-07,USA,United States,Linear Regression (AR lags),73925.57,81134.24
+2022-09-08,USA,United States,Linear Regression (AR lags),74323.0,71617.49
+2022-09-09,USA,United States,Linear Regression (AR lags),70145.57,73128.61
+2022-09-10,USA,United States,Linear Regression (AR lags),67528.29,67030.02
+2022-09-11,USA,United States,Linear Regression (AR lags),64215.57,64971.29
+2022-09-12,USA,United States,Linear Regression (AR lags),63818.29,61128.81
+2022-09-13,USA,United States,Linear Regression (AR lags),63241.29,61341.34
+2022-09-14,USA,United States,Linear Regression (AR lags),68308.29,61574.0
+2022-09-15,USA,United States,Linear Regression (AR lags),59592.43,68320.0
+2022-09-16,USA,United States,Linear Regression (AR lags),59282.29,58167.41
+2022-09-17,USA,United States,Linear Regression (AR lags),61038.29,59910.85
+2022-09-18,USA,United States,Linear Regression (AR lags),58128.71,60761.14
+2022-09-19,USA,United States,Linear Regression (AR lags),57477.43,57357.4
+2022-09-20,USA,United States,Linear Regression (AR lags),57473.43,57415.61
+2022-09-21,USA,United States,Linear Regression (AR lags),55599.0,56547.67
+2022-09-22,USA,United States,Linear Regression (AR lags),54400.57,55399.05
+2022-09-23,USA,United States,Linear Regression (AR lags),53609.14,54109.44
+2022-09-24,USA,United States,Linear Regression (AR lags),53842.71,52870.51
+2022-09-25,USA,United States,Linear Regression (AR lags),52675.0,53445.11
+2022-09-26,USA,United States,Linear Regression (AR lags),52432.0,52161.37
+2022-09-27,USA,United States,Linear Regression (AR lags),51733.0,52240.29
+2022-09-28,USA,United States,Linear Regression (AR lags),50711.29,51772.71
+2022-09-29,USA,United States,Linear Regression (AR lags),49396.0,50500.93
+2022-09-30,USA,United States,Linear Regression (AR lags),48566.86,49050.72
+2022-10-01,USA,United States,Linear Regression (AR lags),46846.0,48170.3
+2022-10-02,USA,United States,Linear Regression (AR lags),45890.57,46119.34
+2022-10-03,USA,United States,Linear Regression (AR lags),45366.43,45184.19
+2022-10-04,USA,United States,Linear Regression (AR lags),45160.86,44655.9
+2022-10-05,USA,United States,Linear Regression (AR lags),44407.43,44618.42
+2022-10-06,USA,United States,Linear Regression (AR lags),44017.14,43998.78
+2022-10-07,USA,United States,Linear Regression (AR lags),42019.71,43847.51
+2022-10-08,USA,United States,Linear Regression (AR lags),40797.86,41683.54
+2022-10-09,USA,United States,Linear Regression (AR lags),40083.43,40486.21
+2022-10-10,USA,United States,Linear Regression (AR lags),39959.29,39552.26
+2022-10-11,USA,United States,Linear Regression (AR lags),39868.43,39477.46
+2022-10-12,USA,United States,Linear Regression (AR lags),38732.86,39564.42
+2022-10-13,USA,United States,Linear Regression (AR lags),38804.43,38443.38
+2022-10-14,USA,United States,Linear Regression (AR lags),37843.14,38971.76
+2022-10-15,USA,United States,Linear Regression (AR lags),37041.71,37775.48
+2022-10-16,USA,United States,Linear Regression (AR lags),35897.14,37043.12
+2022-10-17,USA,United States,Linear Regression (AR lags),35142.43,35644.92
+2022-10-18,USA,United States,Linear Regression (AR lags),34846.86,34838.53
+2022-10-19,USA,United States,Linear Regression (AR lags),36195.57,34590.93
+2022-10-20,USA,United States,Linear Regression (AR lags),36316.0,36298.78
+2022-10-21,USA,United States,Linear Regression (AR lags),28106.86,36515.53
+2022-10-22,USA,United States,Linear Regression (AR lags),45347.57,26991.54
+2022-10-23,USA,United States,Linear Regression (AR lags),40533.43,48652.96
+2022-10-24,USA,United States,Linear Regression (AR lags),39669.14,40100.23
+2022-10-25,USA,United States,Linear Regression (AR lags),38076.14,42695.12
+2022-10-26,USA,United States,Linear Regression (AR lags),33239.0,39240.67
+2022-10-27,USA,United States,Linear Regression (AR lags),27667.71,33084.92
+2022-10-28,USA,United States,Linear Regression (AR lags),64118.57,26721.98
+2022-10-29,USA,United States,Linear Regression (AR lags),36450.86,68782.78
+2022-10-30,USA,United States,Linear Regression (AR lags),36450.86,32453.69
+2022-10-31,USA,United States,Linear Regression (AR lags),36450.86,41458.39
+2022-07-01,JPN,Japan,Naive (baseline),18385.86,17377.14
+2022-07-02,JPN,Japan,Naive (baseline),19479.57,18385.86
+2022-07-03,JPN,Japan,Naive (baseline),17512.29,19479.57
+2022-07-04,JPN,Japan,Naive (baseline),18964.57,17512.29
+2022-07-05,JPN,Japan,Naive (baseline),19402.43,18964.57
+2022-07-06,JPN,Japan,Naive (baseline),24103.29,19402.43
+2022-07-07,JPN,Japan,Naive (baseline),23875.86,24103.29
+2022-07-08,JPN,Japan,Naive (baseline),27398.86,23875.86
+2022-07-09,JPN,Japan,Naive (baseline),31146.0,27398.86
+2022-07-10,JPN,Japan,Naive (baseline),38537.14,31146.0
+2022-07-11,JPN,Japan,Naive (baseline),42646.29,38537.14
+2022-07-12,JPN,Japan,Naive (baseline),46254.71,42646.29
+2022-07-13,JPN,Japan,Naive (baseline),51295.43,46254.71
+2022-07-14,JPN,Japan,Naive (baseline),58104.29,51295.43
+2022-07-15,JPN,Japan,Naive (baseline),65183.29,58104.29
+2022-07-16,JPN,Japan,Naive (baseline),72288.14,65183.29
+2022-07-17,JPN,Japan,Naive (baseline),79873.0,72288.14
+2022-07-18,JPN,Japan,Naive (baseline),87399.29,79873.0
+2022-07-19,JPN,Japan,Naive (baseline),92199.29,87399.29
+2022-07-20,JPN,Japan,Naive (baseline),94080.86,92199.29
+2022-07-21,JPN,Japan,Naive (baseline),100185.43,94080.86
+2022-07-22,JPN,Japan,Naive (baseline),112112.14,100185.43
+2022-07-23,JPN,Japan,Naive (baseline),125970.14,112112.14
+2022-07-24,JPN,Japan,Naive (baseline),138438.28,125970.14
+2022-07-25,JPN,Japan,Naive (baseline),148305.58,138438.28
+2022-07-26,JPN,Japan,Naive (baseline),158931.0,148305.58
+2022-07-27,JPN,Japan,Naive (baseline),173054.42,158931.0
+2022-07-28,JPN,Japan,Naive (baseline),183339.72,173054.42
+2022-07-29,JPN,Japan,Naive (baseline),190372.42,183339.72
+2022-07-30,JPN,Japan,Naive (baseline),194035.42,190372.42
+2022-07-31,JPN,Japan,Naive (baseline),197014.14,194035.42
+2022-08-01,JPN,Japan,Naive (baseline),200462.58,197014.14
+2022-08-02,JPN,Japan,Naive (baseline),202415.0,200462.58
+2022-08-03,JPN,Japan,Naive (baseline),204640.0,202415.0
+2022-08-04,JPN,Japan,Naive (baseline),208120.14,204640.0
+2022-08-05,JPN,Japan,Naive (baseline),211454.0,208120.14
+2022-08-06,JPN,Japan,Naive (baseline),213578.42,211454.0
+2022-08-07,JPN,Japan,Naive (baseline),213852.58,213578.42
+2022-08-08,JPN,Japan,Naive (baseline),214102.72,213852.58
+2022-08-09,JPN,Japan,Naive (baseline),214862.72,214102.72
+2022-08-10,JPN,Japan,Naive (baseline),214995.72,214862.72
+2022-08-11,JPN,Japan,Naive (baseline),214457.28,214995.72
+2022-08-12,JPN,Japan,Naive (baseline),212573.42,214457.28
+2022-08-13,JPN,Japan,Naive (baseline),206224.14,212573.42
+2022-08-14,JPN,Japan,Naive (baseline),199328.72,206224.14
+2022-08-15,JPN,Japan,Naive (baseline),195244.28,199328.72
+2022-08-16,JPN,Japan,Naive (baseline),193356.14,195244.28
+2022-08-17,JPN,Japan,Naive (baseline),190721.0,193356.14
+2022-08-18,JPN,Japan,Naive (baseline),187957.42,190721.0
+2022-08-19,JPN,Japan,Naive (baseline),190964.14,187957.42
+2022-08-20,JPN,Japan,Naive (baseline),200027.86,190964.14
+2022-08-21,JPN,Japan,Naive (baseline),210910.58,200027.86
+2022-08-22,JPN,Japan,Naive (baseline),217753.86,210910.58
+2022-08-23,JPN,Japan,Naive (baseline),221427.58,217753.86
+2022-08-24,JPN,Japan,Naive (baseline),223704.28,221427.58
+2022-08-25,JPN,Japan,Naive (baseline),227836.72,223704.28
+2022-08-26,JPN,Japan,Naive (baseline),222963.42,227836.72
+2022-08-27,JPN,Japan,Naive (baseline),214508.86,222963.42
+2022-08-28,JPN,Japan,Naive (baseline),179824.58,214508.86
+2022-08-29,JPN,Japan,Naive (baseline),195283.86,179824.58
+2022-08-30,JPN,Japan,Naive (baseline),186771.0,195283.86
+2022-08-31,JPN,Japan,Naive (baseline),178965.14,186771.0
+2022-09-01,JPN,Japan,Naive (baseline),168955.14,178965.14
+2022-09-02,JPN,Japan,Naive (baseline),158408.58,168955.14
+2022-09-03,JPN,Japan,Naive (baseline),149665.28,158408.58
+2022-09-04,JPN,Japan,Naive (baseline),166398.14,149665.28
+2022-09-05,JPN,Japan,Naive (baseline),134815.28,166398.14
+2022-09-06,JPN,Japan,Naive (baseline),128870.71,134815.28
+2022-09-07,JPN,Japan,Naive (baseline),123320.29,128870.71
+2022-09-08,JPN,Japan,Naive (baseline),117484.14,123320.29
+2022-09-09,JPN,Japan,Naive (baseline),112819.43,117484.14
+2022-09-10,JPN,Japan,Naive (baseline),93473.0,112819.43
+2022-09-11,JPN,Japan,Naive (baseline),76740.14,93473.0
+2022-09-12,JPN,Japan,Naive (baseline),100967.14,76740.14
+2022-09-13,JPN,Japan,Naive (baseline),98167.0,100967.14
+2022-09-14,JPN,Japan,Naive (baseline),95020.14,98167.0
+2022-09-15,JPN,Japan,Naive (baseline),91171.43,95020.14
+2022-09-16,JPN,Japan,Naive (baseline),86559.86,91171.43
+2022-09-17,JPN,Japan,Naive (baseline),86559.86,86559.86
+2022-09-18,JPN,Japan,Naive (baseline),86559.86,86559.86
+2022-09-19,JPN,Japan,Naive (baseline),77496.43,86559.86
+2022-09-20,JPN,Japan,Naive (baseline),74158.71,77496.43
+2022-09-21,JPN,Japan,Naive (baseline),71274.29,74158.71
+2022-09-22,JPN,Japan,Naive (baseline),62978.86,71274.29
+2022-09-23,JPN,Japan,Naive (baseline),61504.43,62978.86
+2022-09-24,JPN,Japan,Naive (baseline),70654.86,61504.43
+2022-09-25,JPN,Japan,Naive (baseline),76500.29,70654.86
+2022-09-26,JPN,Japan,Naive (baseline),52582.43,76500.29
+2022-09-27,JPN,Japan,Naive (baseline),53932.57,52582.43
+2022-09-28,JPN,Japan,Naive (baseline),45574.0,53932.57
+2022-09-29,JPN,Japan,Naive (baseline),49465.43,45574.0
+2022-09-30,JPN,Japan,Naive (baseline),44339.0,49465.43
+2022-10-01,JPN,Japan,Naive (baseline),45483.43,44339.0
+2022-10-02,JPN,Japan,Naive (baseline),43851.14,45483.43
+2022-10-03,JPN,Japan,Naive (baseline),37604.0,43851.14
+2022-10-04,JPN,Japan,Naive (baseline),32516.29,37604.0
+2022-10-05,JPN,Japan,Naive (baseline),38191.0,32516.29
+2022-10-06,JPN,Japan,Naive (baseline),34258.86,38191.0
+2022-10-07,JPN,Japan,Naive (baseline),33011.29,34258.86
+2022-10-08,JPN,Japan,Naive (baseline),30749.0,33011.29
+2022-10-09,JPN,Japan,Naive (baseline),29792.43,30749.0
+2022-10-10,JPN,Japan,Naive (baseline),29792.43,29792.43
+2022-10-11,JPN,Japan,Naive (baseline),31293.71,29792.43
+2022-10-12,JPN,Japan,Naive (baseline),32119.71,31293.71
+2022-10-13,JPN,Japan,Naive (baseline),32762.14,32119.71
+2022-10-14,JPN,Japan,Naive (baseline),33214.29,32762.14
+2022-10-15,JPN,Japan,Naive (baseline),30201.43,33214.29
+2022-10-16,JPN,Japan,Naive (baseline),31182.29,30201.43
+2022-10-17,JPN,Japan,Naive (baseline),33378.29,31182.29
+2022-10-18,JPN,Japan,Naive (baseline),35711.14,33378.29
+2022-10-19,JPN,Japan,Naive (baseline),35432.57,35711.14
+2022-10-20,JPN,Japan,Naive (baseline),34064.0,35432.57
+2022-10-21,JPN,Japan,Naive (baseline),33348.0,34064.0
+2022-10-22,JPN,Japan,Naive (baseline),33210.14,33348.0
+2022-10-23,JPN,Japan,Naive (baseline),33383.14,33210.14
+2022-10-24,JPN,Japan,Naive (baseline),33594.57,33383.14
+2022-10-25,JPN,Japan,Naive (baseline),34408.43,33594.57
+2022-10-26,JPN,Japan,Naive (baseline),35371.14,34408.43
+2022-10-27,JPN,Japan,Naive (baseline),36317.86,35371.14
+2022-10-28,JPN,Japan,Naive (baseline),37420.86,36317.86
+2022-10-29,JPN,Japan,Naive (baseline),38890.86,37420.86
+2022-10-30,JPN,Japan,Naive (baseline),40282.0,38890.86
+2022-10-31,JPN,Japan,Naive (baseline),41066.14,40282.0
+2022-07-01,JPN,Japan,Seasonal Naive 7d (baseline),18385.86,15245.14
+2022-07-02,JPN,Japan,Seasonal Naive 7d (baseline),19479.57,15645.71
+2022-07-03,JPN,Japan,Seasonal Naive 7d (baseline),17512.29,14807.57
+2022-07-04,JPN,Japan,Seasonal Naive 7d (baseline),18964.57,15062.0
+2022-07-05,JPN,Japan,Seasonal Naive 7d (baseline),19402.43,15592.14
+2022-07-06,JPN,Japan,Seasonal Naive 7d (baseline),24103.29,13140.71
+2022-07-07,JPN,Japan,Seasonal Naive 7d (baseline),23875.86,17377.14
+2022-07-08,JPN,Japan,Seasonal Naive 7d (baseline),27398.86,18385.86
+2022-07-09,JPN,Japan,Seasonal Naive 7d (baseline),31146.0,19479.57
+2022-07-10,JPN,Japan,Seasonal Naive 7d (baseline),38537.14,17512.29
+2022-07-11,JPN,Japan,Seasonal Naive 7d (baseline),42646.29,18964.57
+2022-07-12,JPN,Japan,Seasonal Naive 7d (baseline),46254.71,19402.43
+2022-07-13,JPN,Japan,Seasonal Naive 7d (baseline),51295.43,24103.29
+2022-07-14,JPN,Japan,Seasonal Naive 7d (baseline),58104.29,23875.86
+2022-07-15,JPN,Japan,Seasonal Naive 7d (baseline),65183.29,27398.86
+2022-07-16,JPN,Japan,Seasonal Naive 7d (baseline),72288.14,31146.0
+2022-07-17,JPN,Japan,Seasonal Naive 7d (baseline),79873.0,38537.14
+2022-07-18,JPN,Japan,Seasonal Naive 7d (baseline),87399.29,42646.29
+2022-07-19,JPN,Japan,Seasonal Naive 7d (baseline),92199.29,46254.71
+2022-07-20,JPN,Japan,Seasonal Naive 7d (baseline),94080.86,51295.43
+2022-07-21,JPN,Japan,Seasonal Naive 7d (baseline),100185.43,58104.29
+2022-07-22,JPN,Japan,Seasonal Naive 7d (baseline),112112.14,65183.29
+2022-07-23,JPN,Japan,Seasonal Naive 7d (baseline),125970.14,72288.14
+2022-07-24,JPN,Japan,Seasonal Naive 7d (baseline),138438.28,79873.0
+2022-07-25,JPN,Japan,Seasonal Naive 7d (baseline),148305.58,87399.29
+2022-07-26,JPN,Japan,Seasonal Naive 7d (baseline),158931.0,92199.29
+2022-07-27,JPN,Japan,Seasonal Naive 7d (baseline),173054.42,94080.86
+2022-07-28,JPN,Japan,Seasonal Naive 7d (baseline),183339.72,100185.43
+2022-07-29,JPN,Japan,Seasonal Naive 7d (baseline),190372.42,112112.14
+2022-07-30,JPN,Japan,Seasonal Naive 7d (baseline),194035.42,125970.14
+2022-07-31,JPN,Japan,Seasonal Naive 7d (baseline),197014.14,138438.28
+2022-08-01,JPN,Japan,Seasonal Naive 7d (baseline),200462.58,148305.58
+2022-08-02,JPN,Japan,Seasonal Naive 7d (baseline),202415.0,158931.0
+2022-08-03,JPN,Japan,Seasonal Naive 7d (baseline),204640.0,173054.42
+2022-08-04,JPN,Japan,Seasonal Naive 7d (baseline),208120.14,183339.72
+2022-08-05,JPN,Japan,Seasonal Naive 7d (baseline),211454.0,190372.42
+2022-08-06,JPN,Japan,Seasonal Naive 7d (baseline),213578.42,194035.42
+2022-08-07,JPN,Japan,Seasonal Naive 7d (baseline),213852.58,197014.14
+2022-08-08,JPN,Japan,Seasonal Naive 7d (baseline),214102.72,200462.58
+2022-08-09,JPN,Japan,Seasonal Naive 7d (baseline),214862.72,202415.0
+2022-08-10,JPN,Japan,Seasonal Naive 7d (baseline),214995.72,204640.0
+2022-08-11,JPN,Japan,Seasonal Naive 7d (baseline),214457.28,208120.14
+2022-08-12,JPN,Japan,Seasonal Naive 7d (baseline),212573.42,211454.0
+2022-08-13,JPN,Japan,Seasonal Naive 7d (baseline),206224.14,213578.42
+2022-08-14,JPN,Japan,Seasonal Naive 7d (baseline),199328.72,213852.58
+2022-08-15,JPN,Japan,Seasonal Naive 7d (baseline),195244.28,214102.72
+2022-08-16,JPN,Japan,Seasonal Naive 7d (baseline),193356.14,214862.72
+2022-08-17,JPN,Japan,Seasonal Naive 7d (baseline),190721.0,214995.72
+2022-08-18,JPN,Japan,Seasonal Naive 7d (baseline),187957.42,214457.28
+2022-08-19,JPN,Japan,Seasonal Naive 7d (baseline),190964.14,212573.42
+2022-08-20,JPN,Japan,Seasonal Naive 7d (baseline),200027.86,206224.14
+2022-08-21,JPN,Japan,Seasonal Naive 7d (baseline),210910.58,199328.72
+2022-08-22,JPN,Japan,Seasonal Naive 7d (baseline),217753.86,195244.28
+2022-08-23,JPN,Japan,Seasonal Naive 7d (baseline),221427.58,193356.14
+2022-08-24,JPN,Japan,Seasonal Naive 7d (baseline),223704.28,190721.0
+2022-08-25,JPN,Japan,Seasonal Naive 7d (baseline),227836.72,187957.42
+2022-08-26,JPN,Japan,Seasonal Naive 7d (baseline),222963.42,190964.14
+2022-08-27,JPN,Japan,Seasonal Naive 7d (baseline),214508.86,200027.86
+2022-08-28,JPN,Japan,Seasonal Naive 7d (baseline),179824.58,210910.58
+2022-08-29,JPN,Japan,Seasonal Naive 7d (baseline),195283.86,217753.86
+2022-08-30,JPN,Japan,Seasonal Naive 7d (baseline),186771.0,221427.58
+2022-08-31,JPN,Japan,Seasonal Naive 7d (baseline),178965.14,223704.28
+2022-09-01,JPN,Japan,Seasonal Naive 7d (baseline),168955.14,227836.72
+2022-09-02,JPN,Japan,Seasonal Naive 7d (baseline),158408.58,222963.42
+2022-09-03,JPN,Japan,Seasonal Naive 7d (baseline),149665.28,214508.86
+2022-09-04,JPN,Japan,Seasonal Naive 7d (baseline),166398.14,179824.58
+2022-09-05,JPN,Japan,Seasonal Naive 7d (baseline),134815.28,195283.86
+2022-09-06,JPN,Japan,Seasonal Naive 7d (baseline),128870.71,186771.0
+2022-09-07,JPN,Japan,Seasonal Naive 7d (baseline),123320.29,178965.14
+2022-09-08,JPN,Japan,Seasonal Naive 7d (baseline),117484.14,168955.14
+2022-09-09,JPN,Japan,Seasonal Naive 7d (baseline),112819.43,158408.58
+2022-09-10,JPN,Japan,Seasonal Naive 7d (baseline),93473.0,149665.28
+2022-09-11,JPN,Japan,Seasonal Naive 7d (baseline),76740.14,166398.14
+2022-09-12,JPN,Japan,Seasonal Naive 7d (baseline),100967.14,134815.28
+2022-09-13,JPN,Japan,Seasonal Naive 7d (baseline),98167.0,128870.71
+2022-09-14,JPN,Japan,Seasonal Naive 7d (baseline),95020.14,123320.29
+2022-09-15,JPN,Japan,Seasonal Naive 7d (baseline),91171.43,117484.14
+2022-09-16,JPN,Japan,Seasonal Naive 7d (baseline),86559.86,112819.43
+2022-09-17,JPN,Japan,Seasonal Naive 7d (baseline),86559.86,93473.0
+2022-09-18,JPN,Japan,Seasonal Naive 7d (baseline),86559.86,76740.14
+2022-09-19,JPN,Japan,Seasonal Naive 7d (baseline),77496.43,100967.14
+2022-09-20,JPN,Japan,Seasonal Naive 7d (baseline),74158.71,98167.0
+2022-09-21,JPN,Japan,Seasonal Naive 7d (baseline),71274.29,95020.14
+2022-09-22,JPN,Japan,Seasonal Naive 7d (baseline),62978.86,91171.43
+2022-09-23,JPN,Japan,Seasonal Naive 7d (baseline),61504.43,86559.86
+2022-09-24,JPN,Japan,Seasonal Naive 7d (baseline),70654.86,86559.86
+2022-09-25,JPN,Japan,Seasonal Naive 7d (baseline),76500.29,86559.86
+2022-09-26,JPN,Japan,Seasonal Naive 7d (baseline),52582.43,77496.43
+2022-09-27,JPN,Japan,Seasonal Naive 7d (baseline),53932.57,74158.71
+2022-09-28,JPN,Japan,Seasonal Naive 7d (baseline),45574.0,71274.29
+2022-09-29,JPN,Japan,Seasonal Naive 7d (baseline),49465.43,62978.86
+2022-09-30,JPN,Japan,Seasonal Naive 7d (baseline),44339.0,61504.43
+2022-10-01,JPN,Japan,Seasonal Naive 7d (baseline),45483.43,70654.86
+2022-10-02,JPN,Japan,Seasonal Naive 7d (baseline),43851.14,76500.29
+2022-10-03,JPN,Japan,Seasonal Naive 7d (baseline),37604.0,52582.43
+2022-10-04,JPN,Japan,Seasonal Naive 7d (baseline),32516.29,53932.57
+2022-10-05,JPN,Japan,Seasonal Naive 7d (baseline),38191.0,45574.0
+2022-10-06,JPN,Japan,Seasonal Naive 7d (baseline),34258.86,49465.43
+2022-10-07,JPN,Japan,Seasonal Naive 7d (baseline),33011.29,44339.0
+2022-10-08,JPN,Japan,Seasonal Naive 7d (baseline),30749.0,45483.43
+2022-10-09,JPN,Japan,Seasonal Naive 7d (baseline),29792.43,43851.14
+2022-10-10,JPN,Japan,Seasonal Naive 7d (baseline),29792.43,37604.0
+2022-10-11,JPN,Japan,Seasonal Naive 7d (baseline),31293.71,32516.29
+2022-10-12,JPN,Japan,Seasonal Naive 7d (baseline),32119.71,38191.0
+2022-10-13,JPN,Japan,Seasonal Naive 7d (baseline),32762.14,34258.86
+2022-10-14,JPN,Japan,Seasonal Naive 7d (baseline),33214.29,33011.29
+2022-10-15,JPN,Japan,Seasonal Naive 7d (baseline),30201.43,30749.0
+2022-10-16,JPN,Japan,Seasonal Naive 7d (baseline),31182.29,29792.43
+2022-10-17,JPN,Japan,Seasonal Naive 7d (baseline),33378.29,29792.43
+2022-10-18,JPN,Japan,Seasonal Naive 7d (baseline),35711.14,31293.71
+2022-10-19,JPN,Japan,Seasonal Naive 7d (baseline),35432.57,32119.71
+2022-10-20,JPN,Japan,Seasonal Naive 7d (baseline),34064.0,32762.14
+2022-10-21,JPN,Japan,Seasonal Naive 7d (baseline),33348.0,33214.29
+2022-10-22,JPN,Japan,Seasonal Naive 7d (baseline),33210.14,30201.43
+2022-10-23,JPN,Japan,Seasonal Naive 7d (baseline),33383.14,31182.29
+2022-10-24,JPN,Japan,Seasonal Naive 7d (baseline),33594.57,33378.29
+2022-10-25,JPN,Japan,Seasonal Naive 7d (baseline),34408.43,35711.14
+2022-10-26,JPN,Japan,Seasonal Naive 7d (baseline),35371.14,35432.57
+2022-10-27,JPN,Japan,Seasonal Naive 7d (baseline),36317.86,34064.0
+2022-10-28,JPN,Japan,Seasonal Naive 7d (baseline),37420.86,33348.0
+2022-10-29,JPN,Japan,Seasonal Naive 7d (baseline),38890.86,33210.14
+2022-10-30,JPN,Japan,Seasonal Naive 7d (baseline),40282.0,33383.14
+2022-10-31,JPN,Japan,Seasonal Naive 7d (baseline),41066.14,33594.57
+2022-07-01,JPN,Japan,Moving Average 7d,18385.86,15267.2
+2022-07-02,JPN,Japan,Moving Average 7d,19479.57,15715.88
+2022-07-03,JPN,Japan,Moving Average 7d,17512.29,16263.57
+2022-07-04,JPN,Japan,Moving Average 7d,18964.57,16649.96
+2022-07-05,JPN,Japan,Moving Average 7d,19402.43,17207.47
+2022-07-06,JPN,Japan,Moving Average 7d,24103.29,17751.8
+2022-07-07,JPN,Japan,Moving Average 7d,23875.86,19317.88
+2022-07-08,JPN,Japan,Moving Average 7d,27398.86,20246.27
+2022-07-09,JPN,Japan,Moving Average 7d,31146.0,21533.84
+2022-07-10,JPN,Japan,Moving Average 7d,38537.14,23200.47
+2022-07-11,JPN,Japan,Moving Average 7d,42646.29,26204.02
+2022-07-12,JPN,Japan,Moving Average 7d,46254.71,29587.12
+2022-07-13,JPN,Japan,Moving Average 7d,51295.43,33423.16
+2022-07-14,JPN,Japan,Moving Average 7d,58104.29,37307.76
+2022-07-15,JPN,Japan,Moving Average 7d,65183.29,42197.53
+2022-07-16,JPN,Japan,Moving Average 7d,72288.14,47595.31
+2022-07-17,JPN,Japan,Moving Average 7d,79873.0,53472.76
+2022-07-18,JPN,Japan,Moving Average 7d,87399.29,59377.88
+2022-07-19,JPN,Japan,Moving Average 7d,92199.29,65771.16
+2022-07-20,JPN,Japan,Moving Average 7d,94080.86,72334.67
+2022-07-21,JPN,Japan,Moving Average 7d,100185.43,78446.88
+2022-07-22,JPN,Japan,Moving Average 7d,112112.14,84458.47
+2022-07-23,JPN,Japan,Moving Average 7d,125970.14,91162.59
+2022-07-24,JPN,Japan,Moving Average 7d,138438.28,98831.45
+2022-07-25,JPN,Japan,Moving Average 7d,148305.58,107197.92
+2022-07-26,JPN,Japan,Moving Average 7d,158931.0,115898.82
+2022-07-27,JPN,Japan,Moving Average 7d,173054.42,125431.92
+2022-07-28,JPN,Japan,Moving Average 7d,183339.72,136713.86
+2022-07-29,JPN,Japan,Moving Average 7d,190372.42,148593.04
+2022-07-30,JPN,Japan,Moving Average 7d,194035.42,159773.08
+2022-07-31,JPN,Japan,Moving Average 7d,197014.14,169496.69
+2022-08-01,JPN,Japan,Moving Average 7d,200462.58,177864.67
+2022-08-02,JPN,Japan,Moving Average 7d,202415.0,185315.67
+2022-08-03,JPN,Japan,Moving Average 7d,204640.0,191527.67
+2022-08-04,JPN,Japan,Moving Average 7d,208120.14,196039.9
+2022-08-05,JPN,Japan,Moving Average 7d,211454.0,199579.96
+2022-08-06,JPN,Japan,Moving Average 7d,213578.42,202591.61
+2022-08-07,JPN,Japan,Moving Average 7d,213852.58,205383.47
+2022-08-08,JPN,Japan,Moving Average 7d,214102.72,207788.96
+2022-08-09,JPN,Japan,Moving Average 7d,214862.72,209737.55
+2022-08-10,JPN,Japan,Moving Average 7d,214995.72,211515.8
+2022-08-11,JPN,Japan,Moving Average 7d,214457.28,212995.19
+2022-08-12,JPN,Japan,Moving Average 7d,212573.42,213900.49
+2022-08-13,JPN,Japan,Moving Average 7d,206224.14,214060.41
+2022-08-14,JPN,Japan,Moving Average 7d,199328.72,213009.8
+2022-08-15,JPN,Japan,Moving Average 7d,195244.28,210934.96
+2022-08-16,JPN,Japan,Moving Average 7d,193356.14,208240.9
+2022-08-17,JPN,Japan,Moving Average 7d,190721.0,205168.53
+2022-08-18,JPN,Japan,Moving Average 7d,187957.42,201700.71
+2022-08-19,JPN,Japan,Moving Average 7d,190964.14,197915.02
+2022-08-20,JPN,Japan,Moving Average 7d,200027.86,194827.98
+2022-08-21,JPN,Japan,Moving Average 7d,210910.58,193942.79
+2022-08-22,JPN,Japan,Moving Average 7d,217753.86,195597.35
+2022-08-23,JPN,Japan,Moving Average 7d,221427.58,198813.0
+2022-08-24,JPN,Japan,Moving Average 7d,223704.28,202823.21
+2022-08-25,JPN,Japan,Moving Average 7d,227836.72,207535.1
+2022-08-26,JPN,Japan,Moving Average 7d,222963.42,213232.15
+2022-08-27,JPN,Japan,Moving Average 7d,214508.86,217803.47
+2022-08-28,JPN,Japan,Moving Average 7d,179824.58,219872.19
+2022-08-29,JPN,Japan,Moving Average 7d,195283.86,215431.33
+2022-08-30,JPN,Japan,Moving Average 7d,186771.0,212221.33
+2022-08-31,JPN,Japan,Moving Average 7d,178965.14,207270.39
+2022-09-01,JPN,Japan,Moving Average 7d,168955.14,200879.08
+2022-09-02,JPN,Japan,Moving Average 7d,158408.58,192467.43
+2022-09-03,JPN,Japan,Moving Average 7d,149665.28,183245.31
+2022-09-04,JPN,Japan,Moving Average 7d,166398.14,173981.94
+2022-09-05,JPN,Japan,Moving Average 7d,134815.28,172063.88
+2022-09-06,JPN,Japan,Moving Average 7d,128870.71,163425.51
+2022-09-07,JPN,Japan,Moving Average 7d,123320.29,155154.04
+2022-09-08,JPN,Japan,Moving Average 7d,117484.14,147204.77
+2022-09-09,JPN,Japan,Moving Average 7d,112819.43,139851.77
+2022-09-10,JPN,Japan,Moving Average 7d,93473.0,133339.04
+2022-09-11,JPN,Japan,Moving Average 7d,76740.14,125311.57
+2022-09-12,JPN,Japan,Moving Average 7d,100967.14,112503.28
+2022-09-13,JPN,Japan,Moving Average 7d,98167.0,107667.84
+2022-09-14,JPN,Japan,Moving Average 7d,95020.14,103281.59
+2022-09-15,JPN,Japan,Moving Average 7d,91171.43,99238.71
+2022-09-16,JPN,Japan,Moving Average 7d,86559.86,95479.75
+2022-09-17,JPN,Japan,Moving Average 7d,86559.86,91728.39
+2022-09-18,JPN,Japan,Moving Average 7d,86559.86,90740.8
+2022-09-19,JPN,Japan,Moving Average 7d,77496.43,92143.61
+2022-09-20,JPN,Japan,Moving Average 7d,74158.71,88790.65
+2022-09-21,JPN,Japan,Moving Average 7d,71274.29,85360.9
+2022-09-22,JPN,Japan,Moving Average 7d,62978.86,81968.63
+2022-09-23,JPN,Japan,Moving Average 7d,61504.43,77941.12
+2022-09-24,JPN,Japan,Moving Average 7d,70654.86,74361.78
+2022-09-25,JPN,Japan,Moving Average 7d,76500.29,72089.63
+2022-09-26,JPN,Japan,Moving Average 7d,52582.43,70652.55
+2022-09-27,JPN,Japan,Moving Average 7d,53932.57,67093.41
+2022-09-28,JPN,Japan,Moving Average 7d,45574.0,64203.96
+2022-09-29,JPN,Japan,Moving Average 7d,49465.43,60532.49
+2022-09-30,JPN,Japan,Moving Average 7d,44339.0,58602.0
+2022-10-01,JPN,Japan,Moving Average 7d,45483.43,56149.8
+2022-10-02,JPN,Japan,Moving Average 7d,43851.14,52553.88
+2022-10-03,JPN,Japan,Moving Average 7d,37604.0,47889.71
+2022-10-04,JPN,Japan,Moving Average 7d,32516.29,45749.94
+2022-10-05,JPN,Japan,Moving Average 7d,38191.0,42690.47
+2022-10-06,JPN,Japan,Moving Average 7d,34258.86,41635.76
+2022-10-07,JPN,Japan,Moving Average 7d,33011.29,39463.39
+2022-10-08,JPN,Japan,Moving Average 7d,30749.0,37845.14
+2022-10-09,JPN,Japan,Moving Average 7d,29792.43,35740.22
+2022-10-10,JPN,Japan,Moving Average 7d,29792.43,33731.84
+2022-10-11,JPN,Japan,Moving Average 7d,31293.71,32615.9
+2022-10-12,JPN,Japan,Moving Average 7d,32119.71,32441.24
+2022-10-13,JPN,Japan,Moving Average 7d,32762.14,31573.92
+2022-10-14,JPN,Japan,Moving Average 7d,33214.29,31360.1
+2022-10-15,JPN,Japan,Moving Average 7d,30201.43,31389.1
+2022-10-16,JPN,Japan,Moving Average 7d,31182.29,31310.88
+2022-10-17,JPN,Japan,Moving Average 7d,33378.29,31509.43
+2022-10-18,JPN,Japan,Moving Average 7d,35711.14,32021.69
+2022-10-19,JPN,Japan,Moving Average 7d,35432.57,32652.76
+2022-10-20,JPN,Japan,Moving Average 7d,34064.0,33126.02
+2022-10-21,JPN,Japan,Moving Average 7d,33348.0,33312.0
+2022-10-22,JPN,Japan,Moving Average 7d,33210.14,33331.1
+2022-10-23,JPN,Japan,Moving Average 7d,33383.14,33760.92
+2022-10-24,JPN,Japan,Moving Average 7d,33594.57,34075.33
+2022-10-25,JPN,Japan,Moving Average 7d,34408.43,34106.22
+2022-10-26,JPN,Japan,Moving Average 7d,35371.14,33920.12
+2022-10-27,JPN,Japan,Moving Average 7d,36317.86,33911.35
+2022-10-28,JPN,Japan,Moving Average 7d,37420.86,34233.33
+2022-10-29,JPN,Japan,Moving Average 7d,38890.86,34815.16
+2022-10-30,JPN,Japan,Moving Average 7d,40282.0,35626.69
+2022-10-31,JPN,Japan,Moving Average 7d,41066.14,36612.24
+2022-07-01,JPN,Japan,Linear Regression (AR lags),18385.86,17062.96
+2022-07-02,JPN,Japan,Linear Regression (AR lags),19479.57,19037.59
+2022-07-03,JPN,Japan,Linear Regression (AR lags),17512.29,20251.48
+2022-07-04,JPN,Japan,Linear Regression (AR lags),18964.57,18222.65
+2022-07-05,JPN,Japan,Linear Regression (AR lags),19402.43,19175.65
+2022-07-06,JPN,Japan,Linear Regression (AR lags),24103.29,20022.27
+2022-07-07,JPN,Japan,Linear Regression (AR lags),23875.86,24602.29
+2022-07-08,JPN,Japan,Linear Regression (AR lags),27398.86,25116.15
+2022-07-09,JPN,Japan,Linear Regression (AR lags),31146.0,28408.05
+2022-07-10,JPN,Japan,Linear Regression (AR lags),38537.14,32970.7
+2022-07-11,JPN,Japan,Linear Regression (AR lags),42646.29,40954.02
+2022-07-12,JPN,Japan,Linear Regression (AR lags),46254.71,46133.12
+2022-07-13,JPN,Japan,Linear Regression (AR lags),51295.43,49607.55
+2022-07-14,JPN,Japan,Linear Regression (AR lags),58104.29,54874.78
+2022-07-15,JPN,Japan,Linear Regression (AR lags),65183.29,61955.68
+2022-07-16,JPN,Japan,Linear Regression (AR lags),72288.14,69551.73
+2022-07-17,JPN,Japan,Linear Regression (AR lags),79873.0,76879.42
+2022-07-18,JPN,Japan,Linear Regression (AR lags),87399.29,84897.83
+2022-07-19,JPN,Japan,Linear Regression (AR lags),92199.29,92864.57
+2022-07-20,JPN,Japan,Linear Regression (AR lags),94080.86,97738.88
+2022-07-21,JPN,Japan,Linear Regression (AR lags),100185.43,98840.21
+2022-07-22,JPN,Japan,Linear Regression (AR lags),112112.14,103979.69
+2022-07-23,JPN,Japan,Linear Regression (AR lags),125970.14,116299.65
+2022-07-24,JPN,Japan,Linear Regression (AR lags),138438.28,131653.51
+2022-07-25,JPN,Japan,Linear Regression (AR lags),148305.58,145595.62
+2022-07-26,JPN,Japan,Linear Regression (AR lags),158931.0,156407.13
+2022-07-27,JPN,Japan,Linear Regression (AR lags),173054.42,167457.25
+2022-07-28,JPN,Japan,Linear Regression (AR lags),183339.72,181920.92
+2022-07-29,JPN,Japan,Linear Regression (AR lags),190372.42,192528.03
+2022-07-30,JPN,Japan,Linear Regression (AR lags),194035.42,198721.02
+2022-07-31,JPN,Japan,Linear Regression (AR lags),197014.14,201051.13
+2022-08-01,JPN,Japan,Linear Regression (AR lags),200462.58,202432.99
+2022-08-02,JPN,Japan,Linear Regression (AR lags),202415.0,204437.06
+2022-08-03,JPN,Japan,Linear Regression (AR lags),204640.0,205046.37
+2022-08-04,JPN,Japan,Linear Regression (AR lags),208120.14,206220.87
+2022-08-05,JPN,Japan,Linear Regression (AR lags),211454.0,209275.05
+2022-08-06,JPN,Japan,Linear Regression (AR lags),213578.42,212744.88
+2022-08-07,JPN,Japan,Linear Regression (AR lags),213852.58,214916.98
+2022-08-08,JPN,Japan,Linear Regression (AR lags),214102.72,214873.77
+2022-08-09,JPN,Japan,Linear Regression (AR lags),214862.72,214613.83
+2022-08-10,JPN,Japan,Linear Regression (AR lags),214995.72,214989.1
+2022-08-11,JPN,Japan,Linear Regression (AR lags),214457.28,214793.13
+2022-08-12,JPN,Japan,Linear Regression (AR lags),212573.42,213849.79
+2022-08-13,JPN,Japan,Linear Regression (AR lags),206224.14,211541.73
+2022-08-14,JPN,Japan,Linear Regression (AR lags),199328.72,204479.09
+2022-08-15,JPN,Japan,Linear Regression (AR lags),195244.28,196114.81
+2022-08-16,JPN,Japan,Linear Regression (AR lags),193356.14,190923.66
+2022-08-17,JPN,Japan,Linear Regression (AR lags),190721.0,188882.35
+2022-08-18,JPN,Japan,Linear Regression (AR lags),187957.42,186572.85
+2022-08-19,JPN,Japan,Linear Regression (AR lags),190964.14,184043.06
+2022-08-20,JPN,Japan,Linear Regression (AR lags),200027.86,187837.07
+2022-08-21,JPN,Japan,Linear Regression (AR lags),210910.58,198998.4
+2022-08-22,JPN,Japan,Linear Regression (AR lags),217753.86,212576.91
+2022-08-23,JPN,Japan,Linear Regression (AR lags),221427.58,221520.47
+2022-08-24,JPN,Japan,Linear Regression (AR lags),223704.28,225918.77
+2022-08-25,JPN,Japan,Linear Regression (AR lags),227836.72,228040.18
+2022-08-26,JPN,Japan,Linear Regression (AR lags),222963.42,231421.17
+2022-08-27,JPN,Japan,Linear Regression (AR lags),214508.86,225406.27
+2022-08-28,JPN,Japan,Linear Regression (AR lags),179824.58,213951.93
+2022-08-29,JPN,Japan,Linear Regression (AR lags),195283.86,175191.31
+2022-08-30,JPN,Japan,Linear Regression (AR lags),186771.0,185104.91
+2022-08-31,JPN,Japan,Linear Regression (AR lags),178965.14,181269.81
+2022-09-01,JPN,Japan,Linear Regression (AR lags),168955.14,171785.05
+2022-09-02,JPN,Japan,Linear Regression (AR lags),158408.58,161662.39
+2022-09-03,JPN,Japan,Linear Regression (AR lags),149665.28,150841.1
+2022-09-04,JPN,Japan,Linear Regression (AR lags),166398.14,143274.13
+2022-09-05,JPN,Japan,Linear Regression (AR lags),134815.28,159500.16
+2022-09-06,JPN,Japan,Linear Regression (AR lags),128870.71,131613.36
+2022-09-07,JPN,Japan,Linear Regression (AR lags),123320.29,120070.37
+2022-09-08,JPN,Japan,Linear Regression (AR lags),117484.14,115984.65
+2022-09-09,JPN,Japan,Linear Regression (AR lags),112819.43,110847.12
+2022-09-10,JPN,Japan,Linear Regression (AR lags),93473.0,106606.84
+2022-09-11,JPN,Japan,Linear Regression (AR lags),76740.14,85658.94
+2022-09-12,JPN,Japan,Linear Regression (AR lags),100967.14,68008.54
+2022-09-13,JPN,Japan,Linear Regression (AR lags),98167.0,92593.47
+2022-09-14,JPN,Japan,Linear Regression (AR lags),95020.14,96684.22
+2022-09-15,JPN,Japan,Linear Regression (AR lags),91171.43,93225.79
+2022-09-16,JPN,Japan,Linear Regression (AR lags),86559.86,89524.25
+2022-09-17,JPN,Japan,Linear Regression (AR lags),86559.86,85599.07
+2022-09-18,JPN,Japan,Linear Regression (AR lags),86559.86,85814.81
+2022-09-19,JPN,Japan,Linear Regression (AR lags),77496.43,84280.38
+2022-09-20,JPN,Japan,Linear Regression (AR lags),74158.71,75352.17
+2022-09-21,JPN,Japan,Linear Regression (AR lags),71274.29,70675.64
+2022-09-22,JPN,Japan,Linear Regression (AR lags),62978.86,68032.32
+2022-09-23,JPN,Japan,Linear Regression (AR lags),61504.43,59645.78
+2022-09-24,JPN,Japan,Linear Regression (AR lags),70654.86,57080.44
+2022-09-25,JPN,Japan,Linear Regression (AR lags),76500.29,67422.65
+2022-09-26,JPN,Japan,Linear Regression (AR lags),52582.43,76721.76
+2022-09-27,JPN,Japan,Linear Regression (AR lags),53932.57,52777.85
+2022-09-28,JPN,Japan,Linear Regression (AR lags),45574.0,49609.27
+2022-09-29,JPN,Japan,Linear Regression (AR lags),49465.43,42751.96
+2022-09-30,JPN,Japan,Linear Regression (AR lags),44339.0,45615.68
+2022-10-01,JPN,Japan,Linear Regression (AR lags),45483.43,41248.15
+2022-10-02,JPN,Japan,Linear Regression (AR lags),43851.14,41810.78
+2022-10-03,JPN,Japan,Linear Regression (AR lags),37604.0,42736.97
+2022-10-04,JPN,Japan,Linear Regression (AR lags),32516.29,35983.81
+2022-10-05,JPN,Japan,Linear Regression (AR lags),38191.0,30258.11
+2022-10-06,JPN,Japan,Linear Regression (AR lags),34258.86,35497.85
+2022-10-07,JPN,Japan,Linear Regression (AR lags),33011.29,33394.52
+2022-10-08,JPN,Japan,Linear Regression (AR lags),30749.0,31366.07
+2022-10-09,JPN,Japan,Linear Regression (AR lags),29792.43,29336.93
+2022-10-10,JPN,Japan,Linear Regression (AR lags),29792.43,28560.71
+2022-10-11,JPN,Japan,Linear Regression (AR lags),31293.71,28939.04
+2022-10-12,JPN,Japan,Linear Regression (AR lags),32119.71,30326.32
+2022-10-13,JPN,Japan,Linear Regression (AR lags),32762.14,31976.2
+2022-10-14,JPN,Japan,Linear Regression (AR lags),33214.29,32918.35
+2022-10-15,JPN,Japan,Linear Regression (AR lags),30201.43,33642.06
+2022-10-16,JPN,Japan,Linear Regression (AR lags),31182.29,30512.0
+2022-10-17,JPN,Japan,Linear Regression (AR lags),33378.29,30833.14
+2022-10-18,JPN,Japan,Linear Regression (AR lags),35711.14,33306.7
+2022-10-19,JPN,Japan,Linear Regression (AR lags),35432.57,36127.22
+2022-10-20,JPN,Japan,Linear Regression (AR lags),34064.0,36126.42
+2022-10-21,JPN,Japan,Linear Regression (AR lags),33348.0,34442.83
+2022-10-22,JPN,Japan,Linear Regression (AR lags),33210.14,33510.95
+2022-10-23,JPN,Japan,Linear Regression (AR lags),33383.14,33083.58
+2022-10-24,JPN,Japan,Linear Regression (AR lags),33594.57,33073.19
+2022-10-25,JPN,Japan,Linear Regression (AR lags),34408.43,33222.9
+2022-10-26,JPN,Japan,Linear Regression (AR lags),35371.14,34211.1
+2022-10-27,JPN,Japan,Linear Regression (AR lags),36317.86,35506.59
+2022-10-28,JPN,Japan,Linear Regression (AR lags),37420.86,36688.72
+2022-10-29,JPN,Japan,Linear Regression (AR lags),38890.86,37932.13
+2022-10-30,JPN,Japan,Linear Regression (AR lags),40282.0,39550.02
+2022-10-31,JPN,Japan,Linear Regression (AR lags),41066.14,41119.25
+2022-07-01,BRA,Brazil,Naive (baseline),56020.86,55446.71
+2022-07-02,BRA,Brazil,Naive (baseline),56462.29,56020.86
+2022-07-03,BRA,Brazil,Naive (baseline),58699.57,56462.29
+2022-07-04,BRA,Brazil,Naive (baseline),58555.43,58699.57
+2022-07-05,BRA,Brazil,Naive (baseline),58826.29,58555.43
+2022-07-06,BRA,Brazil,Naive (baseline),57943.86,58826.29
+2022-07-07,BRA,Brazil,Naive (baseline),57651.43,57943.86
+2022-07-08,BRA,Brazil,Naive (baseline),57828.71,57651.43
+2022-07-09,BRA,Brazil,Naive (baseline),57387.43,57828.71
+2022-07-10,BRA,Brazil,Naive (baseline),56683.0,57387.43
+2022-07-11,BRA,Brazil,Naive (baseline),57522.0,56683.0
+2022-07-12,BRA,Brazil,Naive (baseline),54868.43,57522.0
+2022-07-13,BRA,Brazil,Naive (baseline),57797.71,54868.43
+2022-07-14,BRA,Brazil,Naive (baseline),56291.57,57797.71
+2022-07-15,BRA,Brazil,Naive (baseline),55585.57,56291.57
+2022-07-16,BRA,Brazil,Naive (baseline),54632.57,55585.57
+2022-07-17,BRA,Brazil,Naive (baseline),59896.14,54632.57
+2022-07-18,BRA,Brazil,Naive (baseline),59395.0,59896.14
+2022-07-19,BRA,Brazil,Naive (baseline),60945.29,59395.0
+2022-07-20,BRA,Brazil,Naive (baseline),57044.0,60945.29
+2022-07-21,BRA,Brazil,Naive (baseline),56179.86,57044.0
+2022-07-22,BRA,Brazil,Naive (baseline),53930.71,56179.86
+2022-07-23,BRA,Brazil,Naive (baseline),51938.43,53930.71
+2022-07-24,BRA,Brazil,Naive (baseline),36515.71,51938.43
+2022-07-25,BRA,Brazil,Naive (baseline),41609.57,36515.71
+2022-07-26,BRA,Brazil,Naive (baseline),41462.57,41609.57
+2022-07-27,BRA,Brazil,Naive (baseline),40307.14,41462.57
+2022-07-28,BRA,Brazil,Naive (baseline),37437.86,40307.14
+2022-07-29,BRA,Brazil,Naive (baseline),35728.43,37437.86
+2022-07-30,BRA,Brazil,Naive (baseline),34751.14,35728.43
+2022-07-31,BRA,Brazil,Naive (baseline),40710.14,34751.14
+2022-08-01,BRA,Brazil,Naive (baseline),33150.57,40710.14
+2022-08-02,BRA,Brazil,Naive (baseline),34649.14,33150.57
+2022-08-03,BRA,Brazil,Naive (baseline),33428.43,34649.14
+2022-08-04,BRA,Brazil,Naive (baseline),32935.57,33428.43
+2022-08-05,BRA,Brazil,Naive (baseline),31381.14,32935.57
+2022-08-06,BRA,Brazil,Naive (baseline),30787.0,31381.14
+2022-08-07,BRA,Brazil,Naive (baseline),29110.29,30787.0
+2022-08-08,BRA,Brazil,Naive (baseline),28226.57,29110.29
+2022-08-09,BRA,Brazil,Naive (baseline),26353.0,28226.57
+2022-08-10,BRA,Brazil,Naive (baseline),25688.0,26353.0
+2022-08-11,BRA,Brazil,Naive (baseline),25081.71,25688.0
+2022-08-12,BRA,Brazil,Naive (baseline),24696.29,25081.71
+2022-08-13,BRA,Brazil,Naive (baseline),22869.29,24696.29
+2022-08-14,BRA,Brazil,Naive (baseline),21951.57,22869.29
+2022-08-15,BRA,Brazil,Naive (baseline),22097.71,21951.57
+2022-08-16,BRA,Brazil,Naive (baseline),21702.14,22097.71
+2022-08-17,BRA,Brazil,Naive (baseline),20351.43,21702.14
+2022-08-18,BRA,Brazil,Naive (baseline),19325.71,20351.43
+2022-08-19,BRA,Brazil,Naive (baseline),18038.86,19325.71
+2022-08-20,BRA,Brazil,Naive (baseline),17256.43,18038.86
+2022-08-21,BRA,Brazil,Naive (baseline),16586.57,17256.43
+2022-08-22,BRA,Brazil,Naive (baseline),16275.43,16586.57
+2022-08-23,BRA,Brazil,Naive (baseline),16368.29,16275.43
+2022-08-24,BRA,Brazil,Naive (baseline),16120.29,16368.29
+2022-08-25,BRA,Brazil,Naive (baseline),15720.43,16120.29
+2022-08-26,BRA,Brazil,Naive (baseline),15199.0,15720.43
+2022-08-27,BRA,Brazil,Naive (baseline),15037.86,15199.0
+2022-08-28,BRA,Brazil,Naive (baseline),14953.14,15037.86
+2022-08-29,BRA,Brazil,Naive (baseline),14501.43,14953.14
+2022-08-30,BRA,Brazil,Naive (baseline),14269.0,14501.43
+2022-08-31,BRA,Brazil,Naive (baseline),15160.43,14269.0
+2022-09-01,BRA,Brazil,Naive (baseline),14669.71,15160.43
+2022-09-02,BRA,Brazil,Naive (baseline),14321.86,14669.71
+2022-09-03,BRA,Brazil,Naive (baseline),13433.57,14321.86
+2022-09-04,BRA,Brazil,Naive (baseline),12462.29,13433.57
+2022-09-05,BRA,Brazil,Naive (baseline),12367.43,12462.29
+2022-09-06,BRA,Brazil,Naive (baseline),13256.0,12367.43
+2022-09-07,BRA,Brazil,Naive (baseline),11476.29,13256.0
+2022-09-08,BRA,Brazil,Naive (baseline),10988.57,11476.29
+2022-09-09,BRA,Brazil,Naive (baseline),9995.71,10988.57
+2022-09-10,BRA,Brazil,Naive (baseline),8479.29,9995.71
+2022-09-11,BRA,Brazil,Naive (baseline),8656.29,8479.29
+2022-09-12,BRA,Brazil,Naive (baseline),8325.86,8656.29
+2022-09-13,BRA,Brazil,Naive (baseline),6944.14,8325.86
+2022-09-14,BRA,Brazil,Naive (baseline),8059.71,6944.14
+2022-09-15,BRA,Brazil,Naive (baseline),7635.14,8059.71
+2022-09-16,BRA,Brazil,Naive (baseline),8439.86,7635.14
+2022-09-17,BRA,Brazil,Naive (baseline),9257.71,8439.86
+2022-09-18,BRA,Brazil,Naive (baseline),8906.57,9257.71
+2022-09-19,BRA,Brazil,Naive (baseline),7987.86,8906.57
+2022-09-20,BRA,Brazil,Naive (baseline),8699.86,7987.86
+2022-09-21,BRA,Brazil,Naive (baseline),8295.71,8699.86
+2022-09-22,BRA,Brazil,Naive (baseline),8055.86,8295.71
+2022-09-23,BRA,Brazil,Naive (baseline),7006.43,8055.86
+2022-09-24,BRA,Brazil,Naive (baseline),6831.71,7006.43
+2022-09-25,BRA,Brazil,Naive (baseline),6477.43,6831.71
+2022-09-26,BRA,Brazil,Naive (baseline),6990.14,6477.43
+2022-09-27,BRA,Brazil,Naive (baseline),6453.29,6990.14
+2022-09-28,BRA,Brazil,Naive (baseline),6608.71,6453.29
+2022-09-29,BRA,Brazil,Naive (baseline),6544.14,6608.71
+2022-09-30,BRA,Brazil,Naive (baseline),6606.14,6544.14
+2022-10-01,BRA,Brazil,Naive (baseline),6725.14,6606.14
+2022-10-02,BRA,Brazil,Naive (baseline),6871.0,6725.14
+2022-10-03,BRA,Brazil,Naive (baseline),6788.0,6871.0
+2022-10-04,BRA,Brazil,Naive (baseline),6759.0,6788.0
+2022-10-05,BRA,Brazil,Naive (baseline),6605.86,6759.0
+2022-10-06,BRA,Brazil,Naive (baseline),6474.14,6605.86
+2022-10-07,BRA,Brazil,Naive (baseline),6403.86,6474.14
+2022-10-08,BRA,Brazil,Naive (baseline),6214.57,6403.86
+2022-10-09,BRA,Brazil,Naive (baseline),6087.57,6214.57
+2022-10-10,BRA,Brazil,Naive (baseline),5787.86,6087.57
+2022-10-11,BRA,Brazil,Naive (baseline),5710.57,5787.86
+2022-10-12,BRA,Brazil,Naive (baseline),5665.71,5710.57
+2022-10-13,BRA,Brazil,Naive (baseline),5663.29,5665.71
+2022-10-14,BRA,Brazil,Naive (baseline),5376.57,5663.29
+2022-10-15,BRA,Brazil,Naive (baseline),4661.71,5376.57
+2022-10-16,BRA,Brazil,Naive (baseline),4475.0,4661.71
+2022-10-17,BRA,Brazil,Naive (baseline),4236.14,4475.0
+2022-10-18,BRA,Brazil,Naive (baseline),4221.57,4236.14
+2022-10-19,BRA,Brazil,Naive (baseline),4343.0,4221.57
+2022-10-20,BRA,Brazil,Naive (baseline),4476.29,4343.0
+2022-10-21,BRA,Brazil,Naive (baseline),4952.43,4476.29
+2022-10-22,BRA,Brazil,Naive (baseline),5199.14,4952.43
+2022-10-23,BRA,Brazil,Naive (baseline),4882.86,5199.14
+2022-10-24,BRA,Brazil,Naive (baseline),4781.71,4882.86
+2022-10-25,BRA,Brazil,Naive (baseline),4961.14,4781.71
+2022-10-26,BRA,Brazil,Naive (baseline),5531.29,4961.14
+2022-10-27,BRA,Brazil,Naive (baseline),5207.29,5531.29
+2022-10-28,BRA,Brazil,Naive (baseline),5107.86,5207.29
+2022-10-29,BRA,Brazil,Naive (baseline),5571.29,5107.86
+2022-10-30,BRA,Brazil,Naive (baseline),5940.71,5571.29
+2022-10-31,BRA,Brazil,Naive (baseline),5988.43,5940.71
+2022-07-01,BRA,Brazil,Seasonal Naive 7d (baseline),56020.86,39852.0
+2022-07-02,BRA,Brazil,Seasonal Naive 7d (baseline),56462.29,45439.86
+2022-07-03,BRA,Brazil,Seasonal Naive 7d (baseline),58699.57,49970.14
+2022-07-04,BRA,Brazil,Seasonal Naive 7d (baseline),58555.43,52636.71
+2022-07-05,BRA,Brazil,Seasonal Naive 7d (baseline),58826.29,53492.14
+2022-07-06,BRA,Brazil,Seasonal Naive 7d (baseline),57943.86,53693.0
+2022-07-07,BRA,Brazil,Seasonal Naive 7d (baseline),57651.43,55446.71
+2022-07-08,BRA,Brazil,Seasonal Naive 7d (baseline),57828.71,56020.86
+2022-07-09,BRA,Brazil,Seasonal Naive 7d (baseline),57387.43,56462.29
+2022-07-10,BRA,Brazil,Seasonal Naive 7d (baseline),56683.0,58699.57
+2022-07-11,BRA,Brazil,Seasonal Naive 7d (baseline),57522.0,58555.43
+2022-07-12,BRA,Brazil,Seasonal Naive 7d (baseline),54868.43,58826.29
+2022-07-13,BRA,Brazil,Seasonal Naive 7d (baseline),57797.71,57943.86
+2022-07-14,BRA,Brazil,Seasonal Naive 7d (baseline),56291.57,57651.43
+2022-07-15,BRA,Brazil,Seasonal Naive 7d (baseline),55585.57,57828.71
+2022-07-16,BRA,Brazil,Seasonal Naive 7d (baseline),54632.57,57387.43
+2022-07-17,BRA,Brazil,Seasonal Naive 7d (baseline),59896.14,56683.0
+2022-07-18,BRA,Brazil,Seasonal Naive 7d (baseline),59395.0,57522.0
+2022-07-19,BRA,Brazil,Seasonal Naive 7d (baseline),60945.29,54868.43
+2022-07-20,BRA,Brazil,Seasonal Naive 7d (baseline),57044.0,57797.71
+2022-07-21,BRA,Brazil,Seasonal Naive 7d (baseline),56179.86,56291.57
+2022-07-22,BRA,Brazil,Seasonal Naive 7d (baseline),53930.71,55585.57
+2022-07-23,BRA,Brazil,Seasonal Naive 7d (baseline),51938.43,54632.57
+2022-07-24,BRA,Brazil,Seasonal Naive 7d (baseline),36515.71,59896.14
+2022-07-25,BRA,Brazil,Seasonal Naive 7d (baseline),41609.57,59395.0
+2022-07-26,BRA,Brazil,Seasonal Naive 7d (baseline),41462.57,60945.29
+2022-07-27,BRA,Brazil,Seasonal Naive 7d (baseline),40307.14,57044.0
+2022-07-28,BRA,Brazil,Seasonal Naive 7d (baseline),37437.86,56179.86
+2022-07-29,BRA,Brazil,Seasonal Naive 7d (baseline),35728.43,53930.71
+2022-07-30,BRA,Brazil,Seasonal Naive 7d (baseline),34751.14,51938.43
+2022-07-31,BRA,Brazil,Seasonal Naive 7d (baseline),40710.14,36515.71
+2022-08-01,BRA,Brazil,Seasonal Naive 7d (baseline),33150.57,41609.57
+2022-08-02,BRA,Brazil,Seasonal Naive 7d (baseline),34649.14,41462.57
+2022-08-03,BRA,Brazil,Seasonal Naive 7d (baseline),33428.43,40307.14
+2022-08-04,BRA,Brazil,Seasonal Naive 7d (baseline),32935.57,37437.86
+2022-08-05,BRA,Brazil,Seasonal Naive 7d (baseline),31381.14,35728.43
+2022-08-06,BRA,Brazil,Seasonal Naive 7d (baseline),30787.0,34751.14
+2022-08-07,BRA,Brazil,Seasonal Naive 7d (baseline),29110.29,40710.14
+2022-08-08,BRA,Brazil,Seasonal Naive 7d (baseline),28226.57,33150.57
+2022-08-09,BRA,Brazil,Seasonal Naive 7d (baseline),26353.0,34649.14
+2022-08-10,BRA,Brazil,Seasonal Naive 7d (baseline),25688.0,33428.43
+2022-08-11,BRA,Brazil,Seasonal Naive 7d (baseline),25081.71,32935.57
+2022-08-12,BRA,Brazil,Seasonal Naive 7d (baseline),24696.29,31381.14
+2022-08-13,BRA,Brazil,Seasonal Naive 7d (baseline),22869.29,30787.0
+2022-08-14,BRA,Brazil,Seasonal Naive 7d (baseline),21951.57,29110.29
+2022-08-15,BRA,Brazil,Seasonal Naive 7d (baseline),22097.71,28226.57
+2022-08-16,BRA,Brazil,Seasonal Naive 7d (baseline),21702.14,26353.0
+2022-08-17,BRA,Brazil,Seasonal Naive 7d (baseline),20351.43,25688.0
+2022-08-18,BRA,Brazil,Seasonal Naive 7d (baseline),19325.71,25081.71
+2022-08-19,BRA,Brazil,Seasonal Naive 7d (baseline),18038.86,24696.29
+2022-08-20,BRA,Brazil,Seasonal Naive 7d (baseline),17256.43,22869.29
+2022-08-21,BRA,Brazil,Seasonal Naive 7d (baseline),16586.57,21951.57
+2022-08-22,BRA,Brazil,Seasonal Naive 7d (baseline),16275.43,22097.71
+2022-08-23,BRA,Brazil,Seasonal Naive 7d (baseline),16368.29,21702.14
+2022-08-24,BRA,Brazil,Seasonal Naive 7d (baseline),16120.29,20351.43
+2022-08-25,BRA,Brazil,Seasonal Naive 7d (baseline),15720.43,19325.71
+2022-08-26,BRA,Brazil,Seasonal Naive 7d (baseline),15199.0,18038.86
+2022-08-27,BRA,Brazil,Seasonal Naive 7d (baseline),15037.86,17256.43
+2022-08-28,BRA,Brazil,Seasonal Naive 7d (baseline),14953.14,16586.57
+2022-08-29,BRA,Brazil,Seasonal Naive 7d (baseline),14501.43,16275.43
+2022-08-30,BRA,Brazil,Seasonal Naive 7d (baseline),14269.0,16368.29
+2022-08-31,BRA,Brazil,Seasonal Naive 7d (baseline),15160.43,16120.29
+2022-09-01,BRA,Brazil,Seasonal Naive 7d (baseline),14669.71,15720.43
+2022-09-02,BRA,Brazil,Seasonal Naive 7d (baseline),14321.86,15199.0
+2022-09-03,BRA,Brazil,Seasonal Naive 7d (baseline),13433.57,15037.86
+2022-09-04,BRA,Brazil,Seasonal Naive 7d (baseline),12462.29,14953.14
+2022-09-05,BRA,Brazil,Seasonal Naive 7d (baseline),12367.43,14501.43
+2022-09-06,BRA,Brazil,Seasonal Naive 7d (baseline),13256.0,14269.0
+2022-09-07,BRA,Brazil,Seasonal Naive 7d (baseline),11476.29,15160.43
+2022-09-08,BRA,Brazil,Seasonal Naive 7d (baseline),10988.57,14669.71
+2022-09-09,BRA,Brazil,Seasonal Naive 7d (baseline),9995.71,14321.86
+2022-09-10,BRA,Brazil,Seasonal Naive 7d (baseline),8479.29,13433.57
+2022-09-11,BRA,Brazil,Seasonal Naive 7d (baseline),8656.29,12462.29
+2022-09-12,BRA,Brazil,Seasonal Naive 7d (baseline),8325.86,12367.43
+2022-09-13,BRA,Brazil,Seasonal Naive 7d (baseline),6944.14,13256.0
+2022-09-14,BRA,Brazil,Seasonal Naive 7d (baseline),8059.71,11476.29
+2022-09-15,BRA,Brazil,Seasonal Naive 7d (baseline),7635.14,10988.57
+2022-09-16,BRA,Brazil,Seasonal Naive 7d (baseline),8439.86,9995.71
+2022-09-17,BRA,Brazil,Seasonal Naive 7d (baseline),9257.71,8479.29
+2022-09-18,BRA,Brazil,Seasonal Naive 7d (baseline),8906.57,8656.29
+2022-09-19,BRA,Brazil,Seasonal Naive 7d (baseline),7987.86,8325.86
+2022-09-20,BRA,Brazil,Seasonal Naive 7d (baseline),8699.86,6944.14
+2022-09-21,BRA,Brazil,Seasonal Naive 7d (baseline),8295.71,8059.71
+2022-09-22,BRA,Brazil,Seasonal Naive 7d (baseline),8055.86,7635.14
+2022-09-23,BRA,Brazil,Seasonal Naive 7d (baseline),7006.43,8439.86
+2022-09-24,BRA,Brazil,Seasonal Naive 7d (baseline),6831.71,9257.71
+2022-09-25,BRA,Brazil,Seasonal Naive 7d (baseline),6477.43,8906.57
+2022-09-26,BRA,Brazil,Seasonal Naive 7d (baseline),6990.14,7987.86
+2022-09-27,BRA,Brazil,Seasonal Naive 7d (baseline),6453.29,8699.86
+2022-09-28,BRA,Brazil,Seasonal Naive 7d (baseline),6608.71,8295.71
+2022-09-29,BRA,Brazil,Seasonal Naive 7d (baseline),6544.14,8055.86
+2022-09-30,BRA,Brazil,Seasonal Naive 7d (baseline),6606.14,7006.43
+2022-10-01,BRA,Brazil,Seasonal Naive 7d (baseline),6725.14,6831.71
+2022-10-02,BRA,Brazil,Seasonal Naive 7d (baseline),6871.0,6477.43
+2022-10-03,BRA,Brazil,Seasonal Naive 7d (baseline),6788.0,6990.14
+2022-10-04,BRA,Brazil,Seasonal Naive 7d (baseline),6759.0,6453.29
+2022-10-05,BRA,Brazil,Seasonal Naive 7d (baseline),6605.86,6608.71
+2022-10-06,BRA,Brazil,Seasonal Naive 7d (baseline),6474.14,6544.14
+2022-10-07,BRA,Brazil,Seasonal Naive 7d (baseline),6403.86,6606.14
+2022-10-08,BRA,Brazil,Seasonal Naive 7d (baseline),6214.57,6725.14
+2022-10-09,BRA,Brazil,Seasonal Naive 7d (baseline),6087.57,6871.0
+2022-10-10,BRA,Brazil,Seasonal Naive 7d (baseline),5787.86,6788.0
+2022-10-11,BRA,Brazil,Seasonal Naive 7d (baseline),5710.57,6759.0
+2022-10-12,BRA,Brazil,Seasonal Naive 7d (baseline),5665.71,6605.86
+2022-10-13,BRA,Brazil,Seasonal Naive 7d (baseline),5663.29,6474.14
+2022-10-14,BRA,Brazil,Seasonal Naive 7d (baseline),5376.57,6403.86
+2022-10-15,BRA,Brazil,Seasonal Naive 7d (baseline),4661.71,6214.57
+2022-10-16,BRA,Brazil,Seasonal Naive 7d (baseline),4475.0,6087.57
+2022-10-17,BRA,Brazil,Seasonal Naive 7d (baseline),4236.14,5787.86
+2022-10-18,BRA,Brazil,Seasonal Naive 7d (baseline),4221.57,5710.57
+2022-10-19,BRA,Brazil,Seasonal Naive 7d (baseline),4343.0,5665.71
+2022-10-20,BRA,Brazil,Seasonal Naive 7d (baseline),4476.29,5663.29
+2022-10-21,BRA,Brazil,Seasonal Naive 7d (baseline),4952.43,5376.57
+2022-10-22,BRA,Brazil,Seasonal Naive 7d (baseline),5199.14,4661.71
+2022-10-23,BRA,Brazil,Seasonal Naive 7d (baseline),4882.86,4475.0
+2022-10-24,BRA,Brazil,Seasonal Naive 7d (baseline),4781.71,4236.14
+2022-10-25,BRA,Brazil,Seasonal Naive 7d (baseline),4961.14,4221.57
+2022-10-26,BRA,Brazil,Seasonal Naive 7d (baseline),5531.29,4343.0
+2022-10-27,BRA,Brazil,Seasonal Naive 7d (baseline),5207.29,4476.29
+2022-10-28,BRA,Brazil,Seasonal Naive 7d (baseline),5107.86,4952.43
+2022-10-29,BRA,Brazil,Seasonal Naive 7d (baseline),5571.29,5199.14
+2022-10-30,BRA,Brazil,Seasonal Naive 7d (baseline),5940.71,4882.86
+2022-10-31,BRA,Brazil,Seasonal Naive 7d (baseline),5988.43,4781.71
+2022-07-01,BRA,Brazil,Moving Average 7d,56020.86,50075.8
+2022-07-02,BRA,Brazil,Moving Average 7d,56462.29,52385.63
+2022-07-03,BRA,Brazil,Moving Average 7d,58699.57,53960.27
+2022-07-04,BRA,Brazil,Moving Average 7d,58555.43,55207.33
+2022-07-05,BRA,Brazil,Moving Average 7d,58826.29,56052.86
+2022-07-06,BRA,Brazil,Moving Average 7d,57943.86,56814.88
+2022-07-07,BRA,Brazil,Moving Average 7d,57651.43,57422.14
+2022-07-08,BRA,Brazil,Moving Average 7d,57828.71,57737.1
+2022-07-09,BRA,Brazil,Moving Average 7d,57387.43,57995.37
+2022-07-10,BRA,Brazil,Moving Average 7d,56683.0,58127.53
+2022-07-11,BRA,Brazil,Moving Average 7d,57522.0,57839.45
+2022-07-12,BRA,Brazil,Moving Average 7d,54868.43,57691.82
+2022-07-13,BRA,Brazil,Moving Average 7d,57797.71,57126.41
+2022-07-14,BRA,Brazil,Moving Average 7d,56291.57,57105.53
+2022-07-15,BRA,Brazil,Moving Average 7d,55585.57,56911.27
+2022-07-16,BRA,Brazil,Moving Average 7d,54632.57,56590.82
+2022-07-17,BRA,Brazil,Moving Average 7d,59896.14,56197.27
+2022-07-18,BRA,Brazil,Moving Average 7d,59395.0,56656.29
+2022-07-19,BRA,Brazil,Moving Average 7d,60945.29,56923.86
+2022-07-20,BRA,Brazil,Moving Average 7d,57044.0,57791.98
+2022-07-21,BRA,Brazil,Moving Average 7d,56179.86,57684.31
+2022-07-22,BRA,Brazil,Moving Average 7d,53930.71,57668.35
+2022-07-23,BRA,Brazil,Moving Average 7d,51938.43,57431.94
+2022-07-24,BRA,Brazil,Moving Average 7d,36515.71,57047.06
+2022-07-25,BRA,Brazil,Moving Average 7d,41609.57,53707.0
+2022-07-26,BRA,Brazil,Moving Average 7d,41462.57,51166.22
+2022-07-27,BRA,Brazil,Moving Average 7d,40307.14,48382.98
+2022-07-28,BRA,Brazil,Moving Average 7d,37437.86,45992.0
+2022-07-29,BRA,Brazil,Moving Average 7d,35728.43,43314.57
+2022-07-30,BRA,Brazil,Moving Average 7d,34751.14,40714.24
+2022-07-31,BRA,Brazil,Moving Average 7d,40710.14,38258.92
+2022-08-01,BRA,Brazil,Moving Average 7d,33150.57,38858.12
+2022-08-02,BRA,Brazil,Moving Average 7d,34649.14,37649.69
+2022-08-03,BRA,Brazil,Moving Average 7d,33428.43,36676.35
+2022-08-04,BRA,Brazil,Moving Average 7d,32935.57,35693.67
+2022-08-05,BRA,Brazil,Moving Average 7d,31381.14,35050.49
+2022-08-06,BRA,Brazil,Moving Average 7d,30787.0,34429.45
+2022-08-07,BRA,Brazil,Moving Average 7d,29110.29,33863.14
+2022-08-08,BRA,Brazil,Moving Average 7d,28226.57,32206.02
+2022-08-09,BRA,Brazil,Moving Average 7d,26353.0,31502.59
+2022-08-10,BRA,Brazil,Moving Average 7d,25688.0,30317.43
+2022-08-11,BRA,Brazil,Moving Average 7d,25081.71,29211.65
+2022-08-12,BRA,Brazil,Moving Average 7d,24696.29,28089.67
+2022-08-13,BRA,Brazil,Moving Average 7d,22869.29,27134.69
+2022-08-14,BRA,Brazil,Moving Average 7d,21951.57,26003.59
+2022-08-15,BRA,Brazil,Moving Average 7d,22097.71,24980.92
+2022-08-16,BRA,Brazil,Moving Average 7d,21702.14,24105.37
+2022-08-17,BRA,Brazil,Moving Average 7d,20351.43,23440.96
+2022-08-18,BRA,Brazil,Moving Average 7d,19325.71,22678.59
+2022-08-19,BRA,Brazil,Moving Average 7d,18038.86,21856.31
+2022-08-20,BRA,Brazil,Moving Average 7d,17256.43,20905.24
+2022-08-21,BRA,Brazil,Moving Average 7d,16586.57,20103.41
+2022-08-22,BRA,Brazil,Moving Average 7d,16275.43,19336.98
+2022-08-23,BRA,Brazil,Moving Average 7d,16368.29,18505.22
+2022-08-24,BRA,Brazil,Moving Average 7d,16120.29,17743.24
+2022-08-25,BRA,Brazil,Moving Average 7d,15720.43,17138.8
+2022-08-26,BRA,Brazil,Moving Average 7d,15199.0,16623.76
+2022-08-27,BRA,Brazil,Moving Average 7d,15037.86,16218.06
+2022-08-28,BRA,Brazil,Moving Average 7d,14953.14,15901.12
+2022-08-29,BRA,Brazil,Moving Average 7d,14501.43,15667.78
+2022-08-30,BRA,Brazil,Moving Average 7d,14269.0,15414.35
+2022-08-31,BRA,Brazil,Moving Average 7d,15160.43,15114.45
+2022-09-01,BRA,Brazil,Moving Average 7d,14669.71,14977.33
+2022-09-02,BRA,Brazil,Moving Average 7d,14321.86,14827.22
+2022-09-03,BRA,Brazil,Moving Average 7d,13433.57,14701.92
+2022-09-04,BRA,Brazil,Moving Average 7d,12462.29,14472.73
+2022-09-05,BRA,Brazil,Moving Average 7d,12367.43,14116.9
+2022-09-06,BRA,Brazil,Moving Average 7d,13256.0,13812.04
+2022-09-07,BRA,Brazil,Moving Average 7d,11476.29,13667.33
+2022-09-08,BRA,Brazil,Moving Average 7d,10988.57,13141.02
+2022-09-09,BRA,Brazil,Moving Average 7d,9995.71,12615.14
+2022-09-10,BRA,Brazil,Moving Average 7d,8479.29,11997.12
+2022-09-11,BRA,Brazil,Moving Average 7d,8656.29,11289.37
+2022-09-12,BRA,Brazil,Moving Average 7d,8325.86,10745.65
+2022-09-13,BRA,Brazil,Moving Average 7d,6944.14,10168.29
+2022-09-14,BRA,Brazil,Moving Average 7d,8059.71,9266.59
+2022-09-15,BRA,Brazil,Moving Average 7d,7635.14,8778.51
+2022-09-16,BRA,Brazil,Moving Average 7d,8439.86,8299.45
+2022-09-17,BRA,Brazil,Moving Average 7d,9257.71,8077.18
+2022-09-18,BRA,Brazil,Moving Average 7d,8906.57,8188.39
+2022-09-19,BRA,Brazil,Moving Average 7d,7987.86,8224.14
+2022-09-20,BRA,Brazil,Moving Average 7d,8699.86,8175.86
+2022-09-21,BRA,Brazil,Moving Average 7d,8295.71,8426.67
+2022-09-22,BRA,Brazil,Moving Average 7d,8055.86,8460.39
+2022-09-23,BRA,Brazil,Moving Average 7d,7006.43,8520.49
+2022-09-24,BRA,Brazil,Moving Average 7d,6831.71,8315.71
+2022-09-25,BRA,Brazil,Moving Average 7d,6477.43,7969.14
+2022-09-26,BRA,Brazil,Moving Average 7d,6990.14,7622.12
+2022-09-27,BRA,Brazil,Moving Average 7d,6453.29,7479.59
+2022-09-28,BRA,Brazil,Moving Average 7d,6608.71,7158.65
+2022-09-29,BRA,Brazil,Moving Average 7d,6544.14,6917.65
+2022-09-30,BRA,Brazil,Moving Average 7d,6606.14,6701.69
+2022-10-01,BRA,Brazil,Moving Average 7d,6725.14,6644.51
+2022-10-02,BRA,Brazil,Moving Average 7d,6871.0,6629.29
+2022-10-03,BRA,Brazil,Moving Average 7d,6788.0,6685.51
+2022-10-04,BRA,Brazil,Moving Average 7d,6759.0,6656.63
+2022-10-05,BRA,Brazil,Moving Average 7d,6605.86,6700.31
+2022-10-06,BRA,Brazil,Moving Average 7d,6474.14,6699.9
+2022-10-07,BRA,Brazil,Moving Average 7d,6403.86,6689.9
+2022-10-08,BRA,Brazil,Moving Average 7d,6214.57,6661.0
+2022-10-09,BRA,Brazil,Moving Average 7d,6087.57,6588.06
+2022-10-10,BRA,Brazil,Moving Average 7d,5787.86,6476.14
+2022-10-11,BRA,Brazil,Moving Average 7d,5710.57,6333.27
+2022-10-12,BRA,Brazil,Moving Average 7d,5665.71,6183.49
+2022-10-13,BRA,Brazil,Moving Average 7d,5663.29,6049.18
+2022-10-14,BRA,Brazil,Moving Average 7d,5376.57,5933.35
+2022-10-15,BRA,Brazil,Moving Average 7d,4661.71,5786.59
+2022-10-16,BRA,Brazil,Moving Average 7d,4475.0,5564.76
+2022-10-17,BRA,Brazil,Moving Average 7d,4236.14,5334.39
+2022-10-18,BRA,Brazil,Moving Average 7d,4221.57,5112.71
+2022-10-19,BRA,Brazil,Moving Average 7d,4343.0,4900.0
+2022-10-20,BRA,Brazil,Moving Average 7d,4476.29,4711.04
+2022-10-21,BRA,Brazil,Moving Average 7d,4952.43,4541.47
+2022-10-22,BRA,Brazil,Moving Average 7d,5199.14,4480.88
+2022-10-23,BRA,Brazil,Moving Average 7d,4882.86,4557.65
+2022-10-24,BRA,Brazil,Moving Average 7d,4781.71,4615.92
+2022-10-25,BRA,Brazil,Moving Average 7d,4961.14,4693.86
+2022-10-26,BRA,Brazil,Moving Average 7d,5531.29,4799.51
+2022-10-27,BRA,Brazil,Moving Average 7d,5207.29,4969.27
+2022-10-28,BRA,Brazil,Moving Average 7d,5107.86,5073.69
+2022-10-29,BRA,Brazil,Moving Average 7d,5571.29,5095.9
+2022-10-30,BRA,Brazil,Moving Average 7d,5940.71,5149.06
+2022-10-31,BRA,Brazil,Moving Average 7d,5988.43,5300.18
+2022-07-01,BRA,Brazil,Linear Regression (AR lags),56020.86,57347.48
+2022-07-02,BRA,Brazil,Linear Regression (AR lags),56462.29,57364.17
+2022-07-03,BRA,Brazil,Linear Regression (AR lags),58699.57,57132.97
+2022-07-04,BRA,Brazil,Linear Regression (AR lags),58555.43,59219.99
+2022-07-05,BRA,Brazil,Linear Regression (AR lags),58826.29,59046.2
+2022-07-06,BRA,Brazil,Linear Regression (AR lags),57943.86,59227.06
+2022-07-07,BRA,Brazil,Linear Regression (AR lags),57651.43,58083.1
+2022-07-08,BRA,Brazil,Linear Regression (AR lags),57828.71,57693.13
+2022-07-09,BRA,Brazil,Linear Regression (AR lags),57387.43,57924.51
+2022-07-10,BRA,Brazil,Linear Regression (AR lags),56683.0,57071.75
+2022-07-11,BRA,Brazil,Linear Regression (AR lags),57522.0,56260.21
+2022-07-12,BRA,Brazil,Linear Regression (AR lags),54868.43,57112.66
+2022-07-13,BRA,Brazil,Linear Regression (AR lags),57797.71,54402.92
+2022-07-14,BRA,Brazil,Linear Regression (AR lags),56291.57,57482.29
+2022-07-15,BRA,Brazil,Linear Regression (AR lags),55585.57,56078.77
+2022-07-16,BRA,Brazil,Linear Regression (AR lags),54632.57,55040.22
+2022-07-17,BRA,Brazil,Linear Regression (AR lags),59896.14,54215.83
+2022-07-18,BRA,Brazil,Linear Regression (AR lags),59395.0,59841.66
+2022-07-19,BRA,Brazil,Linear Regression (AR lags),60945.29,59993.36
+2022-07-20,BRA,Brazil,Linear Regression (AR lags),57044.0,60743.62
+2022-07-21,BRA,Brazil,Linear Regression (AR lags),56179.86,56898.97
+2022-07-22,BRA,Brazil,Linear Regression (AR lags),53930.71,55929.28
+2022-07-23,BRA,Brazil,Linear Regression (AR lags),51938.43,54044.02
+2022-07-24,BRA,Brazil,Linear Regression (AR lags),36515.71,50903.8
+2022-07-25,BRA,Brazil,Linear Regression (AR lags),41609.57,34035.88
+2022-07-26,BRA,Brazil,Linear Regression (AR lags),41462.57,38775.8
+2022-07-27,BRA,Brazil,Linear Regression (AR lags),40307.14,40351.38
+2022-07-28,BRA,Brazil,Linear Regression (AR lags),37437.86,38282.26
+2022-07-29,BRA,Brazil,Linear Regression (AR lags),35728.43,35102.15
+2022-07-30,BRA,Brazil,Linear Regression (AR lags),34751.14,33219.96
+2022-07-31,BRA,Brazil,Linear Regression (AR lags),40710.14,34880.42
+2022-08-01,BRA,Brazil,Linear Regression (AR lags),33150.57,40566.03
+2022-08-02,BRA,Brazil,Linear Regression (AR lags),34649.14,32392.56
+2022-08-03,BRA,Brazil,Linear Regression (AR lags),33428.43,33385.25
+2022-08-04,BRA,Brazil,Linear Regression (AR lags),32935.57,33191.26
+2022-08-05,BRA,Brazil,Linear Regression (AR lags),31381.14,32707.22
+2022-08-06,BRA,Brazil,Linear Regression (AR lags),30787.0,31228.09
+2022-08-07,BRA,Brazil,Linear Regression (AR lags),29110.29,29414.29
+2022-08-08,BRA,Brazil,Linear Regression (AR lags),28226.57,28864.46
+2022-08-09,BRA,Brazil,Linear Regression (AR lags),26353.0,27538.14
+2022-08-10,BRA,Brazil,Linear Regression (AR lags),25688.0,25689.17
+2022-08-11,BRA,Brazil,Linear Regression (AR lags),25081.71,24928.55
+2022-08-12,BRA,Brazil,Linear Regression (AR lags),24696.29,24533.25
+2022-08-13,BRA,Brazil,Linear Regression (AR lags),22869.29,24102.88
+2022-08-14,BRA,Brazil,Linear Regression (AR lags),21951.57,22280.96
+2022-08-15,BRA,Brazil,Linear Regression (AR lags),22097.71,21303.91
+2022-08-16,BRA,Brazil,Linear Regression (AR lags),21702.14,21810.93
+2022-08-17,BRA,Brazil,Linear Regression (AR lags),20351.43,21473.42
+2022-08-18,BRA,Brazil,Linear Regression (AR lags),19325.71,19972.47
+2022-08-19,BRA,Brazil,Linear Regression (AR lags),18038.86,18815.42
+2022-08-20,BRA,Brazil,Linear Regression (AR lags),17256.43,17723.11
+2022-08-21,BRA,Brazil,Linear Regression (AR lags),16586.57,16995.63
+2022-08-22,BRA,Brazil,Linear Regression (AR lags),16275.43,16219.49
+2022-08-23,BRA,Brazil,Linear Regression (AR lags),16368.29,15869.52
+2022-08-24,BRA,Brazil,Linear Regression (AR lags),16120.29,16136.3
+2022-08-25,BRA,Brazil,Linear Regression (AR lags),15720.43,15975.54
+2022-08-26,BRA,Brazil,Linear Regression (AR lags),15199.0,15678.02
+2022-08-27,BRA,Brazil,Linear Regression (AR lags),15037.86,15213.31
+2022-08-28,BRA,Brazil,Linear Regression (AR lags),14953.14,15142.78
+2022-08-29,BRA,Brazil,Linear Regression (AR lags),14501.43,15114.29
+2022-08-30,BRA,Brazil,Linear Regression (AR lags),14269.0,14577.93
+2022-08-31,BRA,Brazil,Linear Regression (AR lags),15160.43,14324.07
+2022-09-01,BRA,Brazil,Linear Regression (AR lags),14669.71,15371.23
+2022-09-02,BRA,Brazil,Linear Regression (AR lags),14321.86,14946.84
+2022-09-03,BRA,Brazil,Linear Regression (AR lags),13433.57,14490.04
+2022-09-04,BRA,Brazil,Linear Regression (AR lags),12462.29,13558.02
+2022-09-05,BRA,Brazil,Linear Regression (AR lags),12367.43,12563.04
+2022-09-06,BRA,Brazil,Linear Regression (AR lags),13256.0,12525.96
+2022-09-07,BRA,Brazil,Linear Regression (AR lags),11476.29,13372.44
+2022-09-08,BRA,Brazil,Linear Regression (AR lags),10988.57,11470.83
+2022-09-09,BRA,Brazil,Linear Regression (AR lags),9995.71,10809.73
+2022-09-10,BRA,Brazil,Linear Regression (AR lags),8479.29,9965.88
+2022-09-11,BRA,Brazil,Linear Regression (AR lags),8656.29,8427.68
+2022-09-12,BRA,Brazil,Linear Regression (AR lags),8325.86,8614.16
+2022-09-13,BRA,Brazil,Linear Regression (AR lags),6944.14,8124.83
+2022-09-14,BRA,Brazil,Linear Regression (AR lags),8059.71,6780.26
+2022-09-15,BRA,Brazil,Linear Regression (AR lags),7635.14,7991.3
+2022-09-16,BRA,Brazil,Linear Regression (AR lags),8439.86,7773.54
+2022-09-17,BRA,Brazil,Linear Regression (AR lags),9257.71,8766.02
+2022-09-18,BRA,Brazil,Linear Regression (AR lags),8906.57,9678.69
+2022-09-19,BRA,Brazil,Linear Regression (AR lags),7987.86,9298.55
+2022-09-20,BRA,Brazil,Linear Regression (AR lags),8699.86,8484.92
+2022-09-21,BRA,Brazil,Linear Regression (AR lags),8295.71,9118.52
+2022-09-22,BRA,Brazil,Linear Regression (AR lags),8055.86,8871.64
+2022-09-23,BRA,Brazil,Linear Regression (AR lags),7006.43,8402.84
+2022-09-24,BRA,Brazil,Linear Regression (AR lags),6831.71,7125.1
+2022-09-25,BRA,Brazil,Linear Regression (AR lags),6477.43,6951.37
+2022-09-26,BRA,Brazil,Linear Regression (AR lags),6990.14,6781.17
+2022-09-27,BRA,Brazil,Linear Regression (AR lags),6453.29,7182.38
+2022-09-28,BRA,Brazil,Linear Regression (AR lags),6608.71,6655.17
+2022-09-29,BRA,Brazil,Linear Regression (AR lags),6544.14,6764.15
+2022-09-30,BRA,Brazil,Linear Regression (AR lags),6606.14,6903.69
+2022-10-01,BRA,Brazil,Linear Regression (AR lags),6725.14,6973.7
+2022-10-02,BRA,Brazil,Linear Regression (AR lags),6871.0,7173.12
+2022-10-03,BRA,Brazil,Linear Regression (AR lags),6788.0,7239.33
+2022-10-04,BRA,Brazil,Linear Regression (AR lags),6759.0,7234.53
+2022-10-05,BRA,Brazil,Linear Regression (AR lags),6605.86,7168.78
+2022-10-06,BRA,Brazil,Linear Regression (AR lags),6474.14,7026.04
+2022-10-07,BRA,Brazil,Linear Regression (AR lags),6403.86,6875.87
+2022-10-08,BRA,Brazil,Linear Regression (AR lags),6214.57,6786.97
+2022-10-09,BRA,Brazil,Linear Regression (AR lags),6087.57,6555.3
+2022-10-10,BRA,Brazil,Linear Regression (AR lags),5787.86,6416.99
+2022-10-11,BRA,Brazil,Linear Regression (AR lags),5710.57,6092.13
+2022-10-12,BRA,Brazil,Linear Regression (AR lags),5665.71,6018.44
+2022-10-13,BRA,Brazil,Linear Regression (AR lags),5663.29,5997.56
+2022-10-14,BRA,Brazil,Linear Regression (AR lags),5376.57,5991.79
+2022-10-15,BRA,Brazil,Linear Regression (AR lags),4661.71,5695.38
+2022-10-16,BRA,Brazil,Linear Regression (AR lags),4475.0,4908.0
+2022-10-17,BRA,Brazil,Linear Regression (AR lags),4236.14,4742.84
+2022-10-18,BRA,Brazil,Linear Regression (AR lags),4221.57,4526.87
+2022-10-19,BRA,Brazil,Linear Regression (AR lags),4343.0,4493.57
+2022-10-20,BRA,Brazil,Linear Regression (AR lags),4476.29,4608.88
+2022-10-21,BRA,Brazil,Linear Regression (AR lags),4952.43,4773.47
+2022-10-22,BRA,Brazil,Linear Regression (AR lags),5199.14,5395.66
+2022-10-23,BRA,Brazil,Linear Regression (AR lags),4882.86,5700.66
+2022-10-24,BRA,Brazil,Linear Regression (AR lags),4781.71,5374.91
+2022-10-25,BRA,Brazil,Linear Regression (AR lags),4961.14,5259.41
+2022-10-26,BRA,Brazil,Linear Regression (AR lags),5531.29,5480.89
+2022-10-27,BRA,Brazil,Linear Regression (AR lags),5207.29,6111.01
+2022-10-28,BRA,Brazil,Linear Regression (AR lags),5107.86,5681.31
+2022-10-29,BRA,Brazil,Linear Regression (AR lags),5571.29,5475.41
+2022-10-30,BRA,Brazil,Linear Regression (AR lags),5940.71,6074.4
+2022-10-31,BRA,Brazil,Linear Regression (AR lags),5988.43,6532.99
