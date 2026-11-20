@@ -1,0 +1,19 @@
+continent,continent_rank,location,iso_code,peak_cases_per_million
+Africa,1,Botswana,BWA,16485.54
+Africa,2,Mauritius,MUS,2745.01
+Africa,3,Tunisia,TUN,2255.9
+Asia,1,South Korea,KOR,11998.8
+Asia,2,Singapore,SGP,10318.79
+Asia,3,Israel,ISR,9368.63
+Europe,1,Slovenia,SVN,46721.14
+Europe,2,Portugal,PRT,38907.86
+Europe,3,France,FRA,37603.3
+North America,1,Puerto Rico,PRI,5287.61
+North America,2,Panama,PAN,4481.48
+North America,3,Costa Rica,CRI,4005.89
+Oceania,1,Australia,AUS,22472.93
+Oceania,2,New Zealand,NZL,14294.79
+Oceania,3,Papua New Guinea,PNG,78.21
+South America,1,Uruguay,URY,4014.26
+South America,2,Argentina,ARG,2981.88
+South America,3,Paraguay,PRY,2217.45

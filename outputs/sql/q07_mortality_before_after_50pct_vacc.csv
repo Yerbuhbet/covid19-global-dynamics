@@ -1,0 +1,7 @@
+continent,countries_with_50pct_vacc,mean_deaths_pm_before_50pct,mean_deaths_pm_after_50pct,pct_change
+South America,11,3.496,0.476,-86.4
+Asia,35,0.557,0.195,-65.0
+Africa,11,0.661,0.255,-61.4
+Europe,37,2.703,1.228,-54.6
+Oceania,15,0.515,0.243,-52.8
+North America,23,1.382,0.762,-44.8

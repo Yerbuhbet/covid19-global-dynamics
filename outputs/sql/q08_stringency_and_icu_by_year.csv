@@ -1,0 +1,19 @@
+continent,year,avg_stringency_index,avg_icu_patients,avg_new_deaths_per_million
+Africa,2020,48.25,441.8,0.134
+Africa,2021,45.59,662.0,0.615
+Africa,2022,26.84,113.9,0.113
+Asia,2020,54.0,94.9,0.326
+Asia,2021,57.52,429.4,1.074
+Asia,2022,29.3,261.0,0.296
+Europe,2020,47.59,485.3,1.916
+Europe,2021,50.68,628.1,3.42
+Europe,2022,18.85,282.6,1.761
+North America,2020,53.71,5597.0,0.91
+North America,2021,54.41,7321.0,2.131
+North America,2022,25.95,3093.1,1.066
+Oceania,2020,41.35,19.3,0.237
+Oceania,2021,45.78,80.9,0.542
+Oceania,2022,33.69,128.8,0.788
+South America,2020,62.34,1789.4,2.015
+South America,2021,60.7,1900.1,4.225
+South America,2022,24.8,369.0,1.004
