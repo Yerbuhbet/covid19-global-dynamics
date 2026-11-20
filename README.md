@@ -3,16 +3,21 @@
 Итоговый мини-проект по дисциплине *Programming for Data Analysis and Database* (Cluster 1: Exploratory Analytics, Time Series & Dashboards).
 
 - **Группа:** AAI-2606M (Astana IT University)
-- **Автор / Команда:** Yermukhamet Akbet *(при командной сдаче указать: Alen Smailov, Yermukhamet Akbet, Sayan Aukatov)*
+- **Команда:** Yermukhamet Akbet, Sayan Aukatov, Alen Smailov
 - **Источник данных:** Our World in Data (OWID) COVID-19 ETL Catalog — `compact.csv` (629 868 строк, 61 колонка, 176.74 МБ)
 - **Стек:** Python 3.x, Pandas, PyArrow (Parquet), SQLite, SciPy, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Plotly, Dash
+
+## Вклад участников
+- **Yermukhamet Akbet:** финальная архитектура и полная переработка пайплайна (`src/`), оптимизация данных (`chunksize`, Parquet, IQR-аудит), нормализация SQLite (3NF) и 9 SQL-запросов, детекция волн, leakage-free прогнозирование, интерактивный Dash-дашборд (OWID Explorer + 5 вкладок), финальная сборка отчёта и презентации.
+- **Sayan Aukatov:** первичный прототип проекта, базовое исследование датасета OWID, постановка аналитических гипотез и первичная проверка моделей.
+- **Alen Smailov:** черновая версия презентации и вспомогательные материалы для защиты.
 
 ## Структура проекта
 
 ```text
-covid19-akbet/
+covid19-global-dynamics/
 ├── data/
-│   ├── raw/                     # Исходный compact.csv (скачивается по ссылке, не коммитится)
+│   ├── raw/                     # Исходный compact.csv (скачивается по инструкции, не коммитится)
 │   └── processed/               # Очищенный Parquet и нормализованная БД covid.db
 ├── sql/
 │   ├── schema.sql               # DDL-схема (4 таблицы в 3NF + индексы)
@@ -31,17 +36,24 @@ covid19-akbet/
 ├── docs/
 │   ├── er_diagram.md            # ER-диаграмма БД (Mermaid)
 │   └── report.md                # Письменный отчёт по проекту
-├── app.py                       # Интерактивный веб-дашборд (Dash + Plotly)
+├── app.py                       # Интерактивный веб-дашборд (5 вкладок, OWID Explorer + SQLite)
 ├── requirements.txt             # Зафиксированные версии зависимостей
 └── README.md
 ```
+
+## Функционал интерактивного дашборда (`app.py`)
+1. **OWID Explorer:** 14 метрик (заболеваемость, смертность, вакцинация, бустеры, ICU, госпитализации, `stringency_index`, 4 показателя избыточной смертности) и 7 режимов отображения (`Map`, `Compare 2 Dates`, `Line`, `Year Overlay`, `Small Multiples` с зумом по клику, `Bar`, `Table`), правая панель поиска/сортировки стран, фильтрация карты по выбранным странам, таймлайн с анимацией `Play` и экспорт `Download CSV`.
+2. **Обзор и динамика (SQLite):** 3 глобальных фильтра (Год, Регион, Категория), KPI-карточки, динамика по континентам и Топ-10 стран с единой цветовой схемой.
+3. **Детекция волн:** анализ по любой стране, группе стран или пресету региона (Весь мир, Центральная Азия, Юго-Восточная Азия, Америка, континенты) — суммарно или в сравнении.
+4. **Вакцинация и прогноз:** scatter-анализ «Вакцинация vs Летальность CFR» и leakage-free сравнение 4 моделей прогнозирования с выделением лучшей модели.
+5. **SQL-витрина (`covid.db`):** интерактивный просмотр результатов всех 9 аналитических SQL-запросов.
 
 ## Инструкция по запуску с нуля
 
 ### 1. Клонирование и установка окружения
 ```bash
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-cd covid19-akbet
+git clone https://github.com/Yerbuhbet/covid19-global-dynamics.git
+cd covid19-global-dynamics
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install --upgrade pip
@@ -54,20 +66,14 @@ mkdir -p data/raw
 curl -L -o data/raw/compact.csv https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv
 ```
 
-### 3. Запуск пайплайна (два способа)
-
-**Способ А — пошагово (или через меню `python -m src.main`):**
+### 3. Запуск пайплайна
 ```bash
 python -m src.data_loader        # Шаг 1: chunksize, очистка, Parquet, IQR, бенчмарк CSV vs Parquet
 python -m src.database           # Шаг 2: SQLite (4 таблицы) + 9 SQL-запросов -> outputs/sql/
 python -m src.analytics          # Шаг 3: EDA, декомпозиция, heatmap, детекция волн, Plotly HTML
 python -m src.forecasting        # Шаг 4: Прогнозирование без data leakage (MAE/RMSE/nMAE)
 ```
-
-**Способ Б — интерактивное консольное меню:**
-```bash
-python -m src.main
-```
+*(Либо через интерактивное консольное меню: `python -m src.main`)*
 
 ### 4. Запуск интерактивного дашборда Dash
 ```bash
