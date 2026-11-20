@@ -1,0 +1,133 @@
+{
+  "cleaning_report": {
+    "invalid_dates_dropped": 0,
+    "duplicates_dropped": 0,
+    "negative_values_set_to_nan": {},
+    "total_rows_after_dedup": 629868,
+    "country_rows": 581313,
+    "aggregate_rows": 48555,
+    "unique_countries": 237,
+    "unique_aggregates": 25,
+    "date_min": "2020-01-01",
+    "date_max": "2026-10-18"
+  },
+  "memory_optimization": {
+    "memory_before_mb": 281.61,
+    "memory_after_mb": 133.61,
+    "memory_saved_pct": 52.55
+  },
+  "shape": {
+    "rows": 581313,
+    "columns": 61
+  },
+  "dtypes_counts": {
+    "float32": 57,
+    "category": 3,
+    "datetime64[us]": 1
+  },
+  "overall_missing_pct": 54.22,
+  "top_10_missing_columns": {
+    "human_development_index": 100.0,
+    "weekly_icu_admissions_per_million": 98.11,
+    "weekly_icu_admissions": 98.11,
+    "excess_mortality": 97.62,
+    "excess_mortality_cumulative_absolute": 97.62,
+    "excess_mortality_cumulative_per_million": 97.62,
+    "excess_mortality_cumulative": 97.62,
+    "weekly_hosp_admissions_per_million": 96.62,
+    "weekly_hosp_admissions": 96.62,
+    "icu_patients_per_million": 94.01
+  },
+  "descriptive_stats": {
+    "new_cases": {
+      "count": 570468,
+      "mean": 1365.88,
+      "std": 29543.5,
+      "min": 0.0,
+      "median": 0.0,
+      "max": 6966046.0,
+      "missing_pct": 1.87
+    },
+    "new_deaths": {
+      "count": 571731,
+      "mean": 12.45,
+      "std": 127.33,
+      "min": 0.0,
+      "median": 0.0,
+      "max": 44047.0,
+      "missing_pct": 1.65
+    },
+    "total_cases": {
+      "count": 575360,
+      "mean": 2335023.0,
+      "std": 9232528.0,
+      "min": 0.0,
+      "median": 74610.0,
+      "max": 103436832.0,
+      "missing_pct": 1.02
+    },
+    "total_deaths": {
+      "count": 575360,
+      "mean": 23873.16,
+      "std": 92399.0,
+      "min": 0.0,
+      "median": 900.0,
+      "max": 1240149.0,
+      "missing_pct": 1.02
+    },
+    "new_cases_per_million": {
+      "count": 570468,
+      "mean": 84.87,
+      "std": 927.73,
+      "min": 0.0,
+      "median": 0.0,
+      "max": 230762.55,
+      "missing_pct": 1.87
+    },
+    "new_deaths_per_million": {
+      "count": 571731,
+      "mean": 0.52,
+      "std": 3.96,
+      "min": 0.0,
+      "median": 0.0,
+      "max": 608.64,
+      "missing_pct": 1.65
+    },
+    "people_fully_vaccinated_per_hundred": {
+      "count": 60346,
+      "mean": 46.8,
+      "std": 29.97,
+      "min": 0.0,
+      "median": 53.84,
+      "max": 110.19,
+      "missing_pct": 89.62
+    },
+    "population": {
+      "count": 578833,
+      "mean": 34268152.0,
+      "std": 137195888.0,
+      "min": 513.0,
+      "median": 5473195.0,
+      "max": 1425423232.0,
+      "missing_pct": 0.43
+    },
+    "gdp_per_capita": {
+      "count": 488142,
+      "mean": 28300.96,
+      "std": 27502.3,
+      "min": 1066.51,
+      "median": 18778.65,
+      "max": 139592.61,
+      "missing_pct": 16.03
+    },
+    "stringency_index": {
+      "count": 201664,
+      "mean": 42.64,
+      "std": 24.94,
+      "min": 0.0,
+      "median": 42.59,
+      "max": 100.0,
+      "missing_pct": 65.31
+    }
+  }
+}

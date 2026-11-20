@@ -1,0 +1,7 @@
+column,scope,n_evaluated,q1,median,q3,iqr,lower_bound,upper_bound,outlier_count,outlier_pct,max_value
+new_cases,positive_only (>0),171097,20.0,146.0,1065.0,1045.0,-1547.5,2632.5,26600,15.55,6966046.0
+new_deaths,positive_only (>0),98984,2.0,8.0,34.0,32.0,-46.0,82.0,13871,14.01,44047.0
+new_cases_per_million,positive_only (>0),171097,3.06,27.89,151.15,148.09,-219.07,373.28,22402,13.09,230762.55
+new_deaths_per_million,positive_only (>0),98984,0.2,0.77,2.54,2.33,-3.29,6.04,11581,11.7,608.64
+people_fully_vaccinated_per_hundred,all_non_null,60346,17.79,53.84,73.9,56.11,-66.37,158.06,0,0.0,110.19
+gdp_per_capita,all_non_null,488142,7014.85,18778.65,44172.04,37157.2,-48720.95,99907.84,13623,2.79,139592.61

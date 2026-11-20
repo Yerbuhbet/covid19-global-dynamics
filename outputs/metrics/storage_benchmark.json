@@ -1,0 +1,20 @@
+{
+  "csv": {
+    "rows": 629868,
+    "full_read_seconds": 0.542,
+    "subset_10cols_seconds": 0.33,
+    "ram_mb": 311.11,
+    "file_size_mb": 176.74
+  },
+  "parquet": {
+    "rows": 581313,
+    "full_read_seconds": 0.034,
+    "subset_10cols_seconds": 0.016,
+    "ram_mb": 133.61,
+    "file_size_mb": 17.84
+  },
+  "full_read_speedup_x": 15.87,
+  "subset_read_speedup_x": 21.15,
+  "ram_reduction_pct": 57.05,
+  "size_reduction_x": 9.91
+}
